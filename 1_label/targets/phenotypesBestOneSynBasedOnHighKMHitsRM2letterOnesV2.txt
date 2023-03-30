@@ -1,0 +1,8921 @@
+1-minute apgar score of 0
+1-minute apgar score of 3
+1-minute apgar score of 4
+1-minute apgar score of 6
+11 pairs of ribs
+2-hydroxyglutaric aciduria
+3-4 finger syndactyly
+3-hydroxydicarboxylic aciduria
+3-methylglutaconic aciduria
+3-methylglutaric aciduria
+3c syndrome
+3mc syndrome
+46, xy gonadal dysgenesis
+46,xy sex reversal
+5-minute apgar score of 0
+5-minute apgar score of 3
+5-minute apgar score of 5
+5-minute apgar score of 6
+5-oxoprolinase deficiency
+5th finger camptodactyly
+6 metacarpals
+9q- syndrome
+Desmoplastic infantile astrocytoma
+Developmental motor delay
+EDA
+Proliferative Inflammatory Atrophy
+Reticulum cell sarcoma
+a v dissociation
+abasia
+abc
+abdominal aortic calcification
+abdominal aura
+abdominal comfort
+abdominal discomfort
+abdominal distension
+abdominal ectopia cordis
+abdominal hernia
+abdominal mass
+abdominal muscular hypoplasia
+abdominal obesity metabolic syndrome
+abdominal pain
+abdominal symptoms
+abdominal tension
+abdominal wall defect
+abdominal wall hernia
+abducens palsy
+abducted thumb
+aberrant right subclavian artery
+abnormal albumin level
+abnormal alpha granules
+abnormal amniotic fluid
+abnormal arterial blood gas
+abnormal aryepiglottic folds
+abnormal atrioventricular conduction
+abnormal atrioventricular connection
+abnormal auditory evoked potentials
+abnormal b cell proliferation
+abnormal b cell subset distribution
+abnormal b cells
+abnormal body mass index
+abnormal bone structure
+abnormal bowel sounds
+abnormal capillary morphology
+abnormal cardiac catheterization
+abnormal cardiac mri
+abnormal cardiac test
+abnormal cartilage matrix
+abnormal cd4:cd8 ratio
+abnormal cell morphology
+abnormal cell proliferation
+abnormal cellular phenotype
+abnormal cellular physiology
+abnormal cervical curvature
+abnormal chest sounds
+abnormal cholesterol homeostasis
+abnormal chromosome morphology
+abnormal ciliary motility
+abnormal clavicles
+abnormal cns myelination
+abnormal coagulation profile
+abnormal color vision
+abnormal cry
+abnormal csf
+abnormal delivery
+abnormal dense granules
+abnormal dentin
+abnormal diffusing capacity
+abnormal drinking behavior
+abnormal eating behavior
+abnormal echocardiography
+abnormal ejaculation
+abnormal electroretinograph
+abnormal enchondral ossification
+abnormal energy expenditure
+abnormal eog
+abnormal erg
+abnormal erythrocyte
+abnormal estrogen level
+abnormal exercise test
+abnormal exocrine pancreatic function
+abnormal external genitalia
+abnormal eye
+abnormal eye morphology
+abnormal face
+abnormal facial expression
+abnormal female external genitalia
+abnormal fingernails
+abnormal follicular morphology
+abnormal foveal morphology
+abnormal gastrointestinal motility
+abnormal genesis
+abnormal glomerular filtration rate
+abnormal glucose
+abnormal glucose homeostasis
+abnormal glucose tolerance
+abnormal glycosylation
+abnormal growth
+abnormal gyration
+abnormal hair pattern
+abnormal head
+abnormal head movements
+abnormal hearing
+abnormal heart rate
+abnormal heart sound
+abnormal helix
+abnormal hemoglobin
+abnormal homeostasis
+abnormal inflammatory response
+abnormal insulin level
+abnormal internal genitalia
+abnormal intraocular pressure
+abnormal involuntary eye movements
+abnormal involuntary movements
+abnormal kidney
+abnormal levels of alpha-fetoprotein
+abnormal liver
+abnormal liver enzymes
+abnormal liver function tests
+abnormal liver morphology
+abnormal lung morphology
+abnormal lymphocyte apoptosis
+abnormal lymphocyte count
+abnormal lymphocyte proliferation
+abnormal lymphocytes
+abnormal lysosomal morphology
+abnormal magnesium metabolism
+abnormal maternal serum screening
+abnormal megakaryocyte morphology
+abnormal meiosis
+abnormal mitochondria in muscle
+abnormal mitochondrial morphology
+abnormal motor evoked potentials
+abnormal motor nerve conduction velocity
+abnormal mouth
+abnormal mucociliary clearance
+abnormal muscle tone
+abnormal myelination
+abnormal nail growth
+abnormal nerve conduction study
+abnormal nervous system morphology
+abnormal neuronal morphology
+abnormal neutrophil count
+abnormal nk cells
+abnormal nucleoside levels
+abnormal number of teeth
+abnormal ocular movement
+abnormal odontoid process
+abnormal optical coherence tomography
+abnormal oral glucose tolerance
+abnormal ovarian morphology
+abnormal p wave
+abnormal pattern electroretinogram
+abnormal peristalsis
+abnormal philtrum
+abnormal pigment
+abnormal placenta
+abnormal plasma renin
+abnormal platelet
+abnormal platelet aggregation
+abnormal platelet count
+abnormal platelet function
+abnormal platelet morphology
+abnormal podocyte morphology
+abnormal posture
+abnormal pr interval
+abnormal protein glycosylation
+abnormal pulmonary circulation
+abnormal pulmonary function test
+abnormal pulse pressure
+abnormal pupillary function
+abnormal pupillary light reflex
+abnormal qrs complex
+abnormal qrs voltage
+abnormal qt interval
+abnormal reflex
+abnormal rem sleep
+abnormal respiratory patterns
+abnormal respiratory sounds
+abnormal retinal morphology
+abnormal retinal pigment
+abnormal retinal pigmentation
+abnormal second heart sound
+abnormal serum enzyme levels
+abnormal serum estradiol
+abnormal serum ferritin
+abnormal serum iron
+abnormal sex determination
+abnormal shape of the head
+abnormal skeletal development
+abnormal smooth pursuit
+abnormal social behavior
+abnormal social interactions
+abnormal sperm development
+abnormal sperm motility
+abnormal spermatozoa
+abnormal spine
+abnormal sputum
+abnormal st segment
+abnormal stereopsis
+abnormal sweat electrolytes
+abnormal synaptic transmission
+abnormal t cell activation
+abnormal t cell proliferation
+abnormal t cell subset distribution
+abnormal t cells
+abnormal test results
+abnormal thrombosis
+abnormal thyroid function
+abnormal thyroid-stimulating hormone level
+abnormal tongue
+abnormal transferrin isoelectric focusing
+abnormal transferrin saturation
+abnormal treadmill test
+abnormal tumor markers
+abnormal type ii collagen
+abnormal u wave
+abnormal umbilical cord
+abnormal urine cytology
+abnormal vascular morphology
+abnormal vascular physiology
+abnormal vein
+abnormal ventricular filling
+abnormal ventriculo-arterial connection
+abnormal vertebral bodies
+abnormal vertebral morphology
+abnormal vestibulo-ocular reflex
+abnormal visual electrophysiology
+abnormal visual evoked potentials
+abnormal visual field test
+abnormal voice
+abnormal weight gain
+abnormal white cell
+abnormal white cell count
+abnormal zinc metabolism
+abnormalities cardiac
+abnormalities cardiovascular
+abnormalities hair
+abnormalities joint
+abnormalities limb
+abnormalities nail
+abnormalities of the biliary system
+abnormalities skull
+abnormalities uterine
+abnormalities vascular
+abnormalities, chromosome
+abnormalities, genitourinary
+abnormalities, skin
+abnormality
+abnormality of adipose tissue
+abnormality of calcium homeostasis
+abnormality of central motor conduction
+abnormality of cholesterol metabolism
+abnormality of connective tissue
+abnormality of dna repair
+abnormality of fatty acid metabolism
+abnormality of folate metabolism
+abnormality of glycosphingolipid metabolism
+abnormality of lipid metabolism
+abnormality of methionine metabolism
+abnormality of neuromuscular transmission
+abnormality of prothrombin
+abnormality of somatosensory evoked potentials
+abnormality of the abdominal wall
+abnormality of the alternative complement pathway
+abnormality of the anterior segment of the eye
+abnormality of the aorta
+abnormality of the aortic valve
+abnormality of the autonomic nervous system
+abnormality of the brain
+abnormality of the breast
+abnormality of the cell cycle
+abnormality of the central nervous system
+abnormality of the cerebral cortex
+abnormality of the cerebrum
+abnormality of the chest
+abnormality of the endometrium
+abnormality of the epiglottis
+abnormality of the facial nerve
+abnormality of the femoral head
+abnormality of the fibrinolytic system
+abnormality of the forearm
+abnormality of the fundus
+abnormality of the gastric mucosa
+abnormality of the gastrointestinal tract
+abnormality of the hip joint
+abnormality of the hips
+abnormality of the hypothalamus
+abnormality of the jejunum
+abnormality of the knee
+abnormality of the left ventricular outflow tract
+abnormality of the lower urinary tract
+abnormality of the lungs
+abnormality of the lymphatic system
+abnormality of the malleus
+abnormality of the mediastinum
+abnormality of the mitral valve
+abnormality of the myocardium
+abnormality of the neck
+abnormality of the pancreas
+abnormality of the penis
+abnormality of the pharynx
+abnormality of the pulmonary vasculature
+abnormality of the rectum
+abnormality of the renal artery
+abnormality of the scalp
+abnormality of the sella turcica
+abnormality of the shoulder
+abnormality of the small intestine
+abnormality of the spinal cord
+abnormality of the spleen
+abnormality of the stapes
+abnormality of the stomach
+abnormality of the striatum
+abnormality of the substantia nigra
+abnormality of the temporal bone
+abnormality of the testis
+abnormality of the thalamus
+abnormality of the trachea
+abnormality of the tricuspid valve
+abnormality of the tympanic membrane
+abnormality of the upper respiratory tract
+abnormality of the upper urinary tract
+abnormality of the urethra
+abnormality of the wrist
+abnormality of thrombin
+abnormality of tryptophan metabolism
+abnormality of tyrosine metabolism
+abnormality of vision
+abnormality of vitamin d metabolism
+abnormality of von willebrand factor
+abnormally shaped skull
+abnormally shaped vertebrae
+aborted sudden cardiac death
+abscess dental
+abscess skin
+absence of a tooth
+absence of acoustic reflex
+absence of alpha granules
+absence of b cells
+absence of canine
+absence of cd8+ t cells
+absence of diaphragm
+absence of external ear
+absence of frontal sinuses
+absence of hand
+absence of incisors
+absence of intrinsic factor
+absence of lactation
+absence of liver
+absence of mandible
+absence of mature b cells
+absence of memory b cells
+absence of molar
+absence of nail
+absence of permanent teeth
+absence of pubertal development
+absence of rib
+absence of scalp hair
+absence of secondary sex characteristics
+absence of septum pellucidum
+absence of subcutaneous fat
+absence of testes
+absence of the colon
+absence of the nasal bone
+absence of the parotid gland
+absence of the pulmonary artery
+absence of the pulmonary valve
+absence of tongue
+absence of tooth root
+absence of vas deferens
+absence of visual evoked potentials
+absence seizures
+absent ankle reflexes
+absent aortic valve
+absent arm
+absent biceps
+absent bladder
+absent breast
+absent cervix
+absent clavicles
+absent distal phalanges
+absent ear
+absent electroretinogram
+absent epiglottis
+absent external genitalia
+absent extraocular muscles
+absent femoral head
+absent fibula
+absent finger
+absent first metacarpal
+absent foot
+absent forearm
+absent foveal reflex
+absent hair
+absent hallux
+absent inner dynein arms
+absent kidney
+absent lacrimal puncta
+absent left main coronary artery
+absent lower eyelashes
+absent lunula
+absent malleus
+absent mandible
+absent middle phalanges
+absent molars
+absent muscle
+absent musculature
+absent nasal bridge
+absent nasal septum
+absent nipple
+absent optic nerve
+absent or hypoplastic thumbs
+absent ovary
+absent patella
+absent patellar reflexes
+absent pectoralis major muscle
+absent pubertal growth spurt
+absent radius
+absent retinal pigment epithelium
+absent right superior vena cava
+absent scaphoid
+absent skin
+absent smooth pursuit
+absent soft palate
+absent spinal cord
+absent spleen
+absent stapes
+absent tendon reflexes
+absent testis
+absent thumb
+absent thymus
+absent tibia
+absent toe
+absent tonsils
+absent triceps
+absent ulna
+absent uvula
+absent vagina
+absent vertebrae
+absent vestibular function
+abulia
+abuse tobacco
+aca positivity
+acanthocytosis
+acantholysis
+acanthoma
+acanthosis
+acanthosis nigricans
+acc
+accelerated atherosclerosis
+accessory auricle
+accessory carpal bone
+accessory fallopian tube
+accessory scrotum
+accessory spleen
+accommodative esotropia
+accumulation of melanosomes in melanocytes
+acephalic spermatozoa
+acephalus
+acetabular abnormality
+acetabular hypoplasia
+acetabular spurs
+acf
+achalasia
+achilles tendinitis
+achilles tendon calcification
+acholic stools
+achondrogenesis
+achromasia
+achromatopsia
+acid base imbalance
+acid clearance
+acid phosphatase elevated
+acid stones
+acid-base balance disorder
+acid-labile subunit deficiency
+acidemia propionic
+acidosis
+aciduria
+acn
+acne
+acquired coagulation factor deficiency
+acquired hemolytic anemia
+acquired pes
+acral blistering
+acral lentiginous melanoma
+acrania
+acro osteolysis
+acro-osteolysis of distal phalanges
+acrocyanosis
+acrodysostosis
+acrokeratosis
+acromegaly
+acromegaly gigantism
+acromelia
+acromesomelia
+acroparesthesia
+acth deficiency
+acth excess
+acth-dependent hypercortisolemia
+actinic keratosis
+activated protein c resistance
+active behavior
+active bowel sounds
+acuity loss visual
+acute (transverse) myelitis
+acute and chronic tonsillitis
+acute aspiration pneumonia
+acute bronchitis
+acute bronchitis and bronchiolitis
+acute bronchospasm
+acute carditis
+acute colitis
+acute constipation
+acute cyst
+acute cystitis
+acute demyelinating neuropathy
+acute demyelinating polyneuropathy
+acute deterioration of visual acuity
+acute disseminated intravascular coagulation
+acute encephalopathy
+acute esophageal necrosis
+acute fatty liver
+acute gastritis
+acute graft versus host disease
+acute hemorrhagic anemia
+acute hepatitis
+acute hyperammonemia
+acute infantile spinal muscular atrophy
+acute infectious pneumonia
+acute inflammatory pelvic disease
+acute leukemia
+acute liver failure
+acute lymphoblast leukemia
+acute monocytic leukemia
+acute myeloblast leukemia
+acute myeloid leukemia
+acute necrotizing encephalopathy
+acute onset
+acute osteomyelitis
+acute pain
+acute pericarditis
+acute pharyngitis
+acute pre b-cell lymphoblastic leukemia
+acute prostatitis
+acute reaction to stress
+acute renal failure
+acute respiratory acid
+acute respiratory acidosis
+acute respiratory tract infection
+acute rhabdomyolysis
+acute rheumatic heart disease
+acute severe asthma
+acute sinus
+acute tubulointerstitial nephritis
+acv
+adactyly
+add
+addiction
+adducted thumbs
+adduction
+adenocarcinoma colon
+adenocarcinoma of the vulva
+adenocarcinoma small bowel
+adenohypophysis
+adenoid hypertrophy
+adenoiditis
+adenoma adrenal
+adenomatous colonic polyposis
+adenomatous polyposis
+adermatoglyphia
+adipocyte hypertrophy
+adipose tissue loss
+adipose tissue tumor
+adjustment reaction
+adolescent kyphosis
+adrenal abnormalities
+adrenal calcification
+adrenal carcinoma
+adrenal disease
+adrenal function
+adrenal hyperfunction
+adrenal hyperplasia
+adrenal hypoplasia
+adrenal insufficiency
+adrenal overactivity
+adrenal tumor
+adrenocortical abnormality
+adrenocortical cytomegaly
+adrenocortical hypoplasia
+adrenocortical tumor
+adrenocorticotropic hormone
+adrenocorticotropic hormone-resistant adrenal insufficiency
+adult onset
+advanced bone age
+advanced carpal ossification
+advanced sleep phase syndrome
+affect disorders
+affective auras
+afro-textured hair
+against the rule astigmatism
+agammaglobulinemia
+age at death
+age dependent penetrance
+age related hearing loss
+age related osteoporosis
+age-related cataract
+age-related cortical cataract
+age-related macular generation
+age-related nuclear cataract
+aged facial appearance
+agenesis gallbladder
+agenesis of the anterior commissure
+agenesis of the carotid canal
+agenesis of the lower vagina
+agenesis of the nasal bone
+aggravated by activity
+aggression
+aggressive behavior
+aggressive periodontitis
+aggressive/violent behavior
+agitation
+agnathia
+agnosia
+agoraphobia
+agraphesthesia
+ags
+agu
+agyria
+ainhum
+akinesia
+akinetic mutism
+alacrima
+alaninemia
+alar cleft
+albinism
+albuminemia
+albuminuria
+alcohol liver damage
+alcohol related disorders
+alcohol-induced rhabdomyolysis
+alcoholic liver damage
+alcoholism
+aldosteronism primary
+aldosteronism secondary
+alexithymia
+alkaline phosphatase increased
+alkalosis
+allergic conjunctivitis
+allergic reaction to food
+allergic rhinitis
+allergies, other
+allergy
+allergy nasal
+allergy pollen
+allodynia
+almond shaped eyes
+alobar holoprosencephaly
+alopecia
+alopecia androgenetic
+alpha 1 antitrypsin deficiency
+alpha cell tumor
+alpha lipoproteinemia
+alpha-eeg
+als
+alternating esotropia
+alternating hemiplegia
+alternating hyperphoria
+alternating strabismus
+altitudinal visual field defect
+altman type iii sacrococcygeal teratoma
+alveolar bone loss
+alveolar cell carcinoma
+alveolar proteinosis
+alveolar ridge cleft
+alveolar synechiae
+alzheimer disease
+amaurosis fugax
+ambiguous atrioventricular connection
+ambiguous genitalia
+amblyopia
+amegakaryocytic thrombocytopenia
+amelia
+amelogenesis imperfecta
+amenorrhea
+aminoglycoside-induced hearing loss
+ammonemia
+amniotic band
+amniotic sheet
+ampullary carcinoma
+amyloid
+amyloidosis liver
+amyloidosis, systemic
+amyotrophic later sclerosis
+anaemia
+anagen effluvium
+anal abscess
+anal canal adenocarcinoma
+anal canal squamous cell carcinoma
+anal canal tumor
+anal fissure
+anal fistula
+anal stenosis
+analgesia
+anaphylaxis
+anaplastic large cell lymphoma
+anaplastic thyroid carcinoma
+anarthria
+anauxetic dysplasia
+androgen deficiency
+anejaculation
+anemia deficiency
+anemia folate deficiency
+anemia in chronic kidney disease
+anemia pregnancy
+anemia, erythropoietic
+anencephaly
+aneurysm
+aneurysm disease
+aneurysm of iliac artery
+aneurysm of the membranous ventricular septum
+aneurysm, coronary
+aneurysmal disease
+aneurysms intracranial
+angelman syndrome
+angina
+angiocarcinoma
+angioedema
+angiofibroma
+angioid streaks
+angiokeratoma
+angiolysis
+angiomyolipoma
+angiosarcoma
+angitis
+angle closure glaucoma
+angular cheilitis
+anhedonia
+anhidrosis
+aniridia
+anisocoria
+anisocytosis
+anisometropia
+anisopoikilocytosis
+anisospondyly
+ankle clonus
+ankle contracture
+ankle pain
+ankle stiffness
+ankle swelling
+ankle weakness
+ankyloblepharon
+ankyloblepharon filiforme adnatum
+ankyloglossia
+ankylosing spondylitis
+ankylosis
+annular pancreas
+anomalous atrioventricular excitation
+anomalous left coronary artery from the pulmonary artery
+anomalous muscle bundle of the right ventricle
+anomalous origin of coronary artery from the pulmonary artery
+anomalous origin of the left circumflex artery from the right coronary artery
+anomalous origin of the right subclavian artery from the descending aorta
+anomalous pulmonary venous return
+anomalous trichromacy
+anomaly of the biliary tract
+anomaly of the gallbladder
+anomaly, ebstein
+anomia
+anoperineal fistula
+anophthalmia
+anopia
+anopsia
+anorectal malformations
+anorexia
+anorexia nervosa
+anosmia
+antecubital pterygium
+antenatal intracerebral hemorrhage
+antenatal onset
+antepartum hemorrhage
+anterior atlanto-occipital dislocation
+anterior basal encephalocele
+anterior blepharitis
+anterior capsular cataract
+anterior cerebral artery stenosis
+anterior cervical hypertrichosis
+anterior chamber anomalies
+anterior chamber cells
+anterior chamber cyst
+anterior chamber flare
+anterior chamber inflammatory cells
+anterior chamber red blood cells
+anterior cortical cataract
+anterior displacement of the papillary muscles
+anterior encephalocele
+anterior horn cell disease
+anterior horn cells
+anterior hypopituitarism
+anterior lenticonus
+anterior occlusion
+anterior open bite
+anterior open-bite malocclusion
+anterior pituitary hypoplasia
+anterior plagiocephaly
+anterior position of the maxilla
+anterior radial head dislocation
+anterior sacral meningocele
+anterior segment dysgenesis
+anterior staphyloma
+anterior subcapsular cataract
+anterior synechiae
+anterior uveitis
+anterior vertebral fusion
+anterior wedging
+anteriorly placed anus
+anterolateral radial head dislocation
+anteverted ears
+anteverted nares
+anti-gad antibody positivity
+anti-lkm-1 positive
+anti-mnd antibodies
+anti-musk antibodies
+antidromic atrioventricular reentrant tachycardia
+antimitochondrial antibody positivity
+antineutrophil antibodies
+antinuclear antibodies
+antiphospholipid antibodies
+antithrombin deficiency
+anuria
+anus position
+anxiety disease
+anxiety disorders
+aoi
+aortic aneurysm
+aortic arch abnormalities
+aortic arch aneurysm
+aortic arch calcification
+aortic arch dilatation
+aortic arch hypoplasia
+aortic arch obstruction
+aortic atherosclerosis
+aortic atresia
+aortic calcification
+aortic dilatation
+aortic dissection
+aortic diverticulum
+aortic root aneurysm
+aortic root dilatation
+aortic rupture
+aortic section
+aortic sinus aneurysm
+aortic stenosis
+aortic stiffness
+aortic tortuosity
+aortic valve calcification
+aortic valve disease
+aortic valve prolapse
+aorto-ventricular tunnel
+aos
+apathy
+apc
+aphakia
+aphasia
+aphthous stomatitis
+apical lesion
+apical muscular ventricular septal defect
+aplasia of the parotid gland
+aplasia of the pituitary gland
+aplasia of the upper vagina
+aplasia of the vagina
+aplasia/hypoplasia of the thymus
+aplasia/hypoplasia of the tibia
+aplastic anemia
+apnea
+apocrine hidrocystoma
+appendiceal mucinous neoplasm
+appendicitis
+appendicular hypotonia
+appetite decreased
+apraxia
+aprosencephaly
+apudomas
+aquagenic urticaria
+aqueductal stenosis
+arachnodactyly
+arachnoid cyst
+arachnoid hemorrhage
+arched eyebrows
+arcs
+arcuate defects
+arcus juvenilis
+areflexia
+areflexia of the lower limbs
+arginine deficiency
+argininuria
+argyrophilic inclusion bodies
+arhinencephaly
+arm edema
+arm fractures
+arm pain
+arms
+arrest cardiopulmonary
+arrhythmias
+arrhythmias, supraventricular
+arrhythmias, ventricular
+arrhythmogenic right ventricular cardiomyopathy
+arterial abnormalities
+arterial calcification
+arterial embolism and thrombosis
+arterial intimal fibrosis
+arterial section
+arterial thrombosis
+arterial tortuosity
+arterial ventricular septal defect
+arteriovenous fistula
+arteriovenous malformations
+arteriovenous malformations spinal
+arteriovenous malformations, cerebral
+arteritis
+arteritis nodosa
+artery dissection
+artery occlusion
+artery occlusion retinal
+artery rupture
+artery stenosis
+arthralgia/arthritis
+arthritis gout
+arthritis psoriatic
+arthritis, crystal
+arthrogryposis
+arthropod-borne diseases
+articular arthritis
+articular arthropathy
+articular calcification
+articular cartilage disease
+articular chondrocalcinosis
+ascending aorta dilatation
+ascending aorta dilation
+ascending aortic aneurysm
+ascending aortic dissection
+ascites
+ascvd
+asd
+aseptic bone necrosis
+aseptic leukocyturia
+ash
+ash-leaf spot
+aspergillosis
+asphyxia birth
+aspiration
+aspiration pneumonia
+aspirin induced asthma
+asps
+astasia
+asterixis
+asternia
+asteroid hyalosis
+asthma exercise induced
+asthma with exacerbation
+asthmatic
+astigmatism
+astrocytoma
+astrocytoma, subependymal giant cell
+asymmetric chest
+asymmetric ears
+asymmetric growth
+asymmetric head
+asymmetric overgrowth
+asymmetric ventricles
+asymmetry of head
+asymmetry of nostrils
+asymmetry of the breasts
+asymmetry of the mandible
+asymmetry of the mouth
+asymptomatic hyperammonemia
+asynergia
+ataxia
+ataxia telangiectasia like disorder
+ataxia, progressive
+ataxia, spinocerebellar
+ataxic tremor
+atherosclerotic cardiovascular disease
+atherosclerotic lesion
+athetosis
+athymia
+atlantoaxial instability
+atlantoaxial luxation
+atlantoaxial subluxation
+atopic dermatitis
+atransferrinemia
+atresia
+atresia biliary
+atresia of the vas deferens
+atretic gallbladder
+atrial arrhythmia
+atrial cardiomyopathy
+atrial ectopic tachycardia
+atrial fibrillation
+atrial fibrillation flutter
+atrial fibrillation, familial
+atrial flutter
+atrial heterotaxy
+atrial reentry tachycardia
+atrial septal aneurysm
+atrial septal hypertrophy
+atrial situs inversus
+atrial standstill
+atrioventricular [av] block
+atrioventricular block
+atrioventricular canal
+atrioventricular nodal disease
+atrioventricular nodal tachycardia
+atrioventricular re-entry tachycardia
+atrioventricular reentrant tachycardia
+atrioventricular septal defect
+atrophic gastritis
+atrophic scars
+atrophic vaginitis
+atrophy
+atrophy brain
+atrophy of lower limb
+atrophy of the body
+atrophy of the dentate nucleus
+attacks, panic
+attenuation of retinal blood vessels
+atypical absence seizures
+atypical elliptocytosis
+atypical hyperphenylalaninemia
+atypical neurofibromatosis
+atypical pulmonary carcinoid tumor
+atypical scarring
+auditory aura
+auditory canal atresia
+auditory neuropathy
+aura
+aura migraine
+aura visual
+auricular cyst
+auricular fistula
+auricular pit
+auricular sinus
+auricular sinuses
+auricular tag
+auricular tags
+autism
+autism spectrum disorder
+autistic behaviour
+autoamputation
+autoamputation of digits
+autoimmune disease
+autoimmune hemolytic anemia
+autoimmune hypoparathyroidism
+autoimmune neutropenia
+autonomic auras
+autonomic bladder dysfunction
+autonomic disease
+autonomic dysregulation
+autonomic erectile function
+autonomic function
+autonomic regulation
+autophagic vacuoles
+autosomal dominant
+autosomal recessive
+autosomal recessive form
+autosomal recessive inheritance
+autosomal recessive predisposition
+av nodal reentry tachycardia
+ava
+avascular necrosis of lunate
+awakening, early
+aws
+axenfeld anomaly
+axial dystonia
+axial hexadactyly
+axial hypotonia
+axial muscle atrophy
+axial muscle weakness
+axial myopia
+axial polydactyly
+axial polydactyly of the feet
+axillary freckling
+axillary pterygia
+axon degeneration
+axon degeneration and regeneration
+axon loss
+axon neuropathy
+axon regeneration
+axonal degeneration
+axonal loss
+axonal neuropathy
+axonal regeneration
+azoospermia
+azoospermia and oligospermia
+azotemia
+b and t cell acute lymphoblastic leukemia
+b cell leukemia
+b cell lymphoma
+b-cell deficiency
+babies small
+babinski sign
+back knee
+back pain
+bacterial carditis
+bacterial enteritis
+bacterial infection skin
+bacterial infections, current
+bacterial pneumonia
+bacteriuria
+balanced atrioventricular septal defect
+balanoposthitis
+ballism
+band keratopathy
+baraitser-winter syndrome
+bariatric surgery
+barrel chest
+barrett esophagus
+bartholin gland carcinoma
+bartter syndrome
+basal cell carcinoma
+basal cell nevus
+basal encephalocele
+basal ganglia calcification
+basal ganglia disease
+basal ganglia edema
+basal ganglia necrosis
+basilar impression
+basilar invagination
+bat ear
+bbs
+bcm
+bdb
+bdc
+bdca-3
+bdd
+bde
+beaked nose
+behavior changes
+behavior disturbances
+behavior, compulsive
+behavioral disorders
+behavioral symptoms
+bell-shaped thorax
+bence jones proteinuria
+benign mammary dysplasia
+benign neoplasm of breast
+benign neoplasm of skin
+benign neoplasm of the central nervous system
+bergmeister papilla
+best disease
+beta 2-microglobulinuria
+beta cell tumor
+beta-alaninemia
+beta-cell dysfunction
+beta-cell function
+beta-eeg
+betalipoproteinemia
+bethlem myopathy
+bicarbonaturia
+bicornuate uterus
+bicuspid aortic valve
+bicuspid pulmonary valve
+bidirectional shunt
+bifid clitoris
+bifid distal phalanx of the thumb
+bifid epiglottis
+bifid femur
+bifid first metacarpal
+bifid ribs
+bifid sacrum
+bifid scrotum
+bifid terminal phalanges
+bifid thumb
+bifid ureter
+bifid uterus
+bifid xiphoid process
+bilateral basal ganglia lesions
+bilateral camptodactyly
+bilateral choanal atresia
+bilateral cleft lip
+bilateral cleft lip and palate
+bilateral cleft palate
+bilateral clubfoot
+bilateral conductive hearing loss
+bilateral congenital mydriasis
+bilateral coronal craniosynostosis
+bilateral coxa valga
+bilateral cryptorchidism
+bilateral ductus arteriosus
+bilateral facial palsy
+bilateral facial weakness
+bilateral intracranial calcifications
+bilateral nanophthalmos
+bilateral postaxial polydactyly
+bilateral pt
+bilateral ptosis
+bilateral pulmonary agenesis
+bilateral radial aplasia
+bilateral renal atrophy
+bilateral renal dysplasia
+bilateral renal hypoplasia
+bilateral sensorineural hearing loss
+bilateral single transverse palmar creases
+bilateral trilobed lungs
+bilateral triphalangeal thumbs
+bilateral vestibular loss
+bilateral vocal cord paralysis
+bilateral vocal cord paresis
+bile duct hyperplasia
+bile duct proliferation
+biliary cirrhosis
+biliary disease
+biliary dyskinesia
+biliary epithelial hyperplasia
+biliary hamartoma
+biliary hyperplasia
+biliary obstruction
+biliary tract abnormality
+biliary tract disease
+biliary tumor
+bilirubin increased
+binasal hemianopia
+biparietal narrowing
+bipartite patella
+bipolar disorder
+bird-like facies
+birth preterm
+birthmarks
+bitemporal forceps marks
+bitemporal hemianopsia
+bitemporal hollowing
+bites, insect
+biting self
+biventricular hypertrophy
+biventricular noncompaction cardiomyopathy
+black head
+black pigment gallstones
+bladder abnormalities
+bladder cancer
+bladder dilatation
+bladder diverticulum
+bladder exstrophy
+bladder fistula
+bladder hypoplasia
+bladder neck obstruction
+bladder polyps
+bladder prolapse
+bladder stone
+bladder transitional cell carcinoma
+bladder, double
+blastomycosis
+bleeding early pregnancy
+bleeding joint
+bleeding period
+bleeding time increased
+bleeding, gastrointestinal
+blepharitis
+blepharochalasis
+blepharophimosis
+blepharospasm
+blind spot
+blind vagina
+blindness low vision
+blindness night
+blindness, color
+blistering skin
+block vertebrae
+blood circulation disorder
+blood diarrhea
+blood diseases
+blood loss anemia
+blood nose
+blood pressure lower
+blood tumor
+blood urea increased
+blood urine
+blood viscosity
+bloody diarrhea
+bloody mucoid diarrhea
+blue cone monochromat
+blue eye
+blue nevus
+blue sclera
+blue urine
+blue/yellow color vision defect
+blurring
+bochdalek hernia
+body temperature changes
+boils carbuncles
+bone cancer
+bone cyst
+bone fibrous dysplasia
+bone fragility
+bone infarction
+bone infection
+bone loss around teeth
+bone marrow cellularity
+bone marrow disease
+bone marrow failure
+bone marrow failure syndrome
+bone marrow hypercellularity
+bone marrow or stem cell transplant
+bone metaplasia
+bone necrosis
+bone pain
+bone spicule pigmentation of the retina
+bone tumor
+bone, giant cell tumor
+borderline mental retardation
+bordetella
+borrelia
+bovine arch
+bowel diverticula
+bowel diverticulosis
+bowel perforation
+bowel perforation small
+bowel urgency
+bowing of long bones
+bowing of the tibia
+bpd
+brachial plexopathy
+brachydactyly
+brachyesophagus
+brachytelephalangy
+bradycardia
+bradyopsia
+brain abscess
+brain aneurysm
+brain calcification
+brain cancer
+brain copper accumulation
+brain degeneration
+brain edema
+brain generation
+brain glioma stem
+brain hemorrhage
+brain hypomyelination
+brain ischemia
+brain tumor
+brainstem abnormalities
+brainstem atrophy
+brainstem compression
+brainstem dysplasia
+branchial anomalies
+branchial cyst
+branchial fistula
+branchial sinus
+breast cancer [female]
+breast cancer [male]
+breast carcinoma
+breast hypoplasia
+breast mouse
+breast pain
+breech presentation
+breus mole
+brisk reflexes
+brittle cornea syndrome
+brittle hair
+brittle nails
+brittle scalp hair
+broad alveolar ridges
+broad chest
+broad clavicles
+broad distal phalanges
+broad eyebrows
+broad finger
+broad flat nasal bridge
+broad great toes
+broad hands
+broad long bones
+broad metacarpals
+broad metatarsal
+broad nail
+broad nasal bridge
+broad nasal tip
+broad phalanges
+broad philtrum
+broad thumbs
+broad toes
+bronchial atresia
+bronchial cartilage hypoplasia
+bronchial isomerism
+bronchial tumor
+bronchiectasis
+bronchiolitis
+bronchiolitis obliterans
+bronchitis
+bronchodysplasia
+bronchogenic cyst
+bronchomalacia
+bronchomegaly
+bronchopneumonia and lung abscess
+bronchospasm
+bronze skin
+brow ptosis
+brown pigment gallstones
+brown syndrome
+brown-vialetto-van laere syndrome
+brugada syndrome
+brushfield spots
+bruxism
+buckle fracture
+buffalo hump
+bulbar neuritis
+bulbar palsy
+bulbar signs
+bulbar urethral stricture
+bulbar weakness
+bulbous nasal tip
+bulbous nose
+bulging forehead
+bulimia
+bullous skin disease
+bundle branch block
+bunion
+burns
+bursitis
+butterfly vertebrae
+c cell carcinoma
+c1-c2 luxation
+c1-c2 subluxation
+c2-c3 subluxation
+c3 nephropathy
+c4b deficiency
+c8 deficiency
+ca125 elevated
+caca
+cachexia
+caesarian section
+café au lait spots
+calcaneal ossification center
+calcaneovalgus
+calcemia
+calcific stippling
+calcification
+calcification of cartilage
+calcification of falx cerebri
+calcification of muscle tissue
+calcification of the auricular cartilage
+calcified amorphous tumor of the heart
+calcified placenta
+calcinosis cutis
+calcium nephrolithiasis
+calcium oxalate kidney stones
+calcium oxalate urolithiasis
+calcium phosphate urolithiasis
+calciuria
+calculus of bile duct
+calf hypertrophy
+calf pseudohypertrophy
+caliceal dilatation
+calvarial defect
+calvarial hyperostosis
+calyceal diverticulum
+cam
+camos
+camptocormia
+camptodactyly
+cancer eye
+cancer gastrointestinal
+cancer head neck
+cancer lip
+cancer of the gums
+cancer of the mouth floor
+cancer salivary gland
+cancer, endometrial
+cancer, fallopian tube
+cancer, nasal
+cancer, oral
+cancer, oropharyngeal
+cancer, pancreatic
+cancer, pituitary
+cancer, thyroid
+cancers, prostate
+candidiasis
+cantholysis
+cap
+capillary fragility
+capitate-hamate fusion
+capsular cataract
+capsular cataracts
+caput medusae
+carcinoid
+carcinoid lung tumor
+carcinoma follicular
+carcinoma nasopharyngeal
+carcinoma of hypopharynx
+carcinoma renal
+carcinoma tongue
+carcinoma, squamous cell, skin
+card
+cardiac amyloidosis
+cardiac arrest
+cardiac conduction abnormalities
+cardiac conduction abnormality
+cardiac conduction defects
+cardiac conduction disorders
+cardiac congenital anomalies
+cardiac failure
+cardiac fibroma
+cardiac hemangioma
+cardiac infarction
+cardiac myxoma
+cardiac rhabdomyoma
+cardiac sarcoma
+cardiac teratoma
+cardiac total anomalous pulmonary venous connection
+cardiac valve calcification
+cardial effusion
+cardial fibrosis
+cardiomyocyte degeneration
+cardiomyocyte generation
+cardiomyocyte hypertrophy
+cardiomyopathy
+cardiomyopathy, familial hypertrophic
+cardiomyopathy, stress
+cardiovascular calcification
+carditis
+caries
+carnosinuria
+carotid artery aneurysm
+carotid artery calcification
+carotid artery dilatation
+carotid artery dissection
+carotid artery tortuosity
+carotid cavernous fistula
+carotid occlusion
+carotid paraganglioma
+carotid sinus syndrome
+carotid stenosis
+carpal and tarsal fusions
+carpal bone anomalies
+carpal fusion
+carpal osteolysis
+carpal tunnel
+carpenter syndrome
+cartilage destruction
+cartilage inflammation
+cartilaginous trachea
+cat eye
+cataplexy
+cataplexy narcolepsy
+cataract
+cataract in children
+caudate atrophy
+cavernous hemangioma
+cavernous hemangioma of the face
+cavum septum pellucidum
+cbd
+cbt
+cd4 t cell lymphopenia
+cdi
+cecocentral scotoma
+celiac artery aneurysm
+celiac disease
+cell lymphoma t
+cellular immunodeficiency
+cellular metachromasia
+cellulitis
+celosomia
+cementoblastoma
+central diaphragmatic hernia
+central hypotonia
+central hypoventilation
+central nervous system cysts
+central nervous system degeneration
+central nervous system demyelination
+central nervous system disease
+central nervous system generation
+central nervous system infection
+central nervous system tumor
+central nuclei
+central obesity
+central polydactyly
+central primitive neuroectodermal tumor
+central retinal artery occlusion
+central retinitis pigmentosa
+central vision loss
+central visual impairment
+cephalohematoma
+cerebellar abnormalities
+cerebellar agenesis
+cerebellar ataxia, mental retardation, and dysequilibrium
+cerebellar atrophy
+cerebellar calcifications
+cerebellar cortical atrophy
+cerebellar cyst
+cerebellar degeneration
+cerebellar dysplasia
+cerebellar edema
+cerebellar glioma
+cerebellar hemangioblastoma
+cerebellar hemisphere hypoplasia
+cerebellar hemorrhage
+cerebellar hypoplasia and atrophy
+cerebellar malformation
+cerebellar medulloblastoma
+cerebellar tremor
+cerebellar vermis aplasia/ hypoplasia
+cerebellar vermis atrophy
+cerebellar vermis hypoplasia
+cerebellopontine angle arachnoid cyst
+cerebral amyloid angiopathy
+cerebral aneurysm
+cerebral artery aneurysm
+cerebral artery atherosclerosis
+cerebral artery calcification
+cerebral artery occlusion
+cerebral artery stenosis
+cerebral atherosclerosis
+cerebral creatine deficiency syndrome
+cerebral cyst
+cerebral folate deficiency
+cerebral generation
+cerebral germinoma
+cerebral giant
+cerebral hemorrhage
+cerebral hypoplasia
+cerebral ischemia
+cerebral palsy
+cerebral stroke
+cerebral thrombosis
+cerebral vasculitis
+cerebral white matter atrophy
+cerebral white matter hypoplasia
+cerebrospinal rhinorrhea
+cerebrovascular disease
+ceroid lipofuscinoses
+ceruloplasmin deficiency
+ceruloplasminemia
+cerumen impaction
+ceruminous adenoma
+cervic cancer
+cervical adenopathy
+cervical aortic arch
+cervical arthritis
+cervical cancer
+cervical cancer and dysplasia
+cervical clear cell carcinoma
+cervical cord compression
+cervical dystonia
+cervical ectopia cordis
+cervical endometriosis
+cervical erosion
+cervical fusion
+cervical genesis
+cervical hemivertebrae
+cervical instability
+cervical insufficiency
+cervical kyphosis
+cervical lymphadenopathy
+cervical myelopathy
+cervical polyp
+cervical protrusion
+cervical radiculitis
+cervical rib
+cervical spina bifida
+cervical spinal canal stenosis
+cervical spinal cord atrophy
+cervical spine abnormalities
+cervical spine hypermobility
+cervical spine instability
+cervical spine mobility
+cervical spondylosis
+cervical subluxation
+cervical tumor
+cervical vertebrae
+cervical vertebral dysplasia
+cervicitis
+cessation of head growth
+cfc
+chaddock reflex
+chalazion
+changes in skin texture
+charcot arthropathy
+charcot-marie-tooth
+chb
+cheilitis
+chemosis
+chest infection
+chest pain
+chest tightness
+chiari i malformation
+chiari malformation
+chiari syndrome
+chicken breast
+chilblain lesions
+childhood onset
+chloremia
+chloriduria
+chloroquine retinopathy
+choanal atresia
+choanal stenosis
+choking episodes
+cholangiocarcinoma
+cholangitis
+cholecyst
+cholecystitis
+choledochal cyst
+cholelithiasis and cholecystitis
+cholestasis
+cholestasis, benign recurrent intrahepatic
+cholestasis, progressive familial intrahepatic
+cholestatic liver disease
+cholesteatoma
+cholesterol embolism
+cholesterol gallstones
+cholesterol of gallbladder
+cholesterolemia
+cholesteryl ester transfer protein deficiency
+chondroblastoma
+chondrocalcinosis
+chondrogenesis
+chondromalacia
+chondrosarcoma
+chordee
+chordoma
+chorea
+choreoathetoid movements
+choreoathetosis
+chorioangioma
+choriocapillaris atrophy
+choriocarcinoma
+chorioretinal abnormality
+chorioretinal atrophy
+chorioretinal degeneration
+chorioretinal dysplasia
+chorioretinal dystrophy
+chorioretinal hypopigmentation
+chorioretinal lacunae
+chorioretinal pigmentation
+chorioretinal scars
+chorioretinitis
+choroid plexus calcification
+choroid plexus cysts
+choroid plexus hypertrophy
+choroidal coloboma
+choroidal degeneration
+choroidal disease
+choroidal hemangioma
+choroidal hemorrhage
+choroidal hyperpermeability
+choroidal melanoma
+choroidal neovascularization
+choroidal nevus
+choroidal permeability
+choroidal vascularization
+choroiditis
+chromatopsia
+chromic anemia
+chromosome breakage
+chronic acid
+chronic acidosis
+chronic active hepatitis
+chronic atrial fibrillation
+chronic axonal neuropathy
+chronic blood cancer
+chronic bronchitis
+chronic calcifying pancreatitis
+chronic carditis
+chronic colitis
+chronic constipation
+chronic csf lymphocytosis
+chronic cyst
+chronic cystitis
+chronic diarrhea
+chronic disease anemia
+chronic disseminated intravascular coagulation
+chronic ear infection
+chronic fatigue
+chronic fatigue syndrome
+chronic furunculosis
+chronic gastritis
+chronic graft versus host disease
+chronic hemolytic anemia
+chronic hepatic encephalopathy
+chronic hepatitis
+chronic infections
+chronic interstitial nephritis
+chronic intestinal candidiasis
+chronic kidney disease
+chronic kidney disease stage
+chronic kidney disease, stage iii
+chronic kidney disease, stage iv
+chronic lactic acidosis
+chronic laryngitis
+chronic leukemia
+chronic liver disease and cirrhosis
+chronic liver failure
+chronic lung disease
+chronic lung infections
+chronic lymphocytic meningitis
+chronic metabolic acid
+chronic metabolic acidosis
+chronic myelomonocytic leukemia
+chronic obstructive asthma
+chronic obstructive pulmonar disease
+chronic obstructive pulmonary disease
+chronic oral candidiasis
+chronic osteomyelitis
+chronic otitis media
+chronic pain syndrome
+chronic pancreatitis
+chronic passive congestion of liver
+chronic pericarditis
+chronic periodontitis
+chronic prostatitis
+chronic renal failure [ckd]
+chronic respiratory acid
+chronic respiratory acidosis
+chronic rhinitis
+chronic sinus
+chronic sinus disease
+chronic skin ulcers
+chronic spontaneous urticaria
+chronic tonsillitis and adenoiditis
+chronic venous hypertension
+chronic venous insufficiency [cvi]
+chubby cheeks
+chylomicronemia
+chylopericardium
+chylothorax
+chylous ascites
+cicatricial alopecia
+cicatricial conjunctivitis
+cicatricial ectropion
+cicatricial entropion
+cicatricial lagophthalmos
+cigarette-paper scars
+ciliary body coloboma
+ciliary body melanoma
+circadian rhythm sleep disorders
+circulating immune complexes
+cirrhosis
+cirrhosis postnecrotic
+citraturia
+claustrophobia
+clavicular sclerosis
+cleft anterior mitral valve leaflet
+cleft chin
+cleft earlobe
+cleft hard palate
+cleft lip
+cleft lip, cleft palate
+cleft lower lip
+cleft nasal tip
+cleft nose
+cleft primary palate
+cleft secondary palate
+cleft soft palate
+cleft sternum
+cleft tongue
+cleft uvula
+clinic heterogeneity
+clinical heterogeneity
+clinical modifier
+clinodactyly
+clinodactyly of the thumb
+clitoromegaly
+cloacal abnormality
+cloacal exstrophy
+clonic seizures
+clonic seizures tonic
+clonus
+clotting
+cloudy cornea
+cloverleaf skull
+cls
+clubbing
+clumsiness
+cluster headache
+cluster, symptom
+cmc
+cml
+cmn
+cns hypomyelination
+cns myelination
+coagulable state
+coagulation abnormalities
+coagulation time increased
+coarctation
+coarctation of abdominal aorta
+coarse face
+coated aorta
+coats disease
+coccidioidomycosis
+cochlear aplasia
+cochlear degeneration
+cochlear generation
+cochlear malformation
+cognitive delay
+cognitive impairment
+cogwheel rigidity
+coi
+col
+cold hypersensitivity
+cold paresis
+cold urticaria
+cold-induced muscle cramps
+cold-induced sweating
+cold-sensitive myotonia
+cole carpenter syndrome
+colic
+colitis
+collapse
+colles fracture
+colon atresia
+colon cancer
+colon diverticular disease
+colon inertia
+colon perforation
+colon stenosis
+colon tumor
+colon ulcer
+colon varices
+colonic arteriovenous malformation
+colonic inertia
+colonic varices
+colorectal adenocarcinoma
+colorectal cancer, hereditary nonpolyposis
+colorectal polyps
+colorectal tumor
+colpocephaly
+columella, low
+coma
+combined hamartoma of the retinal pigment epithelium and retina
+combined immunodeficiency
+combined oxidative phosphorylation deficiency
+comedo
+comedo acne
+comedonal acne
+common atrium
+common brachiocephalic trunk
+common carotid artery dissection
+common migraine
+communicating hydrocephalus
+communication delay
+compensated hemolytic anemia
+compensated hypothyroidism
+compensatory head posture
+complement deficiency
+complete breech
+complete congenital stationary night blindness
+complete ophthalmoplegia
+complex febrile seizures
+complex focal seizures
+complications delivery
+complications during labor and delivery
+compression fractures
+compression myelopathy
+compression neuropathy
+compulsive hoarding
+concave nasal bridge
+concentric hypertrophic cardiomyopathy
+concomitant strabismus
+concussion
+conduct disorder
+conductive hearing loss
+conductive hearing loss, mild
+cone dysfunction
+cone dystrophy
+cone monochromacy
+cone-shaped epiphyses
+confetti-like hypopigmented macules
+confusion
+confusional arousal
+congenital absence of pericardium
+congenital adrenal hypoplasia
+congenital anomalies of kidney and urinary tract
+congenital anomalies of limbs
+congenital anomalies of the eye
+congenital bilateral facial palsy
+congenital bilateral ptosis
+congenital blindness
+congenital bone fractures
+congenital cardiomyopathy
+congenital cataract
+congenital coagulation defects
+congenital conductive hearing loss
+congenital contractures
+congenital corneal dystrophy
+congenital cystic lung
+congenital defect of the pericardium
+congenital dermal melanocytosis
+congenital disorders of glycosylation, type i
+congenital disorders of glycosylation, type ii
+congenital ductus arteriosus aneurysm
+congenital encephalopathy
+congenital exfoliative erythroderma
+congenital exotropia
+congenital fibrosis syndrome
+congenital glaucoma
+congenital hearing loss
+congenital hepatic fibrosis
+congenital horizontal nystagmus
+congenital horner syndrome
+congenital hypertrophy of retinal pigment epithelium
+congenital hypoparathyroidism
+congenital hypothyroid
+congenital hypothyroidism
+congenital hypotonia
+congenital knee dislocation
+congenital lactic acidosis
+congenital laryngeal stridor
+congenital localized absence of skin
+congenital macrocephaly
+congenital megalourethra
+congenital megaureter
+congenital membrane
+congenital microcephaly
+congenital microcoria
+congenital mitral stenosis
+congenital muscular dystrophy
+congenital myopia
+congenital nephrotic syndrome
+congenital neuroblastoma
+congenital neutropenia
+congenital night blindness
+congenital osteodystrophies
+congenital peripheral neuropathy
+congenital pseudoarthrosis of the clavicle
+congenital ptosis
+congenital pyloric atresia
+congenital renal hypoplasia
+congenital retinal fold
+congenital stapes ankylosis
+congenital strabismus
+congenital thrombocytopenia
+congenital urinary anomalies
+congenital visual impairment
+congenitally corrected transposition of great arteries
+congenitally corrected transposition of the great arteries with ventricular septal defect
+congestion nasal
+congruous homonymous hemianopia
+conical teeth
+conjugate eye movements
+conjugated bilirubinemia
+conjunctival amyloidosis
+conjunctival dermolipoma
+conjunctival follicles
+conjunctival hemorrhage
+conjunctival injection
+conjunctival lipodermoid
+conjunctival nodule
+conjunctival papillae
+conjunctival telangiectasia
+conjunctivitis
+conjunctivitis, infectious
+connective tissue nevus
+conotruncal defects
+consciousness disturbance
+consecutive esotropia
+consecutive exotropia
+constant exotropia
+constipation
+constitutional symptoms
+constricted ear
+constriction
+constrictive bronchiolitis
+constrictive pericarditis
+contiguous gene syndrome
+continuous heart murmur
+contracture
+contracture of thumb
+contracture:
+contractures joint
+controlled eye movements
+contusion
+convergence excess esotropia
+convergence insufficiency
+conversion disorder
+coordinated limb movement
+coordination lack
+cop
+copper disorder
+cor triatriatum
+cor triatrium sinister
+coralliform cataract
+cord compression
+cord knots
+cord lesions spinal
+corectopia
+cornea verticillata
+corneal abnormalities
+corneal arcus
+corneal astigmatism
+corneal asymmetry
+corneal degeneration
+corneal deposits
+corneal dystrophy
+corneal edema
+corneal erosion
+corneal guttata
+corneal keratic precipitates
+corneal neovascularization
+corneal opacity
+corneal perforation
+corneal scarring
+corneal stromal opacity
+corneal symmetry
+corneal thinning
+corneal ulcer
+corneolenticular adhesion
+corns and calluses
+coronal cleft
+coronal hypospadias
+coronal synostosis
+coronary arteriovenous fistula
+coronary artery calcification
+coronary artery dissection
+coronary cameral fistula
+coronary cataract
+coronary fistula
+coronary heart disease
+coronary ostial atresia
+coronary sinus atrial septal defect
+coronary sinus dilatation
+coronary sinus diverticulum
+coronary spasm
+coronary stenosis
+coronary-pulmonary artery fistula
+corpus callosum abnormalities
+corpus callosum atrophy
+corpus callosum lipoma
+corpus callosum partial agenesis
+cortical blindness
+cortical cataract
+cortical cerebral atrophy
+cortical cysts
+cortical dementia
+cortical dysplasia
+cortical heterotopia
+cortical irregularity
+cortical microcysts
+cortical myoclonus
+cortical necrosis
+cortical nephrocalcinosis
+cortical sclerosis
+cortical thickening of the long bones
+cortical tubers
+cortical visual impairment
+cortical/cerebral visual impairment
+corticoid deficiency
+corticoid insufficiency
+corticospinal tract function
+cortisone reductase deficiency
+costal cartilage calcification
+costochondral pain
+costochondritis
+cough
+cough dry
+coxa magna
+coxa valga
+coxa valga deformity
+coxa vara
+cpc
+cpp
+cps
+crack
+cranial asymmetry
+cranial calcifications
+cranial hemorrhage
+cranial hyperostosis
+cranial hypertension
+cranial hypotension
+cranial nerve abnormality
+cranial nerve compression
+cranial nerve disease
+cranial nerve palsy
+cranial sclerosis
+cranial suture
+cranioectodermal dysplasia
+craniofacial asymmetry
+craniofacial disproportion
+craniofacial dystonia
+craniofacial hyperostosis
+craniofacial proportion
+craniofacial symmetry
+craniofacial teratoma
+craniopharyngioma
+craniorachischisis
+crc
+creatine kinase increased
+crescent glomerulonephritis
+crescentic glomerulonephritis
+creutzfeldt jakob disease
+crh deficiency
+cri du chat
+crisponi syndrome
+crossed fused renal ectopia
+crouzon syndrome
+crowding
+crown
+crs
+crumpled ear
+crumpled long bones
+cryoglobulinemia
+cryptogen organizing pneumonia
+cryptophthalmos
+cryptorchidism
+cryptotia
+cryptozoospermia
+crystalline corneal dystrophy
+csa
+csc
+csf lymphocytosis
+csf polymorphonuclear pleocytosis
+csr
+css
+csws
+cubitus valgus
+cubitus varus
+cup ear
+cupid bow upper lip
+curly eyelashes
+curly hair
+current bronchiolitis
+current bronchitis
+current deep vein thrombosis
+current gastroenteritis
+current infections
+current opportunistic infections
+current otitis media
+current pneumonia
+current thromboembolism
+current thrombosis
+current urinary tract infections
+curvature spinal
+curved fingers
+cushingoid
+cutaneous anergy
+cutaneous hemorrhage
+cutaneous leiomyomas
+cutaneous leiomyosarcoma
+cutaneous lipoma
+cutaneous lupus erythematosus
+cutaneous mastocytosis
+cutaneous mycosis
+cutaneous myxoma
+cutaneous neurofibromas
+cutaneous pseudolymphoma
+cutaneous syndactyly
+cutaneous syndactyly of toes
+cutaneous t cell lymphoma
+cutis marmorata telangiectatica congenita
+cutis verticis gyrata
+cvt
+cwps
+cyanosis
+cyanotic episode
+cyclic esotropia
+cyclic exotropia
+cyclodeviation
+cyclophoria
+cyclopia
+cyclotropia
+cylindroma
+cyst
+cyst fibrosis
+cyst of the salivary gland
+cyst ovaries
+cyst, thoracic
+cystathioninemia
+cystathioninuria
+cystic angiomatosis of bone
+cystic artery pseudoaneurysm
+cystic fibrosis
+cystic kidney dysplasia
+cystic lesions in the basal ganglia
+cystic liver disease
+cystic lung disease
+cystic lung lesion
+cystic mastopathy
+cystic medial necrosis
+cystic renal disease
+cystic renal dysplasia
+cystinuria
+cystitis
+cystitis and urethritis
+cystocele
+cystoid macular degeneration
+cysts epididymal
+cysts epithelial
+cysts of the jaws
+cysts preauricular
+cysts skin
+cysts, ovarian
+cysts, radicular
+cytochrome c oxidase-negative muscle fibers
+cytopenias
+cytosis
+d-blind
+d-loop transposition of the great arteries
+d-tga
+dacryocystitis
+dacryocystocele
+dacrystic seizures
+dandruff
+dark choroid
+dark urine
+dark yellow urine
+day blindness
+dba
+de lange syndrome
+de vivo disease
+deafness, autosomal dominant
+deafness, autosomal recessive
+death in adolescence
+death in childhood
+death in early adulthood
+death in early childhood
+death in infancy
+death of liver cells
+decerebrate rigidity
+decorticate rigidity
+decreased activity of mitochondrial respiratory chain
+decreased activity of nadph oxidase
+decreased adiponectin level
+decreased adipose tissue
+decreased albumin level
+decreased aldosterone
+decreased beta galactosidase activity
+decreased bowel sounds
+decreased corneal sensation
+decreased corneal sensitivity
+decreased csf glucose
+decreased diffusing capacity
+decreased elbow extension
+decreased facial expression
+decreased factor x activity
+decreased fertility
+decreased fetal activity
+decreased finger mobility
+decreased glomerular filtration rate
+decreased glucagon level
+decreased glucose tolerance
+decreased hepatic echogenicity
+decreased hip abduction
+decreased ige
+decreased igm
+decreased inflammatory response
+decreased intestinal transit time
+decreased left ventricular function
+decreased level of plasminogen
+decreased libido
+decreased lipoprotein lipase activity
+decreased liver function
+decreased lymphocyte apoptosis
+decreased lymphocytes
+decreased male fertility
+decreased mch
+decreased mean corpuscular volume
+decreased mean platelet volume
+decreased mepp
+decreased mitochondrial complex i activity
+decreased mitochondrial number
+decreased motor activity
+decreased muscle glycogen content
+decreased muscle mass
+decreased nerve conduction velocity
+decreased number of nephrons
+decreased or absent ankle reflexes
+decreased pain sensation
+decreased patellar reflexes
+decreased peristalsis
+decreased plasma free carnitine
+decreased plasma methionine
+decreased plasma renin activity
+decreased plasma tg levels
+decreased plasma tsh
+decreased proportion of cd8+ t cells
+decreased proportion of memory b cells
+decreased resting energy expenditure
+decreased sensitivity
+decreased sensory nerve conduction velocity
+decreased serum c3
+decreased serum creatinine
+decreased serum estradiol
+decreased serum ferritin
+decreased serum igg
+decreased serum insulin-like growth factor
+decreased serum leptin
+decreased serum progesterone
+decreased serum testosterone levels
+decreased sperm motility
+decreased subcutaneous fat
+decreased sweating
+decreased t cell activation
+decreased taste
+decreased tears
+decreased testosterone
+decreased thalamic volume
+decreased transferrin saturation
+decreased urinary potassium
+decreased urine volume
+decreased vibration sense
+decreased visual acuity, progressive
+decreased vital capacity
+decreased von willebrand factor
+decreased von willebrand factor activity
+deep anterior chamber
+deep nasolabial fold
+deep palmar creases
+deep plantar creases
+deep vein thrombosis
+deep vein thrombosis [dvt]
+deep white matter hyperintensities
+deep-set nails
+defecation pain
+defective b cell activation
+defective b cell differentiation
+defective humoral immunity
+defective t cell proliferation
+defective tooth enamel
+defects neural tube
+defects of the forearm bones
+defects of the humerus
+defects of the radius
+deficiency lipoprotein
+deficiency riboflavin
+deficiency thiamine
+deficiency, dpd
+deficiency, factor xii
+deficiency, stable
+deficit in expressive language
+deformation plagiocephaly
+deformational plagiocephaly
+deformed radius
+deformity of lip
+deformity of lower limb
+deformity of the external nose
+deformity of the forehead
+deformity of the head
+deformity of the lower lip
+deformity of the mandible
+deformity of the maxilla
+deformity of the midface
+deformity of the nasal tip
+deformity of the orbital region
+deformity of the supraorbital ridges
+deformity of the upper lip
+deformity spinal
+deformity, foot
+deformity, hand
+degeneration disc
+degeneration of anterior horn cells
+degeneration of skin
+degeneration of the lateral corticospinal tracts
+degeneration of the spinal cord
+degeneration of the striatum
+degenerative liver disease
+dehydration
+delay speech
+delayed adrenarche
+delayed bone age
+delayed carpal bone age
+delayed closure of the anterior fontanelle
+delayed cns myelination
+delayed development
+delayed ejaculation
+delayed epiphyseal ossification
+delayed eruption
+delayed eruption of permanent teeth
+delayed eruption of primary teeth
+delayed gastric emptying
+delayed myelination
+delayed onset bleeding
+delayed oxidation of acetaldehyde
+delayed puberty
+delayed social development
+delirium
+delusions
+dementia disorders
+demyelinating motor neuropathy
+demyelinating neuropathy
+demyelinating sensory neuropathy
+demyelination
+denervation atrophy of muscle
+denervation of the diaphragm
+dens evaginatus
+dense metaphyseal bands
+dent disease
+dental anomalies
+dental enamel pits
+dental problems
+denticles
+dentin dysplasia
+dentinogenesis imperfecta
+depigmentation
+depigmentation retinal
+depigmented fundus
+depletion volume
+depressed nasal tip
+depression
+depression st
+depressive disorder
+depressive order
+depressivity
+derangement of temporomandibular joint
+dermal inclusion cyst
+dermal nevi
+dermal nevus
+dermal thickening
+dermatitis
+dermatitis herpetiformis
+dermatoglyphic abnormalities
+dermatologic tumors
+dermatomyositis
+dermograph
+dermoid
+desbuquois dysplasia
+descemet membrane folds
+descended testes
+descending aortic dissection
+descending thoracic aorta aneurysm
+desmoid
+detectable erg
+detectable vep
+detrusor sphincter dyssynergia
+detrusor sphincter synergia
+developed small intestine
+development arrest
+development dysplasia of the hip
+development regression
+development retardation
+developmental arrest
+developmental regression
+developmental venous anomaly
+deviated nasal septum
+deviated nasal tip
+deviation of mandible
+deviation of the hallux
+deviation of the thumb
+dextrocardia
+dextrotransposition of the great arteries
+dhd
+diabetes insipidus
+diabetes insulin resistant
+diabetes mellitus type
+diabetes pregnancy
+diabetes, phosphate
+diabetic retinopathy
+diadochokinesis
+diagonal earlobe crease
+dialeptic seizures
+diaphragm muscle weakness
+diaphragmatic defect
+diaphragmatic eventration
+diaphragmatic hernia
+diaphyseal thickening
+diarrhea
+diarrhea, congenital
+diarrhea, current
+diastasis recti
+diastema
+diastolic murmur
+dicarboxylic aciduria
+dichromacy
+difficult speaking
+difficult standing
+difficult walking
+difficulties with night vision
+difficulty climbing stairs
+difficulty running
+diffuse alveolar hemorrhage
+diffuse axonal swelling
+diffuse cerebellar atrophy
+diffuse cerebral atrophy
+diffuse cerebral calcification
+diffuse diseases of connective tissue
+diffuse hepatic steatosis
+diffuse leiomyomatosis
+diffuse leukoencephalopathy
+diffuse lymphoma
+diffuse optic disc pallor
+diffuse palmoplantar hyperkeratosis
+diffuse palmoplantar keratosis
+diffuse sclerosis
+diffuse telangiectasia
+diffuse white matter abnormalities
+digenic inheritance
+digital anomalies
+digital fibromatosis
+digital flexor tenosynovitis
+digital pitting scar
+digitalization of thumbs
+dilatation of the abdominal aorta
+dilatation of the ductus arteriosus
+dilatation of the mitral annulus
+dilatation of the renal pelvis
+dilatation of the sinus of valsalva
+dilatation of the tricuspid annulus
+dilatation of the ventricular cavity
+dilatation of thoracic aorta
+dilated cardiomyopathy
+dilated choroidal vessels
+dilated superficial abdominal veins
+dilated third ventricle
+diminished movement
+dip
+diplopia
+direct bilirubinemia
+direct coombs positive
+direct hyperbilirubinemia
+disc pallor
+disc space narrowing
+disciform macular scar
+discoloration urine
+disconjugate eye movements
+discordant atrioventricular connection
+disease endocrine
+disease fabry
+disease gastrointestinal
+disease graft versus host
+disease heart valve
+disease jaw
+disease natural history
+disease neuromuscular
+disease of skeletal muscle
+disease skin
+disease, kashin-beck
+disease, viral
+disease, white matter
+diseases of pulp and periapical tissues
+diseases of spleen
+diseases, lung
+disinhibition
+dislocation
+dislocation of the femoral head
+dislocation, multiple
+disorder of speech
+disorders fluid
+disorders gait
+disorders involving the immune mechanism
+disorders iron
+disorders language
+disorders of accommodation
+disorders of amino-acid metabolism
+disorders of calcium/phosphorus metabolism
+disorders of esophageal motility
+disorders of magnesium metabolism
+disorders of mineral metabolism
+disorders of the orbit
+disorders of tooth development
+disorders, eating
+disorders, somatoform
+displaced little finger
+displaced teeth
+displacement of the papillary muscles
+disproportionate short stature
+disseminated bcg infection
+disseminated cryptosporidium infection
+disseminated intravascular coagulation
+disseminated vascular coagulation
+disseminated viral infection
+dissociated sensory loss
+distal arthrogryposis
+distal ileal atresia
+distal intestinal obstruction syndrome
+distal motor neuropathy
+distal muscle atrophy
+distal muscle weakness
+distal sensory loss
+distal symphalangism
+distal upper limb amyotrophy
+distance esotropia
+distance exotropia
+distichiasis
+distributive shock
+disturbance of tooth eruption
+diurnal
+divergence nystagmus
+diverticular disease
+diverticulitis
+diverticulitis diverticulosis
+diverticulum
+diverticulum duodenal
+diverticulum of small intestine
+divided right atrium
+dizziness
+doe
+dolichocephaly
+doll-like facies
+dorsal column degeneration
+double aortic arch
+double depressor palsy
+double elevator palsy
+double eyelid
+double gallbladder
+double inlet atrioventricular connection
+double inlet left ventricle
+double inlet right ventricle
+double orifice mitral valve
+double outlet left ventricle
+double outlet right ventricle
+double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis
+double teeth
+double upper lip
+double ureter
+double uterus
+double vagina
+double-jointed
+double-layered patella
+douloureux
+downbeat nystagmus
+downgaze palsy
+downslanting palpebral fissures
+downturned mouth
+drooping nasal tip
+drop attacks
+drop hand
+drug induced neutropenia
+drusen
+dry eye
+dry hair
+dry lip
+dry mouth
+dry skin
+duane retraction syndrome
+duct carcinoma in situ
+ductal aortic coarctation
+ductal carcinoma in situ
+ductal coarctation of the aorta
+ductus arteriosus aneurysm
+dull
+dull foveal reflex
+dull intelligence
+duodenal adenocarcinoma
+duodenal arteriovenous malformation
+duodenal atresia
+duodenal atrophy
+duodenal cancer
+duodenal polyposis
+duodenal polyps
+duodenal stenosis
+duodenal stenosis/atresia
+duodenal ulcer
+duodenal villous atrophy
+duodenitis
+duplicated colon
+duplicated thumb
+duplicated tongue
+duplication
+duplication of great toes
+duplication of spinal cord
+dural ectasia
+dva
+dvd
+dysarthria
+dysautonomia
+dyscalculia
+dyschromatopsia
+dyschromatosis universalis hereditaria
+dysdiadochokinesia
+dyserythropoietic anemia
+dysesthesia
+dysfibrinogen
+dysfibrinogenemia
+dysfunction eustachian tube
+dysfunction kidney
+dysgammaglobulinemia
+dysgenesis of the cerebellar vermis
+dysgerminoma
+dysgeusia
+dysgraphia
+dysharmonic skeletal maturation
+dyskeratosis congenita
+dyskinesia
+dyskinetic cerebral palsy
+dyslexia
+dyslipidemia
+dysmegakaryopoiesis
+dysmelia
+dysmetria
+dysmetric saccades
+dysmotility esophageal
+dysmyelinating leukodystrophy
+dysmyelination of the brain
+dyspareunia
+dysphagia
+dysphasia
+dysplasia of the femoral head
+dysplastic aortic valve
+dysplastic patella
+dysplastic pulmonary valve
+dysplastic toenails
+dysthymia
+dystonia
+dystonia tremor
+dystopic os odontoideum
+dystrophic fingernails
+dystrophic toenails
+dysuria
+ear abnormalities
+ear hair
+ear pain
+ear tumor
+earlobe crease
+early balding
+early eruption of permanent teeth
+early eruption of teeth
+early loss of permanent teeth
+early loss of primary teeth
+early onset absence seizures
+early puberty
+ears prominent
+easy bleeding
+easy bruising
+easy fatigability
+eccentric fixation
+ecg abnormality
+echogenic bowel
+echogenic cardiac focus
+echogenic intracardiac focus
+echogenic kidneys
+echogenic pancreas
+echolalia
+eclampsia
+eclampsia preeclampsia
+ectoderm dysplasia
+ectodermal dysplasia
+ectodermal dysplasia-syndactyly syndrome
+ectopia cordis
+ectopia lentis
+ectopic adrenal gland
+ectopic anus
+ectopic calcification
+ectopic fovea
+ectopic kidney
+ectopic liver
+ectopic macula
+ectopic ovary
+ectopic pancreatic tissue
+ectopic parathyroid
+ectopic pregnancy
+ectopic scrotum
+ectopic spleen
+ectopic thymus tissue
+ectopic thyroid
+ectopic tissue
+ectopic ventricular rhythms
+ectropion
+ectropion or entropion
+ectropion uveae
+edema, hereditary
+edema, stromal
+eds
+eeg with burst suppression
+eeg with focal spikes
+eeg: periodic complexes
+ejaculation
+elbow ankylosis
+elbow dislocation
+elbow pain
+elbow stiffness
+electric alternans
+electrical alternans
+electrocardiogram
+electroencephalogram
+electrolyte disorders
+electromyogram
+electronegative erg
+elevated 7-dehydrocholesterol
+elevated alpha-fetoprotein
+elevated amniotic fluid alpha-fetoprotein
+elevated apob level
+elevated c-reactive protein (crp)
+elevated c-reactive protein level
+elevated calcitonin
+elevated carcinoembryonic antigen [cea]
+elevated carcinoembryonic antigen level
+elevated diastolic blood pressure
+elevated follicle stimulating hormone
+elevated gonadotropins
+elevated heart rate
+elevated hepatic iron concentration
+elevated immunoglobulin levels
+elevated intracellular cystine
+elevated left atrial pressure
+elevated leukocyte alkaline phosphatase
+elevated levels of phytanic acid
+elevated liver transaminases
+elevated long chain fatty acids
+elevated luteinizing hormone
+elevated maternal serum alpha-fetoprotein
+elevated mean arterial pressure
+elevated ocular pressure
+elevated placental alkaline phosphatase
+elevated plasma branched chain amino acids
+elevated plasma citrulline
+elevated prostaglandin e2
+elevated prostate specific antigen [psa]
+elevated prostate-specific antigen level
+elevated right atrial pressure
+elevated serum deoxycorticosterone
+elevated sweat chloride
+elevated systolic blood pressure
+elevated transaminase
+elevated transferrin saturation
+elevated urinary catecholamines
+elevated urinary delta-aminolevulinic acid
+elevated urinary dopamine
+elevated urinary hydroxyproline
+elevated urinary norepinephrine
+elevated urinary vanillylmandelic acid
+elevation st
+elfin facies
+elliptocytosis
+elongated superior cerebellar peduncles
+embolism thrombosis
+embryonal renal neoplasm
+embryonal rhabdomyosarcoma
+embryonal tumor
+embryotoxon
+emery dreifuss muscular dystrophy
+emesis gravidarum
+emotion lability
+emphysema
+empty follicle syndrome
+empyema
+empyema and pneumothorax
+enamel abnormalities
+enamel hypomineralization
+enamel hypoplasia
+enanthema
+encephalitis
+encephalitis herpes
+encephalocele
+encephalomalacia
+encephalopathy
+enchondroma
+end-organ responsiveness to thyroid hormone
+endocapillary cellularity
+endocapillary hypercellularity
+endocardial fibroelastosis
+endocarditis
+endocrine pancreatic tumors
+endocrine tumor
+endolymphatic sac tumor
+endometrial hyperplasia
+endometriosis
+endophthalmitis
+enlarged cerebellum
+enlarged cochlear aqueduct
+enlarged costochondral junctions
+enlarged cystic ovaries
+enlarged eyeball
+enlarged fourth ventricle
+enlarged hippocampus
+enlarged internal auditory canal
+enlarged joints
+enlarged lacrimal glands
+enlarged lateral ventricles
+enlarged mesenteric lymph node
+enlarged metaphyses
+enlarged peripheral nerves
+enlarged pituitary gland
+enlarged polycystic ovaries
+enlarged subarachnoid space
+enlarged sylvian fissure
+enlarged thyroid glands
+enlargement of the wrists
+enophthalmos
+enteric cyst
+enterocolitis
+enteropathy
+enteroviral hepatitis
+enthesitis
+enthesopathy
+entropion
+enuresis diurna
+eosinophilia
+eosinophilic ascites
+eosinophilic fasciitis
+ependymal cysts
+ependymal giant-cell astrocytoma
+ependymal nodules
+ependymoblastoma
+ependymoma
+epiblepharon
+epibulbar dermoids
+epicanthus
+epicanthus inversus
+epicanthus tarsalis
+epidermal hyperkeratosis
+epidermal nevus
+epidermal thickening
+epidermoid metaplasia
+epidermolytic hyperkeratosis
+epididymitis
+epididymo orchitis
+epidural hematoma
+epigastric pain
+epignathus
+epilepsy focal
+epilepsy, familial temporal lobe
+epilepsy, nocturnal frontal lobe
+epilepsy, progressive myoclonus
+epileptic
+epileptic encephalopathy
+epileptic encephalopathy, early infantile
+epileptiform eeg discharges
+epiphyseal abnormality
+epiphyseal dysplasia
+epiphyseal sclerosis
+epiphysitis
+epiretinal membrane
+episcleritis
+episode psychotic
+episodes of ventricular tachycardia
+episodic
+episodic abdominal pain
+episodic ataxia
+episodic flaccid weakness
+episodic hemiplegia
+episodic hyperhidrosis
+episodic hypersomnia
+episodic hypertension
+episodic hypokalemia
+episodic hypoventilation
+episodic ketoacidosis
+episodic kinesigenic dyskinesia
+episodic respiratory distress
+episodic tachypnea
+episodic tension
+episodic upper airway obstruction
+episodic ventricular tachycardia
+episodic vomiting
+epispadias
+epistaxis
+epithelial basement membrane dystrophy
+epithelial corneal erosions
+epithelial corneal opacities
+eps
+equinovalgus deformity
+equinus
+erectile abnormalities
+erectile dysfunction [ed]
+erectile function
+erectile function [ed]
+ergotism
+erosion
+erupted dentition
+erupted permanent teeth
+eruptive vellus hair cysts
+eruptive xanthomas
+erysipelas
+erythema
+erythema migrans
+erythema nodosum
+erythematosquamous dermatosis
+erythematous macule
+erythematous papules
+erythematous plaques
+erythroblastopenia
+erythrocyte sedimentation rate
+erythrocytosis
+erythrocytosis, familial
+erythroderma
+erythrodontia
+erythroid dysplasia
+erythroid hyperplasia
+erythrokeratodermia variabilis
+escherichia coli infection
+esophageal
+esophageal abnormality
+esophageal atresia
+esophageal atresia with tracheoesophageal fistula
+esophageal cancer
+esophageal diverticulum
+esophageal duplication
+esophageal epidermoid metaplasia
+esophageal fistula
+esophageal obstruction
+esophageal squamous papilloma
+esophageal stricture
+esophageal ulcer
+esophageal varices
+esophageal web
+esophagitis
+esophoria
+essential tension
+essential tremor
+esthesioneuroblastoma
+estrogen excess
+estrogenism
+ethmocephaly
+ethmoidal encephalocele
+ethylmalonic aciduria
+eunuchoid habitus
+euryblepharon
+eustachian tube obstruction
+euthyroid goiter
+euthyroid hyperthyroxinemia
+euthyroid multinodular goiter
+even face
+even mouth
+everted lower eyelids
+everted lower lip
+everted upper lip
+exacerbated
+exaggerated acoustic startle response
+exaggerated startle response
+excessive cerumen
+excessive daytime sleepiness
+excessive femoral anteversion
+excessive granulation
+excessive purine production
+excitation
+excyclophoria
+excyclotropia
+exencephaly
+exercise induced anaphylaxis
+exercise intolerance
+exercise-induced fatigue
+exercise-induced hemolysis
+exercise-induced lactic acidosis
+exercise-induced muscle cramps
+exercise-induced muscle fatigue
+exercise-induced muscle stiffness
+exercise-induced myoglobinuria
+exercise-induced u wave inversion
+exertional fatigue
+exertional malaise
+exit block
+exophoria
+exotropia
+experiential auras
+explosive speech
+expressive language delay
+exstrophy
+ext
+external auditory canal atresia
+external auditory canal exostoses
+external auditory canal stenosis
+external fistula
+external ophthalmoplegia
+extra adrenal pheochromocytoma
+extra finger
+extra kidney
+extra rib
+extracapillary hypercellularity
+extracranial internal carotid artery dissection
+extrafoveal choroidal neovascularization
+extrahepatic cholestasis
+extrahepatic portal hypertension
+extralobar sequestration
+extramedullar hematopoiesis
+extramedullary erythropoiesis
+extramedullary hematopoiesis
+extrapyramidal disease
+extrapyramidal dyskinesia
+extrapyramidal function
+extrapyramidal symptoms
+exudative macular degeneration
+exudative pleural effusion
+exudative vitreoretinopathy
+eye disease
+eye melanoma
+eye movement abnormalities
+eye pain
+eye poking
+eye tumor
+eyelid apraxia
+eyelid coloboma
+eyelid erythema
+eyelid fluttering
+eyelid lesions
+eyelid mass
+eyelid myoclonia
+eyelid myokymia
+eyelid nodules
+eyelid ptosis
+eyelid retraction
+eyelid skin
+eyelid swelling
+eyelid traction
+eyes dry
+eyes hemorrhage
+eyes open
+face disease
+face tumor
+facet arthritis
+facial asymmetry
+facial atrophy
+facial capillary hemangioma
+facial cleft
+facial deformity
+facial dystonia
+facial enlargement
+facial fat atrophy
+facial grimacing
+facial hemangioma
+facial hemihypertrophy
+facial hirsutism
+facial hypertrichosis
+facial hypotonia
+facial malformations
+facial microsomia
+facial muscle hypertrophy
+facial myokymia
+facial palsy
+facial seizures
+facial spasm
+facial swelling
+facial symmetry
+facial telangiectasia
+facial twitching
+facial warts
+facial weakness
+facial wrinkles
+factor v deficiency
+factor x deficiency
+factor xi deficiency
+fads
+failed back syndrome
+failure left heart
+failure liver
+failure of eruption of permanent teeth
+failure to thrive (childhood)
+failure, respiratory
+fair hair
+fair skin
+fallopian tube cyst
+fallopian tube torsion
+falls
+familial disposition
+familial episodic pain syndrome
+familial predisposition
+family history
+fascicular block
+fascicular left ventricular tachycardia
+fasciitis
+fasting hyperinsulinemia
+fasting hypoglycemia
+fasting insulinemia
+fat malabsorption
+fat pad
+fatigable weakness of skeletal muscles
+fatigue
+fatigue malaise
+fatigue voice
+fatigue, visual
+fatty acids abnormal
+fatty casts
+fatty kidney
+fatty liver
+fatty streaks
+favorable response to levodopa
+fch
+febrile seizures
+fecal incontinence
+fecal vomiting
+feeding difficulties in infancy
+feeding problems
+feingold syndrome
+female anorgasmia
+female hypogonadism
+female infertility
+female orgasmic disorder
+female sexual dysfunction
+female sexual function
+femoral aplasia
+femoral arterial calcification
+femoral bowing
+femoral hernia
+femoroacetabular impingement
+ferm
+ferritinemia
+fetal ascites
+fetal choroid plexus cysts
+fetal circulation
+fetal death
+fetal distress
+fetal face syndrome
+fetal growth restriction
+fetal macrosomia
+fetal megacystis
+fetal onset
+fetal overgrowth
+fetal polyuria
+fetal stress
+fever of known origin
+fever unknown origin
+fever, intermittent
+fiber splitting
+fibrinolysis
+fibrochondrogenesis
+fibrocystic lung disease
+fibrofolliculomas
+fibroma
+fibronectin glomerulopathy
+fibrosarcoma
+fibrosis idiopathic pulmonary
+fibrosis, penile
+fibrous hamartoma
+fibular bowing
+fibular duplication
+fibular overgrowth
+fifth finger camptodactyly
+fifth finger clinodactyly
+fine motor ability
+fine motor impairment
+finger abnormalities
+finger agnosia
+finger dactylitis
+finger deformity
+finger joint mobility
+finger pain
+finger stiffness
+finger swelling
+fingernail dysplasia
+firm muscles
+first degree atrioventricular block
+fish mouth
+fish odor
+fish skin
+fish vertebrae
+fissured tongue
+fissuring
+fixed elbow flexion
+fixed facial expression
+fixed splitting of the second heart sound
+flaccid muscle
+flail chest
+flank pain
+flared iliac wings
+flashing lights
+flat cornea
+flat epiphyses
+flat face
+flat foot
+flat forehead
+flat head
+flat line eeg
+flat nose
+flat occiput
+flat philtrum
+flat sella turcica
+flat warts
+flattened femoral head
+flattened head
+flattened rete ridges
+flattening of the talar dome
+flatulence
+flecks
+flexible flatfoot
+flexible joints
+flexion contracture
+flexion contractures
+flexion contractures of joints
+flexural lichenification
+floaters
+fluctuating hepatomegaly
+fluctuations in consciousness
+fluid electrolyte disorders
+fluid retention
+fluorescein leakage
+flushing
+fmd
+fnd
+foam cells
+foam macrophages
+foamy urine
+focal clonic seizures
+focal dystonia
+focal eeg abnormality
+focal facial dermal dysplasia
+focal glomerulosclerosis
+focal motor seizures
+focal myoclonic seizures
+focal status epilepticus
+focal tonic seizures
+focal white matter lesions
+folate deficiency
+follicular erythema
+follicular hyperkeratosis
+follicular hyperplasia
+follicular inflammation
+follicular lymphoma
+folliculitis
+food, sensitivity
+foot asymmetry
+foot drop
+foot extensor weakness
+foot macrodactyly
+foot osteomyelitis
+foot pain
+foot symmetry
+forceps delivery
+forehead pigmentation
+foreign body injury
+forgetfullness
+fourth heart sound
+foveal atrophy
+foveal degeneration
+foveal fixation
+foveal hemorrhage
+foveal hyperpigmentation
+foveal hypoplasia
+foveal pigmentation
+foveoschisis
+fracture of neck of femur
+fracture of ribs
+fracture patella
+fracture pathological
+fracture, hip
+fractured forearm bones
+fractured hair
+fractures humerus
+fractures leg
+fractures radius
+fragile hair
+fragile teeth
+fragmentary myoclonus
+fragmented elastic fibers in the dermis
+fragmented sleep
+frank breech
+fraser syndrome
+freckles
+frequency urinary
+frequent bacterial infections
+frequent fall
+frequent fractures
+frequent menstruation
+frequent opportunistic infections
+frequent temper tantrums
+frequent vomiting
+frey syndrome
+frog-leg posture
+frontal balding
+frontal bossing
+frontal cortical atrophy
+frontal encephalocele
+frontal lobe dementia
+frontal open bite
+frontal release signs
+frontalis muscle weakness
+frontometaphyseal dysplasia
+frontoparietal polymicrogyria
+frontotemporal cerebral atrophy
+frontotemporal dementia
+frontotemporal dementia and/ amyotrophic lateral sclerosis
+frontotemporal dementia with motor neuron disease
+fructose intolerance
+fuchs dystrophy
+full cheeks
+full lower lip
+full thickness defect of the lower eyelid
+full thickness macular hole
+fulminant hepatitis
+functional bowel obstruction
+functional digestive disorders
+functional motor deficit
+fundus atrophy
+fundus hemorrhage
+fungal infection
+fused kidneys
+fused labia minora
+fused lips
+fused lumbar vertebrae
+fused thalami
+fused thoracic vertebrae
+fused vertebrae
+fusiform abdominal aortic aneurysm
+fusiform aortic arch aneurysm
+fusion of joints
+fusion of the cerebellar hemispheres
+fusion of the subtalar joint
+gad
+gait apraxia
+gait ataxia
+gait imbalance
+gait instability
+galactorrhea
+galactosuria
+gallbladder dysfunction
+gallbladder dyskinesia
+gallbladder function
+gallbladder perforation
+gallbladder tumor
+gallstones
+galt
+gammaglobulinaemia
+gammaglobulinemia
+gan
+ganglioma
+ganglioneuroblastoma
+ganglioneuroma
+ganglioneuromatosis
+gangrene
+gastric arteriovenous malformation
+gastric cancer
+gastric diverticulum
+gastric duplication
+gastric hyperplasia
+gastric hypertrophy
+gastric leiomyosarcoma
+gastric lymphoma
+gastric malposition
+gastric polyps
+gastric tumor
+gastric ulcer
+gastric varices
+gastritis
+gastritis and duodenitis
+gastrointestinal angiodysplasia
+gastrointestinal atresia
+gastrointestinal carcinoma
+gastrointestinal complications
+gastrointestinal duplication
+gastrointestinal dysmotility
+gastrointestinal hamartomatous polyps
+gastrointestinal infection
+gastrointestinal inflammation
+gastrointestinal motility
+gastrointestinal obstruction
+gastrointestinal pain
+gastrointestinal polyps
+gastrointestinal telangiectasia
+gastrointestinal tract defects
+gastrointestinal tumor
+gastrojejunal ulcer
+gastroschisis
+gaze-evoked horizontal nystagmus
+gaze-evoked nystagmus
+gce
+gelastic seizures
+geleophysic dysplasia
+gemination
+general overgrowth
+generalized adenopathy
+generalized aminoaciduria
+generalized anhidrosis
+generalized arterial calcification
+generalized arterial calcification of infancy
+generalized arterial tortuosity
+generalized bone demineralization
+generalized clonic seizures
+generalized convulsive seizure
+generalized dystonia
+generalized edema
+generalized hirsutism
+generalized hyperkeratosis
+generalized hyperpigmentation
+generalized hyperreflexia
+generalized hypertrichosis
+generalized hypotrichosis
+generalized ichthyosis
+generalized keratosis
+generalized lymphadenopathy
+generalized microdontia
+generalized muscle atrophy
+generalized muscle hypertrophy
+generalized muscle wasting
+generalized myoclonic seizures
+generalized osteopenia
+generalized osteosclerosis
+generalized overgrowth
+generalized periodontitis
+generalized pigmentation
+generalized seborrheic dermatitis
+generalized tonic seizures
+generalized tonic-clonic seizures on awakening
+generation of the spinal cord
+genetic anticipation
+genetic heterogeneity
+genital abnormalities
+genital edema
+genital malformations
+genital neoplasia
+genital prolapse
+genital tract atresia
+genital tumor
+genital ulcers
+genitourinary disease
+genitourinary dysplasia
+genitourinary neoplasms
+genu valgum
+genu varum
+geographic atrophy
+geophagia
+germ cell neoplasia
+germinal matrix hemorrhage
+germinoma
+gestation diabetes
+giant axon neuropathy
+giant cell arteritis
+giant conjunctival papillae
+giant eustachian valve
+giant platelet
+giant somatosensory evoked potentials
+gigantomastia
+gingival and periodontal disease
+gingival bleeding
+gingival cleft
+gingival fibromatosis
+gingival hyperpigmentation
+gingival hyperplasia
+gingival melanin pigmentation
+gingival pigmentation
+gingival recession
+gingivitis
+gingivostomatitis
+gist
+glabellar reflex
+glanular hypospadias
+glaucoma
+glaucomatous visual field defect
+glenoid hypoplasia
+glioblastoma
+glioma
+glioma optic
+glioneuronal tumor
+gliosis
+gliosis in the basal ganglia
+global brain atrophy
+global glomerulosclerosis
+global systolic dysfunction
+global systolic function
+globozoospermia
+globulinemia
+globus pallidus calcification
+glomerular
+glomerular c3 deposition
+glomerular deposits
+glomerular subendothelial electron-dense deposits
+glomerulocystic disease
+glomeruloid hemangioma
+glomerulomegaly
+glomerulonephritis
+glomerulosclerosis
+glomus jugulare tumors
+glossitis
+glossoptosis
+glottic stenosis
+glucocorticoid deficiency
+glucose tolerance, impaired
+glucosephosphate isomerase deficiency
+glutaminemia
+glutaric acidemia
+glutaric aciduria
+glutathione synthetase deficiency
+gluten sensitivity
+glycemia
+glyceridemia
+glycerol kinase deficiency
+glycerolemia
+glycinuria
+glycopeptiduria
+gm2-ganglioside accumulation
+goiter
+gonad dysgenesis
+gonadal hypoplasia
+gonadal neoplasia
+gonadoblastoma
+gonadotropic hypogonadism
+gordon reflex
+gottron papules
+gout
+gowers sign
+gpa
+gpp
+gradual onset
+gram negative sepsis
+gram positive sepsis
+granular casts
+granular corneal dystrophy
+granulocytic hyperplasia
+granulocytic hypoplasia
+granulomas, periapical
+granulomatosis
+granulomatous angitis
+granulomatous cholangitis
+granulomatous coronary arteritis
+granulomatous disease, chronic
+granulosis
+granulovacuolar degeneration
+graphesthesia
+grasp reflex
+graves dermopathy
+graves disease
+green teeth
+grip myotonia
+griscelli syndrome
+gross hematuria
+gross lesion
+gross motor delay
+gross motor impairment
+growth arrest lines
+growth deficiency
+growth failure
+growth hormone deficiency
+growth hormone, increased
+growth issue
+growth retard
+growth suppression
+gustatory lacrimation
+gut duplication
+gynecomastia
+h p s
+h-type rectovestibular fistula
+h. pylori
+hair forehead
+hair hypopigmentation
+hairy forehead
+hairy leukoplakia
+halberd-shaped pelvis
+halitosis
+hallucinations
+hallucinations, sensory
+hallux rigidus
+hallux valgus
+hallux valgus (bunion)
+hallux varus
+hamartoma
+hamartomatous polyp
+hamartomatous polyps
+hammer toe
+hammock mitral valve
+hamstring contractures
+hand clenching
+hand contractures
+hand monodactyly
+hand muscle atrophy
+hand muscle weakness
+hand tremor
+hanging skin
+happy demeanor
+harlequin phenomenon
+hbs hemoglobin
+hca
+hcg
+head and neck abnormality
+head banging
+head circumference small for gestational age
+head jerks
+head neck tumor
+head small
+head titubation
+head tremor
+headache
+headache tension
+hearing loss
+hearing loss sensorineural
+hearing loss, high frequency
+hearing loss, mixed
+hearing loss, progressive
+hearing sounds
+heart beat
+heart block
+heart disease hypertension
+heart rate, increased
+heart shock
+heart size increased
+heart transplant/surgery
+heart tumor
+heart valve replaced
+heat sensitive
+heavy period
+heavy proteinuria
+heberden nodes
+height less than 3rd centile
+height loss
+heinz body anemia
+helicobacter pylori infection
+heliotrope rash
+hemangioblast
+hemangioblastoma
+hemangioma
+hemangioma liver
+hemangiomatosis
+hematologic abnormality
+hematological abnormality
+hematoma
+hematoma, subdural
+hematoperitoneum
+hemianopia
+hemiatrophy
+hemiballism
+hemifacial hypoplasia
+hemifacial microsomia
+hemifacial seizures
+hemifacial spasm
+hemihypertrophy
+hemihypsarrhythmia
+hemimacroglossia
+hemimegalencephaly
+hemiparesis
+hemiplegia
+hemiplegia and hemiparesis
+hemiplegia, spastic
+hemisacrum
+hemitruncus
+hemivertebrae
+hemobilia
+hemochromatosis
+hemoglobin barts
+hemoglobin h
+hemoglobin low
+hemoglobinuria
+hemolytic anemia
+hemolytic anemia, episodic
+hemolytic anemia, hereditary
+hemolytic uremic syndrome
+hemopericardium
+hemoperitoneum
+hemophagocytosis
+hemophilia
+hemoptysis
+hemorrhage muscle
+hemorrhage postpartum
+hemorrhagic ovarian cyst
+hemorrhoids
+hemosiderinuria
+hemothorax
+hepatic arteriovenous malformation
+hepatic bile duct cysts
+hepatic biliary atresia
+hepatic calcification
+hepatic cholestasis
+hepatic disease
+hepatic encephalopathy
+hepatic fibrosis
+hepatic granulomatosis
+hepatic necrosis
+hepatic periportal necrosis
+hepatic portal hypertension
+hepatitis b
+hepatitis c
+hepatitis, neonatal
+hepatoblastoma
+hepatocellular carcinoma
+hepatojugular reflux
+hepatoportal sclerosis
+hepatosplenomegaly
+hereditary nonpolyposis colorectal carcinoma
+hereditary retinal dystrophy
+hereditary sensory and autonomic neuropathy
+hermaphroditism
+hernia
+hernia of abdominal wall
+hernia, hiatal
+herniated disc
+herpes simplex
+herpetiform
+herpetiform vesicles
+hesitancy
+heterochromia iridis
+heterotopic ossification
+hfa
+hgf
+hiccups
+hidradenitis
+hidradenitis suppurativa
+hidrotic ectodermal dysplasia
+high axial triradius
+high blood pressure
+high cholesterol
+high forehead
+high frequency sensorineural hearing impairment
+high frontal hairline
+high head
+high hypermetropia
+high hyperopia
+high insulin
+high intestinal obstruction
+high low density lipoprotein
+high mandibular plane angle
+high maternal serum alpha-fetoprotein
+high maternal serum hcg
+high myopia
+high nasal bridge
+high palate
+high pitch
+high pitched cry
+high plasma glutamine
+high scapula
+high serum calcitriol
+high skull
+high triglycerides
+high-output congestive heart failure
+highly variable phenotype
+highly variable severity
+hindfoot equinus
+hip contracture
+hip dislocation
+hip dysplasia
+hip flexor weakness
+hip joint mobility
+hip location
+hip luxation
+hip osteoarthritis
+hip stiffness
+hip subluxation
+hippocampal dysgenesis
+hirano bodies
+hirsutism
+his bundle
+his deficiency
+histidinuria
+histiocytoma
+histiocytosis
+histoplasmosis
+histrionic personality
+hit
+hiv disease
+hiv infection, symptomatic
+hlp
+hoarse cry
+hoarseness
+holmes tremor
+holoprosencephaly
+holosystolic murmur
+homocystinuria
+homonymous hemianopia
+honeycomb lung
+honeycomb palmoplantar keratoderma
+hops
+horizontal acetabular roof
+horizontal jerk nystagmus
+horizontal nystagmus
+horizontal ribs
+horizontal sacrum
+horizontal supranuclear gaze palsy
+hormonal tumor
+horner syndrome
+horseshoe kidney
+hostility
+hot flashes
+hot water epilepsy
+hpp
+hsp
+human tail
+humeral pseudarthrosis
+humeroradial synostosis
+humeroscapular synostosis
+humeroulnar synostosis
+humerus varus
+humoral immunodeficiency
+hurler
+hyaline body
+hyaloid hemorrhage
+hydatidiform mole, recurrent
+hydranencephaly
+hydration
+hydrocele
+hydrocephalus
+hydrocephalus, obstructive
+hydrocolpos
+hydrolethalus syndrome
+hydrometrocolpos
+hydromyelia
+hydronephrosis
+hydropic placenta
+hydrops fetalis
+hydrothorax
+hydroxyprolinemia
+hygroma
+hyper igm syndrome
+hyperactive deep tendon reflexes
+hyperactive renin-angiotensin system
+hyperactivity
+hyperacusis
+hyperalaninemia
+hyperalbuminemia
+hyperalgesia
+hyperammonemia
+hyperbilirubin
+hypercalcemia
+hypercalciuria
+hypercapnia
+hyperchloremic acidosis
+hyperchloremic metabolic acidosis
+hypercitraturia
+hypercortisolism
+hyperdeviation
+hyperechogenic kidneys
+hyperechogenic pancreas
+hyperekplexia
+hyperemesis
+hyperesthesia
+hyperestrogen
+hyperextensible finger
+hyperferritinemia
+hyperfibrinogen
+hyperfibrinogenemia
+hyperfibrinolysis
+hypergalactosemia
+hypergammaglobulinemia
+hyperglobulinemia
+hyperglycemia
+hyperglycinemia
+hyperglycinuria
+hypergonadotropic amenorrhea
+hypergranulosis
+hyperhidrosis
+hyperhomocystinemia
+hyperinsulinemic hypoglycemia
+hyperkalemia
+hyperkalemic metabolic acidosis
+hyperkalemic periodic paralysis
+hyperkeratosis pilaris
+hyperkeratotic papule
+hyperkinetic seizures
+hyperkyphosis
+hyperlipid
+hyperlipidemia
+hyperlipoprotein
+hyperlipoproteinemia
+hyperlysinemia
+hypermagnesemia
+hypermagnesiuria
+hypermature neutrophils
+hypermethioninemia
+hypermetric saccades
+hypernasal speech
+hypernatremic dehydration
+hyperopia
+hyperopic astigmatism
+hyperorality
+hyperornithinemia
+hyperosmolality and/ hypernatremia
+hyperostosis
+hyperostosis cranialis interna
+hyperostosis frontalis interna
+hyperoxaluria
+hyperoxaluria, primary
+hyperoxemia
+hyperparakeratosis
+hyperparathyroid
+hyperparathyroidism
+hyperpepsinogenemia i
+hyperphenylalaninemia
+hyperphoria
+hyperphosphatasemia
+hyperphosphatasia with mental retardation syndrome
+hyperphosphatemia
+hyperpigmentation
+hyperpigmentation in sun-exposed areas
+hyperpigmentation of oral mucosa
+hyperpigmented macules
+hyperpigmented nevi
+hyperpigmented nodule
+hyperpigmented papule
+hyperpigmented streaks
+hyperplasia, thymic
+hyperplastic callus formation
+hyperprolactinemia
+hyperprolinemia
+hyperprostaglandinuria
+hyperproteinemia
+hyperreflexia in the lower limbs
+hypersensitivity pneumonitis
+hypersexuality
+hypersplenism
+hypertelorism
+hypertension associated with pheochromocytoma
+hypertension intracranial
+hypertension pregnancy
+hypertensive chronic kidney disease
+hypertensive crisis
+hypertensive heart and/ renal disease
+hypertensive retinopathy
+hyperthreoninemia
+hyperthyroidism
+hypertonic dehydration
+hypertrichosis cubiti
+hypertrophic cardiomyopathy
+hypertrophic pyloric stenosis
+hypertrophy
+hypertrophy of labia
+hypertrophy of the urinary bladder
+hypertropia
+hyperuricemia
+hyperuricosuria
+hypervalinemia
+hyperzincemia
+hyphema
+hypnagogic hallucinations
+hypnic headache
+hypnopompic hallucinations
+hypoalbumin
+hypoalphalipoproteinemia
+hypoandrogen
+hypoargininemia
+hypobetalipoproteinemia
+hypocalcemia
+hypocalcemic seizures
+hypocalcemic tetany
+hypocalciuria
+hypocalciuric hypercalcemia
+hypocapnia
+hypochloremic metabolic alkalosis
+hypocholesterol
+hypochromic anemia
+hypochromic microcytic anemia
+hypocitraturia
+hypodeviation
+hypodipsia
+hypodontia
+hypofibrinogen
+hypoganglionosis
+hypoglycemia
+hypoglycemia postprandial
+hypoglycemia, current
+hypoglycemic coma
+hypoglycemic encephalopathy
+hypoglycemic episodes
+hypoglycemic seizures
+hypoglycinemia
+hypoglycosylation of alpha-dystroglycan
+hypogonad
+hypogonadism
+hypogonadotroph hypogonadism
+hypohidrosis or hyperhidrosis
+hypoinsulinemia
+hypokalemia
+hypokalemic hypochloremic metabolic alkalosis
+hypokalemic metabolic alkalosis
+hypoketotic hypoglycemia
+hypolipidemia
+hypomagnesemia
+hypomagnesiuria
+hypomelanotic macules
+hypometric horizontal saccades
+hypometric saccades
+hypomyelination
+hyponasal speech
+hyponatremia
+hyponatriuria
+hypoparathyroidism
+hypophonia
+hypophoria
+hypophosphatemia
+hypophosphatemic rickets
+hypophosphaturia
+hypopigment
+hypopigmented skin patches
+hypopigmented streaks
+hypoplasia
+hypoplasia maxillary
+hypoplasia of gallbladder
+hypoplasia of teeth
+hypoplasia of the calcaneus
+hypoplasia of the ciliary body
+hypoplasia of the cochlea
+hypoplasia of the diaphragm
+hypoplasia of the epiglottis
+hypoplasia of the frontal lobes
+hypoplasia of the medullary pyramids
+hypoplasia of the nose
+hypoplasia of the olfactory bulb
+hypoplasia of the ovary
+hypoplasia of the pons
+hypoplasia of the pyramidal tract
+hypoplasia of the ventral pons
+hypoplasia pituitary
+hypoplastic alae
+hypoplastic alveolar bone
+hypoplastic anemia
+hypoplastic anterior commissure
+hypoplastic aorta
+hypoplastic aortic arch
+hypoplastic areolae
+hypoplastic carpal
+hypoplastic facial bones
+hypoplastic helix
+hypoplastic hippocampus
+hypoplastic ischia
+hypoplastic labia
+hypoplastic labia majora
+hypoplastic labia minora
+hypoplastic left atrium
+hypoplastic left heart
+hypoplastic male genitalia
+hypoplastic myelodysplasia
+hypoplastic nasal bridge
+hypoplastic ovaries
+hypoplastic posterior communicating artery
+hypoplastic prostate
+hypoplastic pulmonary veins
+hypoplastic right heart
+hypoplastic right heart syndrome
+hypoplastic sacrum
+hypoplastic scrotum
+hypoplastic spleen
+hypoplastic supraorbital ridges
+hypoplastic sweat glands
+hypoplastic toenails
+hypoplastic tricuspid valve
+hypopnea
+hypoprotein
+hypoproteinemia
+hypoproteinemic edema
+hypopyon
+hyporeflexia
+hyposmia
+hyposmolality and/ hyponatremia
+hypospadias
+hypotelorism
+hypothalamic atrophy
+hypothalamic gliosis
+hypothalamic gnrh deficiency
+hypothalamic hamartoma
+hypothalamic hypothyroidism
+hypothenar hypoplasia
+hypothermia
+hypothermia/chills
+hypothyroidism
+hypotonia
+hypotonia, severe
+hypotrich
+hypotrichosis
+hypotropia
+hypovolemic shock
+hypoxemia
+iatrogenic hypotension
+ichthyosis follicularis
+ictal eeg abnormality
+idiopathic gingival hyperplasia
+idiopathic non-cirrhotic portal hypertension
+idioventricular escape rhythm
+iga nephropathy
+ige increased
+ileal adenocarcinoma
+ileal atresia
+ileostomy status
+ileus
+iliac abnormalities
+iliac arterial calcification
+iliac horns
+ils
+imbalance
+immotile cilia
+immune dysregulation
+immune regulation
+immunity deficiency
+immunodeficiency disease
+immunodeficiency, common variable
+immunodeficiency-centromeric instability-facial anomalies
+immunoglobulin abnormality
+immunoglobulin deficiency
+immunologic abnormality
+immunologic hypersensitivity
+immunologic sensitivity
+immunological abnormality
+impacted
+impaired adaptive immune response
+impaired adp-induced platelet aggregation
+impaired clot retraction
+impaired collagen-induced platelet aggregation
+impaired continence
+impaired fasting glucose
+impaired galactose metabolism
+impaired gluconeogenesis
+impaired myocardial contractility
+impaired nasal mucociliary clearance
+impaired neutrophil chemotaxis
+impaired ocular abduction
+impaired platelet adhesion
+impaired platelet aggregation
+impaired proprioception
+impaired ristocetin-induced platelet aggregation
+impaired saccades
+impaired smooth pursuit
+impaired social reciprocity
+impaired spermatogenesis
+impaired tandem gait
+impaired thermal sensitivity
+impaired two-point discrimination
+impaired visuospatial constructive cognition
+impairment in personality functioning
+impairment of activities of daily living
+impairment of urinary concentration
+imperforate anus
+imperforate atrioventricular valve
+imperforate hymen
+imperforate tricuspid valve
+impetigo
+implantation embryonic lethality
+impulsivity
+in toe
+inability to close the eyelids
+inappropriate antidiuretic hormone secretion
+inappropriate behavior
+inappropriate crying
+inappropriate laughter
+inappropriate sexual behavior
+inappropriate sinus tachycardia
+incision hernia
+incisional hernia
+inclined head
+inclusion bodies in leukocytes
+incomitant strabismus
+incomplete breech
+incomplete congenital stationary night blindness
+incomplete male pseudohermaphroditism
+incomplete partition of the cochlea
+incomplete penetrance
+incomplete septal cirrhosis
+incomprehensible speech
+incontinence stress
+increase in t cell number
+increase temperature
+increased abdominal fat
+increased adiponectin level
+increased adipose tissue
+increased albumin
+increased aldosterone
+increased appetite
+increased arm span
+increased blood alanine
+increased blood lactate
+increased body fat percentage
+increased body height
+increased body weight
+increased bone density
+increased bone resorption
+increased bowel sounds
+increased c peptide level
+increased c-reactive protein
+increased calvarial thickness
+increased capillary permeability
+increased carrying angle
+increased cellular radiosensitivity
+increased cellular sodium
+increased chloride levels
+increased cholesterol esters
+increased chylomicrons
+increased circulating progesterone
+increased connective tissue
+increased corneal curvature
+increased corneal diameter
+increased corneal thickness
+increased creatinine
+increased csf lactate
+increased csf protein
+increased cup disc ratio
+increased diffusing capacity
+increased endomysial connective tissue
+increased erythrocyte protoporphyrin concentration
+increased erythrocyte sediment rate
+increased factor viii activity
+increased ferritin
+increased fetal hemoglobin
+increased fractures
+increased gamma globulin
+increased gastric cancer
+increased glomerular filtration rate
+increased glucagon level
+increased hba1c levels
+increased hematocrit
+increased hemoglobin
+increased hemoglobin oxygen affinity
+increased hepatic echogenicity
+increased hepatocellular carcinoma risk
+increased igm levels
+increased immunoglobulin a
+increased incidence of hepatocellular carcinoma
+increased inflammatory response
+increased intraabdominal fat
+increased intracellular sodium
+increased intramuscular fat
+increased intramyocellular lipid droplets
+increased intraocular pressure
+increased iop
+increased joint mobility
+increased jugular venous pressure
+increased lactate dehydrogenase activity
+increased ldl
+increased leukocytes
+increased levels of igg
+increased liver enzymes
+increased liver function tests
+increased liver glycogen content
+increased lymphocyte apoptosis
+increased lymphocytes
+increased mch
+increased mean corpuscular volume
+increased mitochondrial number
+increased muscle fatiguability
+increased muscle glycogen content
+increased muscle lipid content
+increased neutrophil
+increased nt-probnp level
+increased nuchal translucency
+increased number of b cells
+increased number of teeth
+increased ocular pressure
+increased overbite
+increased peristalsis
+increased pivka-ii
+increased plasma acth
+increased plasma ldl levels
+increased plasma renin
+increased plasma renin activity
+increased plasma tg levels
+increased plasma triglycerides
+increased platelet
+increased prpp synthetase
+increased pulmonary artery pressure
+increased pulmonary capillary wedge pressure
+increased pulmonary vascular resistance
+increased qrs voltage
+increased radioactive iodine uptake
+increased reactive oxygen species production
+increased red blood cell mass
+increased red cell fragility
+increased reflexes
+increased renal tubular phosphate reabsorption
+increased respiratory rate
+increased resting energy expenditure
+increased reticulocytes
+increased ripa
+increased risk of pancreatic cancer
+increased saliva
+increased sensitivity to ionizing radiation
+increased serum alanine
+increased serum androstenedione
+increased serum bile acid concentration
+increased serum bone-specific alkaline phosphatase
+increased serum calcitriol
+increased serum cholesterol
+increased serum creatine kinase
+increased serum estradiol
+increased serum ferritin
+increased serum free triiodothyronine
+increased serum gamma globulin
+increased serum insulin-like growth factor
+increased serum interleukin-6
+increased serum iron
+increased serum leptin
+increased serum parathyroid hormone
+increased serum pyruvate
+increased serum serotonin
+increased serum testosterone levels
+increased serum thyroid hormone
+increased serum triglycerides
+increased serum zinc
+increased sickling of erythrocytes
+increased skin pigment
+increased sleep
+increased startle response
+increased susceptibility to bacterial infections
+increased t3/t4 ratio
+increased testosterone
+increased tone
+increased total iron binding capacity
+increased tsh
+increased urinary chloride
+increased urinary epinephrine
+increased urinary porphobilinogen
+increased urinary potassium
+increased urinary sodium
+increased urinary taurine
+increased urinary urate
+increased urine volume
+increased vertebral height
+incyclotropia
+indolent systemic mastocytosis
+induced vaginal delivery
+indurated skin
+ineffective erythropoiesis
+inertia
+infantile atrophy
+infantile encephalopathy
+infantile hypercalcemia
+infantile liver failure syndrome
+infantile myofibromatosis
+infantile onset
+infect
+infected joint
+infection of the eye
+infections opportunistic
+infective endocarditis
+inferior chorioretinal coloboma
+inferior mesenteric aneurysm
+inferior oblique muscle underaction
+inferior oblique overaction
+inferior oblique palsy
+inferior rectus muscle restriction
+inferior rectus muscle underaction
+inferior vermis hypoplasia
+infertility
+infiltration lung
+inflammation of adipose tissue
+inflammation of large intestine
+inflammation of the eye
+inflammation, spinal cord
+inflammatory arteriopathy
+inflammatory bowel disease
+inflammatory polyneuropathy
+inflammatory pulmonary fibrosis
+inflammatory reaction
+influenza
+infracardiac total anomalous pulmonary venous connection
+infraorbital crease
+infraorbital fold
+infratentorial atrophy
+infrequent generalized seizures
+infundibular ventricular septal defect
+ingrown nail
+inguinal freckling
+inguinal hernia
+inguinal pain
+inheritance
+injuries to the nervous system
+injury, vascular
+inner ear abnormality
+insertional polydactyly
+insomnia
+inspiratory stridor
+instability of ocular fixation
+insufficiency, pancreatic
+insulin insensitivity
+insulin resistance
+insulinemia
+insulinemic hypoglycemia
+intelligence level
+intercostal muscle weakness
+interictal eeg abnormality
+interlobular bile duct destruction
+intermediate atrioventricular septal defect
+intermittent abdominal pain
+intermittent claudication
+intermittent diarrhea
+intermittent hyperventilation
+intermittent hypothermia
+intermittent jaundice
+intermittent lactic acidemia
+intermittent painful muscle spasms
+intermittent thrombocytopenia
+intermittent ventilation
+internal carotid artery calcification
+internal carotid artery dissection
+internal carotid artery hypoplasia
+internal hemorrhage
+internal notch of the femoral head
+internal ophthalmoplegia
+internuclear ophthalmoplegia
+interphalangeal joint erosions
+interphalangeal joint flexion contractures
+interrupted aortic arch
+interrupted aortic arch type a
+interrupted aortic arch type b
+interrupted aortic arch type c
+interrupted inferior vena cava with azygous continuation
+interstitial cardiac fibrosis
+interstitial cell hyperplasia
+interstitial lung disease
+interstitial nephritis
+interstitial pneumonia
+intervertebral disk calcification
+intestinal atresia
+intestinal bleeding
+intestinal carcinoid
+intestinal duplication
+intestinal edema
+intestinal fistula
+intestinal helminthiases
+intestinal hypoperistalsis
+intestinal hypoplasia
+intestinal infection
+intestinal lymphangiectasia
+intestinal lymphoid nodular hyperplasia
+intestinal obstruction
+intestinal polyposis
+intestinal polyps
+intestinal pseudo obstruction
+intimal fibrosis
+intimal thickening in the coronary arteries
+intracranial arterial calcification
+intracranial cystic lesion
+intracranial dermoid cyst
+intracranial epidermoid cyst
+intracranial fusiform aneurysm
+intracranial hemorrhage
+intracranial hypotension
+intracranial internal carotid artery dissection
+intracranial meningioma
+intracranial neurenteric cyst
+intractable diarrhea
+intrahepatic biliary atresia
+intrahepatic biliary dysgenesis
+intrahepatic cholestasis
+intralobar nephrogenic rests
+intralobar sequestration
+intralobular interstitial thickening
+intramuscular myxoma
+intrapartum fever
+intrapulmonary sequestration
+intrapulmonary shunt
+intraretinal exudate
+intraretinal fluid
+intrauterine retardation
+intraventricular arachnoid cyst
+intraventricular hemorrhage
+intrinsic hand muscle atrophy
+intussusception
+invasive parasitic infection
+inverted nipples
+inverted t
+inverted v-shaped upper lip
+involuntary jerking movements
+involuntary movements
+involution entropion
+involutional entropion
+iodine contrast allergy
+iodine hypothyroidism
+iridocyclitis
+iridodonesis
+iris abnormalities
+iris atrophy
+iris cyst
+iris depigmentation
+iris flocculi
+iris hypoperfusion
+iris hypoplasia
+iris melanoma
+iris neovascularization
+iris nevus
+iris pigment dispersion
+iris stromal hypoplasia
+iris transillumination defects
+iris vascularization
+iritis
+iron accumulation in brain
+iron accumulation in globus pallidus
+iron accumulation in substantia nigra
+iron deficiency anemia
+irregular astigmatism
+irregular breathing
+irregular end plates
+irregular epiphyses
+irregular hyperpigmentation
+irregular metaphyses
+irregular period
+irregular pigmentation
+irregular pupil
+irritable
+ischemic necrosis
+ischemic stroke
+isocoria
+isolated cases
+isolated hypogonadotropic hypogonadism
+isolation of the left subclavian artery
+isoleucinemia
+isometric tremor
+isometropia
+isosexual precocious puberty
+isothenuria
+j wave
+j-shaped sella
+jamais vu
+jaundice
+jaw ankylosis
+jaw claudication
+jaw swelling
+jaw winking
+jejunal adenocarcinoma
+jejunal arteriovenous malformation
+jejunal diverticula
+jejunoileal diverticula
+joint contractures, progressive
+joint effusions
+joint flexibility
+joint hyperflexibility
+joint inflammation
+joint instability
+joint laxity
+joint location
+joint mobility
+joint pain
+joint stiffness
+joint swelling
+junction split
+juvenile arthritis
+juvenile colonic polyposis
+juvenile gastrointestinal polyposis
+juvenile idiopathic arthritis
+juvenile onset
+juxtaductal coarctation of the aorta
+juxtafoveal choroidal neovascularization
+kaliuresis
+kaschin-beck disease
+kayser fleischer rings
+keloid
+kenny syndrome
+keratitis
+keratitis sicca
+keratoacanthoma
+keratoconjunctivitis
+keratoconus
+keratosis
+keratosis of palms and soles
+keratosis, gingival
+keratotic papule
+kernicterus
+ketoacidosis
+ketonuria
+ketotic hypoglycemia
+kidney damage
+kidney generation
+kidney infection
+kidney pain
+kidney polycystic
+kidney, single
+kininogen deficiency
+kinked brain stem
+kms
+knee clonus
+knee derangement
+knee dislocation
+knee extension
+knee joint hypermobility
+knee joint mobility
+knee location
+knee osteoarthritis
+knee stiffness
+knot
+koilonychia
+
+kyphoscoliosis
+kyphoscoliosis and scoliosis
+kyphosis
+l-tga
+l5 sacralization
+laband syndrome
+labia minora hypertrophy
+laboratory abnormality
+labyrinthine aplasia
+labyrinthitis
+lack of bowel sounds
+lack of insight
+lack of motivation
+lack of skin elasticity
+lack of speech
+lack of sweat glands
+lack of t cell function
+lacrimal duct aplasia
+lacrimal duct obstruction
+lacrimal duct stenosis
+lacrimal gland hypoplasia
+lacrimal pump failure
+lactase deficiency
+lactescent serum
+lactic acidemia
+lactic acidosis
+lactose:
+lafora bodies
+lag, lid
+lagophthalmos
+lam
+lambdoid craniosynostosis
+laminectomy syndrome
+lange-nielsen syndrome
+language delay
+language speech disorders
+large anterior fontanelle
+large basal ganglia
+large beaked nose
+large breast
+large cell lung cancer
+large cell lymphoma
+large central visual field defect
+large cisterna magna
+large corpus callosum
+large ears
+large elbow
+large epiphyses
+large eyes
+large face
+large fontanelle
+large for gestation age
+large foramen magnum
+large forehead
+large frontal sinus
+large gestational age
+large hand
+large head
+large helix
+large incisor
+large jaw
+large joint contractures
+large joint dislocations
+large kidney
+large knee
+large liver
+large maxilla
+large mouth
+large nares
+large nasal tip
+large nose
+large ovary
+large pelvis
+large pinnae
+large placenta
+large platelets
+large posterior fontanelle
+large premaxilla
+large sella turcica
+large teeth
+large testis
+large thyroid
+large tongue
+large tooth
+large uterus
+large vessel vasculitis
+laryngeal abnormalities
+laryngeal atresia
+laryngeal calcification
+laryngeal cancer
+laryngeal cleft
+laryngeal cyst
+laryngeal edema
+laryngeal hypoplasia
+laryngeal obstruction
+laryngeal paralysis
+laryngeal stenosis
+laryngeal tumor
+laryngeal web
+laryngomalacia
+laryngospasm
+laryngotracheal stenosis
+laryngotracheomalacia
+laser pointer-induced maculopathy
+late effects
+late insomnia
+late onset
+late onset atopic dermatitis
+late onset congenital glaucoma
+late sensorineural hearing loss
+late-onset muscular dystrophy
+latent hyperopia
+lateral cleft lip
+lateral cleft lip and palate
+lateral displacement of the femoral head
+lateral facial cleft
+lateral femoral bowing
+lateral ptosis
+lattice corneal dystrophy
+lattice degeneration
+lax abdominal musculature
+ldd
+ldl low
+learning differences
+left anterior block
+left anterior hemiblock
+left atrial hypertrophy
+left atrial isomerism
+left bundle branch block
+left posterior block
+left posterior hemiblock
+left right shunt
+left sided heart
+left ventricular abnormality
+left ventricular diastolic dysfunction
+left ventricular diastolic function
+left ventricular noncompaction
+left ventricular noncompaction cardiomyopathy
+left ventricular septal hypertrophy
+left ventricular systolic dysfunction
+left ventricular systolic function
+left ventricular-right atrial communication
+leg edema
+leg length discrepancy
+leg muscle stiffness
+leg pain
+leg short
+leg varicose veins
+leg weakness
+legal blindness
+leiomyoma
+leiomyosarcoma
+length dependent motor neuropathy
+lens
+lens coloboma
+lens dislocation
+lens location
+lens opacity
+lens subluxation
+lenticonus
+lenticular astigmatism
+lentiglobus
+lentigo maligna melanoma
+leopard syndrome
+leprosy
+lesion of oral cavity
+lesions of stomach and duodenum
+lethal congenital contracture syndrome
+lethal short-limbed dwarfism
+lethal skeletal dysplasia
+lethargy
+leucine sensitivity
+leucinemia
+leukemia lymphoblastic
+leukemia, promyelocytic
+leukocoria
+leukocytoclastic vasculitis
+leukodystrophy
+leukonychia
+leukopenia
+leukoplakia
+lewy bodies
+leydig cell neoplasia
+lfs
+lhon
+libman-sacks lesions
+lichenification
+ligament laxity
+light induced retinopathy
+light sensitivity
+light-chain paraproteinemia
+light-chain proteinemia
+limb abnormality
+limb apraxia
+limb ataxia
+limb contractures
+limb duplication
+limb dysmetria
+limb dystonia
+limb girdle muscular dystrophy
+limb girdle weakness
+limb hypertonia
+limb malformations
+limb myoclonus
+limb neovascularization
+limb pain
+limb swelling
+limb tremor
+limb weakness
+limb-girdle muscle atrophy
+limb-girdle myopathy
+limbal edema
+limbal injection
+limbal vascularization
+limited elbow movement
+limited extraocular movements
+limited hip extension
+limited hip movement
+limited jaw movement
+limited joint motion
+limited knee extension
+limited knee flexion
+limited knee movement
+limited mouth opening
+limited neck flexion
+limited neck mobility
+limited neck movement
+limited neck range of motion
+limited ocular movements
+limited shoulder movement
+limited wrist extension
+lineage myelodysplasia
+linear hyperpigmentation
+linear pigmentation
+lingual hamartoma
+lingual sensorineural deafness
+lingual thyroid
+lip
+lip coloration
+lip fissure
+lip hyperpigmentation
+lip pigmentation
+lip pits
+lip swelling
+lip tumor
+lipedema
+lipemia retinalis
+lipid accumulation in hepatocytes
+lipodystrophy
+lipoma
+lipomatosis
+lipomeningocele
+lipomyelomeningocele
+lipoprotein disorders
+lipoproteinemia
+liposarcoma
+lips thin
+lisch nodules
+lissencephaly
+lissencephaly type
+little disease
+little finger
+livedo reticularis
+liver abscess
+liver cancer
+liver copper accumulation
+liver cysts
+liver dysfunction
+liver dysfunction, mild
+liver function
+liver regeneration
+liver spots
+liver vascular malformations
+lobar holoprosencephaly
+lobar sequestration
+lobular carcinoma in situ
+lobular glomerulopathy
+lobulated tongue
+localized neuroblastoma
+localized osteoporosis
+localized periodontitis
+localized skin lesion
+located lens
+location of the femoral head
+loeys-dietz syndrome
+long bone fracture
+long chain 3 hydroxyacyl coa dehydrogenase deficiency
+long ear
+long eyelashes
+long face
+long fibula
+long fingers
+long foot
+long hallux
+long metacarpals
+long neck
+long nose
+long palpebral fissures
+long penis
+long philtrum
+long qt
+long segment coarctation of the aorta
+long thorax
+long toe
+long tract signs
+long ulna
+long umbilical cord
+long upper lip
+long uvula
+long-lasting pain
+longitudinal ridges
+longitudinal vaginal septum
+loose anagen hair
+looser zones
+lord
+lordosis
+loss nail
+loss of ability to walk
+loss of corticomedullary differentiation
+loss of deep tendon reflexes
+loss of developmental milestones
+loss of eyebrows
+loss of eyelashes
+loss of facial expression
+loss of facial fat
+loss of large myelinated fibers
+loss of myelinated fibers
+loss of neurons
+loss of retinal pigment epithelium
+loss of tactile sensation
+loss of teeth
+loss of temperature sensation
+loss of vision
+loss speech
+loss voice
+loud first heart sound
+loud snoring
+low 1-minute apgar score
+low 5-minute apgar score
+low albumin
+low alkaline phosphatase
+low apgar score
+low back pain
+low birth weight
+low body mass index
+low body weight
+low bridge
+low copper
+low csf 5-hiaa
+low csf 5-methyltetrahydrofolate
+low factor xi activity
+low femoral bone density
+low ferritin level
+low fibrinogen
+low frequency hearing loss
+low frontal hairline
+low frustration tolerance
+low immunoglobulin
+low intelligence
+low leukocyte alkaline phosphatase
+low maternal serum alpha-fetoprotein
+low maternal serum estriol
+low maternal serum papp-a
+low plasma citrulline
+low plasma cortisol
+low platelet
+low posterior hairline
+low pulse pressure
+low qrs voltage
+low self esteem
+low serum 25-hydroxycholecalciferol
+low serum calcitriol
+low serum iron
+low set ears
+low thyroid hormone
+low voltage eeg
+low white blood cell count
+low-frequency sensorineural hearing loss
+low-output congestive heart failure
+low-set, posteriorly rotated ears
+low-to-normal blood pressure
+lower blood cholesterol
+lower eyelid ectropion
+lower eyelid edema
+lower eyelid retraction
+lower limb amyotrophy
+lower limb atrophy
+lower limb hypertonia
+lower limb phocomelia
+lower limb spasticity
+lower limb symmetry
+lower limb weakness
+lower lip pits
+lower motor neuron disease
+lower thoracic kyphosis
+lower-body predominance
+lumbar hemivertebra
+lumbar hypertrichosis
+lumbar kyphoscoliosis
+lumbar kyphosis
+lumbar lordosis
+lumbar scoliosis
+lumbar spinal stenosis
+lumbosacral meningocele
+lunate-triquetral fusion
+lung abscess
+lung adenocarcinoma
+lung cancer non small cell
+lung cancer squamous cell
+lung cancer, small cell
+lung infection
+lung lymphoma
+lung segmentation defects
+lung transplant
+lung tumor
+lupus
+lupus anticoagulant
+lupus coagulant
+lupus pernio
+luse bodies
+lymph node abnormality
+lymph node hypoplasia
+lymph vessel tumor
+lymphadenitis
+lymphadenopathy
+lymphangioma
+lymphatic disease
+lymphatic obstruction
+lymphedema
+lymphoma, non hodgkin
+lymphomas
+lymphoproliferative disease
+lymphoproliferative syndrome
+lysinemia
+lysinuria
+lytic
+macrocephalic sperm head
+macrocytic anemia
+macrodactyly
+macromelanosomes
+macronodular adrenal hyperplasia
+macrophthalmus
+macroprolactinoma
+macrothrombocytopenia
+macrotia
+macrovesicular steatosis
+macula
+macular atrophy
+macular cherry red spot
+macular coloboma
+macular crystals
+macular degeneration
+macular disease
+macular drusen
+macular dystrophy
+macular edema
+macular exudate
+macular exudates
+macular exudation
+macular fibrosis
+macular generation
+macular hemorrhage
+macular hole
+macular hyperpigmentation
+macular hypopigmentation
+macular hypoplasia
+macular pigment changes
+macular pigmentary changes
+macular pigmentation
+macular scar
+macular schisis
+macular telangiectasia
+macular thickening
+maculopapular rash
+madelung deformity
+magnesemia
+magnesiuria
+maintenance insomnia
+major depression
+major depressive order
+malabsorption
+malabsorption of vitamin b12
+malalignment of the great toenail
+malar rash
+male anorgasmia
+male hypogonadism
+male infertility
+male precocious puberty
+male pseudohermaphroditism
+male sexual dysfunction
+male sexual function
+male-limited autosomal dominant
+males with female external genitalia
+malformation of the neck
+malformations
+malformations venous
+malformed ears
+malignant melanoma
+malignant neoplasm, other
+malignant peripheral nerve sheath tumor
+mallet finger
+malnutrition
+malnutrition, protein
+malocclusion
+malrotation
+malrotation of the small intestine
+malt lymphoma
+mammographic microcalcification
+mammography abnormal
+mandible osteomyelitis
+mandibular cleft
+mandibular excess
+mandibular hyperplasia
+mandibular pain
+manic
+marchesani syndrome
+marfanoid habitus
+marginal cord insertion
+marked delay in bone age
+marked growth retardation
+marked muscular hypertrophy
+masked face
+masseter muscle atrophy
+mast cell disease
+masticatory dysfunction
+mastoiditis
+maternal autoimmune disease
+maternal fever during pregnancy
+maternal first trimester fever
+maternal health problem
+maternal hyperglycemia
+maternal hyperphenylalaninemia
+maternal oligohydramnios
+maternal phenylalaninemia
+maternal seizures
+maternal thrombophilia
+maternal virilization in pregnancy
+mature atherosclerosis
+mature coronary artery disease
+mature neutrophils
+mature ovarian failure
+mature rupture of membranes
+maxillary asymmetry
+maxillary bone deficiency
+maxillary lateral incisor microdontia
+maxillary prognathia
+maxillary retrognathia
+maxillary torus
+mcc
+mcl
+mds
+measles
+mechanic ileus
+mechanical entropion
+mechanical intestinal obstruction
+meckel diverticulum
+meconium amniotic fluid
+meconium ileus
+meconium peritonitis
+medial arterial calcification
+medial deviation of the foot
+median arcuate ligament syndrome
+median cleft lip
+median cleft lip and palate
+median cleft of the upper lip
+median facial cleft
+median nail dystrophy
+mediastinal adenopathy
+mediastinal cystic lymphangioma
+mediastinal lymphadenopathy
+mediastinal teratoma
+mediate uveitis
+medium chain dicarboxylic aciduria
+medullar cystic disease
+medullar thyroid carcinoma
+medullary hematopoiesis
+medullary nephrocalcinosis
+medullary sponge kidney disease
+medulloblastoma
+medulloepithelioma
+mega cisterna magna
+megacalicosis
+megacolon
+megacystis
+megaduodenum
+megakaryocytic thrombocytopenia
+megakaryocytopenia
+megakaryopoiesis
+megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+megaloblastic
+megaloblastic bone marrow
+megalocornea
+meibomian gland dysfunction
+meibomian gland function
+melanoderma
+melanoma, uveal
+melanonychia
+melasma
+melena
+membranes premature rupture
+membranoproliferative glomerulonephritis
+membranoproliferative glomerulonephritis type
+membranous anomaly
+membranous cataract
+membranous choanal atresia
+membranous nephropathy
+membranous subvalvular aortic stenosis
+membranous ventricular septal aneurysm
+memory impairment
+memory loss
+men syndrome
+meniere disease
+meningeal calcification
+meningeal syndrome
+meningioma
+meningitis
+meningocele
+meningoencephalocele
+menometrorrhagia
+menopausal bleeding
+menstrual abnormalities
+mental and motor retardation
+mental deficiency
+mental deterioration in childhood
+mental impairment
+mental orientation
+mental retard
+mental retardation
+mental retardation, mild
+mental retardation, moderate
+mental retardation, progressive
+mental retardation, severe
+meromelia
+mesangial cellularity
+mesangial proliferation
+mesangial sclerosis
+mesangiolysis
+mesenteric artery aneurysm
+mesenteric cyst
+mesenteric thrombosis
+mesiodens
+mesocardia
+mesomelia
+mesomelic short stature
+mesothelioma
+metabolic alkalosis
+metabolic ketoacidosis
+metabolic syndrome
+metacarpal synostosis
+metacarpophalangeal joint contracture
+metachromatic leukodystrophy variant
+metallic taste
+metallic taste in mouth
+metamorphopsia
+metaphyseal chondrodysplasia
+metaphyseal cupping
+metaphyseal dysplasia
+metaphyseal enchondromatosis
+metaphyseal flaring
+metaphyseal rarefaction
+metaphyseal sclerosis
+metaphyseal spurs
+metaphyseal striations
+metaphyseal widening
+metastatic angiosarcoma
+metatarsal synostosis
+methemoglobinemia
+methicillin resistant staphylococcus aureus
+methicillin sensitive staphylococcus aureus
+methicillin-resistant staphylococcus aureus pneumonia
+methionine synthase deficiency
+methylcobalamin deficiency
+methylcrotonylglycinuria
+methylmalonic acidemia
+metopic craniosynostosis
+metopic synostosis
+metropia
+mgc
+micro syndrome
+microalbuminuria
+microblepharism
+microcephaly and chorioretinopathy
+microcephaly, primary autosomal recessive
+microcolon
+microcoria
+microcornea
+microcytic anemia
+microcytosis
+microgastria
+micrognathia
+microgyria
+micromelia
+micronodular cirrhosis
+microphthalmia
+microphthalmia, bilateral
+microphthalmia, isolated
+microprolactinoma
+microretrognathia
+microscopic hematuria
+microscopic nephrocalcinosis
+microspherocytosis
+microspherophakia
+microtropia
+microvascular complications of diabetes
+microvesicular steatosis
+mid systolic murmur
+mid-frequency hearing loss
+middle age onset
+middle cerebral artery stenosis
+middle ear abnormalities
+middle ear malformations
+middle ear tumor
+midface hypoplasia
+midgut malrotation
+midline cleft /palate
+midline cleft of mandible
+midline cleft palate
+midline facial cleft
+midnasal stenosis
+midshaft hypospadias
+migraine
+migration defects
+mild adverse event
+mild cognitive impairment
+mild fetal ventriculomegaly
+mild fever
+mild global developmental delay
+mild growth deficiency
+mild hearing impairment
+mild hyperopia
+mild intrauterine growth retardation
+mild microcephaly
+mild myopia
+mild proteinuria
+mild short stature
+mildly elevated creatine phosphokinase
+mildly reduced ejection fraction
+milia
+milk allergy
+mineralocorticoid deficiency
+mineralocorticoid insufficiency
+minicore disease
+minifascicle formation
+minimal change disease
+minimal subcutaneous fat
+miosis
+mip
+mirror movements
+misaligned eyes
+miscarriage
+miscarriage; stillbirth
+misophonia
+missed abortion/hydatidiform mole
+missing central incisors
+missing first permanent molar
+missing incisors
+missing lateral incisor
+missing lower incisor
+missing mandibular central incisor
+missing maxilla
+missing maxillary central incisor
+missing maxillary lateral incisor
+missing maxillary molar
+missing nose
+missing premaxilla
+missing premolar
+missing toes
+mitochondrial abnormalities
+mitochondrial depletion
+mitochondrial dna depletion syndrome
+mitochondrial dysfunction
+mitochondrial encephalopathy
+mitochondrial function
+mitochondrial inheritance
+mitochondrial myopathy
+mitochondrial respiratory chain defects
+mitochondrial swelling
+mitral annular calcification
+mitral atresia
+mitral regurgitation, mild
+mitral ring
+mitral valve calcification
+mitral valve prolapse
+mitral valve prolapse, myxomatous
+mittendorf dot
+mixed astigmatism
+mixed cirrhosis
+mixed demyelinating and axonal neuropathy
+mixed gonadal dysgenesis
+mixed hyperlipidemia
+mixed lipidemia
+mixed neuropathy
+mixed respiratory and metabolic acidosis
+mixed total anomalous pulmonary venous connection
+miyoshi muscular dystrophy
+mizuo phenomenon
+mks
+ml ii
+mobitz ii
+moderate global developmental delay
+moderate hearing impairment
+moderate hyperopia
+moderate intrauterine growth retardation
+moderate myopia
+moderate proteinuria
+moderate sensorineural hearing impairment
+moderate short stature
+moderate visual impairment
+moderately reduced ejection fraction
+molar tooth sign
+mole
+molluscoid pseudotumors
+molybdenum cofactor deficiency
+mondini malformation
+mongoloid slant of palpebral fissures
+mono
+monocytic leukemia
+monocytopenia
+monocytosis
+monomorphic ventricular tachycardia
+mononeuropathy
+monorchism
+monostotic fibrous dysplasia
+monotonic speech
+mood changes
+morbilliform
+morbilliform rash
+morgagni hernia
+morning glory anomaly
+morphea
+morphopsia
+mortality/aging
+mos
+mosaic corneal dystrophy
+motility
+motor aphasia
+motor axonal neuropathy
+motor conduction block
+motor deterioration
+motor development delay
+motor impersistence
+motor neuron degeneration
+motor neuron generation
+motor neuropathy
+motor polyneuropathy
+motor tics
+mottled pigmentation
+mouth opening
+movement disorders
+moyamoya disease
+moyamoya phenomenon
+mozart ear
+mrs
+msu
+mucinous colorectal carcinoma
+mucinous cystic neoplasm of the pancreas
+mucinous gastric carcinoma
+mucinous histiocytosis
+mucinous rectal carcinoma
+mucinous tumor
+mucocutaneous candidiasis
+mucopolysaccharidosis
+mucopolysacchariduria
+mulberry molar
+multicystic kidney
+multifactorial inheritance
+multifocal breast cancer
+multifocal epileptiform discharges
+multifocal seizures
+multinodular thyroid
+multiple bladder diverticula
+multiple cafe-au-lait spots
+multiple congenital anomalies-hypotonia-seizures syndrome
+multiple cutaneous malignancies
+multiple epiphyseal dysplasia
+multiple joint contractures
+multiple joint locations
+multiple lentigines
+multiple lipomas
+multiple mitochondrial dna deletions
+multiple mitochondrial dysfunctions syndrome
+multiple mucosal neuromas
+multiple muscular ventricular septal defects
+multiple pancreatic cysts
+multiple pregnancy
+multiple pterygia
+multiple pulmonary infections
+multiple renal cysts
+multiple rib fractures
+multiple sclerosis
+multiple skeletal anomalies
+multiple small bowel atresias
+multiple suture craniosynostosis
+multiple synostosis syndrome
+multiple trichilemmomas
+multiple unerupted permanent teeth
+multiple unerupted teeth
+multiple vertebral anomalies
+multiple, cutaneous nodules
+multiple, subcutaneous nodules
+murmur
+murmur systolic
+muscle atrophy
+muscle atrophy, proximal
+muscle degeneration
+muscle disease
+muscle fatigue
+muscle fiber atrophy
+muscle fiber generation
+muscle fiber hypertrophy
+muscle fiber necrosis
+muscle fibrillation
+muscle generation
+muscle hematoma
+muscle hypertrophy
+muscle hypoplasia
+muscle inflammation
+muscle irritability
+muscle mounding
+muscle pain
+muscle pain with exercise
+muscle stiffness
+muscle weakness
+muscular abnormality
+muscular edema
+muscular hemorrhage
+muscular myxoma
+muscular subaortic stenosis
+muscular ventricular septal aneurysm
+muscular ventricular septal defect
+musculotendinous retraction
+musty odor
+mutism
+mva syndrome
+myasthenia
+myasthenia gravis
+myasthenic syndrome, congenital
+mydriasis
+myelin outfoldings
+myelinated retinal nerve fibers
+myelination
+myelination of the brain
+myeloblastic leukemia
+myeloid leukemia
+myelokathexis
+myeloma
+myelomeningocele
+myeloschisis
+myocard
+myocardial bridging
+myocardial calcification
+myocardial eosinophilic infiltration
+myocardial fiber disarray
+myocardial fibrosis
+myocardial lymphocytic infiltration
+myocardial steatosis
+myocarditis
+myoclonic absences
+myoclonic atonic seizures
+myoclonic seizures
+myoclonic spasms
+myoclonic tonic seizures
+myoclonus
+myofibrillar changes
+myoglobinuria
+myokymia
+myopathic electromyogram
+myopathic face
+myopathy, centronuclear
+myopia
+myopic astigmatism
+myotonia
+myotonic dystrophy
+myxoid cutaneous tumors
+myxoid liposarcoma
+myxomatous mitral valve degeneration
+nad
+nail disease
+nail disorder, nonsyndromic congenital
+nail dyschromia
+nail dysplasia
+nail dystrophy
+nail pitting
+nail tumor
+nail-biting
+narcolepsy
+narrow
+narrow chest
+narrow femoral neck
+narrow foot
+narrow forehead
+narrow hand
+narrow head
+narrow head shape
+narrow iliac wings
+narrow internal auditory canal
+narrow mandible
+narrow nail
+narrow nostrils
+narrow palate
+narrow pelvis
+narrow toe
+nasal abnormality
+nasal bone hypoplasia
+nasal deformity
+nasal flaring
+nasal fullness
+nasal hemianopia
+nasal hypertrophy
+nasal inflammation
+nasal malformation
+nasal obstruction
+nasal polyps
+nasal regurgitation
+nasal sinus neoplasm
+nasal speech
+nasal tumor
+nasofrontal encephalocele
+nasogastric tube feeding
+nasolacrimal duct atresia
+nasolacrimal duct obstruction
+nasopharyngeal angiofibroma
+nasopharyngeal teratoma
+nasopharyngeal tumor
+natal asphyxia
+natal death
+natal growth retardation
+natal microcephaly
+natal onset
+natremia
+natriuria
+nausea
+nausea and vomiting
+nbo
+ncrna
+near esotropia
+near exotropia
+neck deformity
+neck flexor weakness
+neck muscle hypertrophy
+neck muscle weakness
+neck pain
+neck pterygium
+neck stiffness
+necrolytic migratory erythema
+necrotic changes
+necrotizing encephalopathy
+necrotizing myopathy
+negative affectivity
+nemaline myopathy
+nemaline rods
+neonatal bilirubinemia
+neonatal breathing dysregulation
+neonatal cholestatic liver disease
+neonatal conjugated hyperbilirubinemia
+neonatal death
+neonatal hemolytic anemia
+neonatal hyperbilirubinemia
+neonatal hyperphenylalaninemia
+neonatal inspiratory stridor
+neonatal intestinal obstruction
+neonatal jaundice
+neonatal onset
+neonatal pneumothorax
+neonatal respiratory distress
+neonatal respiratory stress
+neonatal sepsis
+neonatal short-limbed dwarfism
+neonatal teeth
+neonatal thrombocytopenia
+neonatal unconjugated hyperbilirubinemia
+neoplasia of the biliary tract
+neoplasia of the pleura
+neoplasm of the anterior pituitary
+neovascularization, retinal
+nephritis
+nephroblastomatosis
+nephrocalcinosis
+nephrogenic diabetes insipidus
+nephrogenic rests
+nephronophthisis
+nephropathy
+nephroptosis
+nephrotic range proteinuria
+nephrotic syndrome
+nerve compression
+nerve conduction abnormalities
+nerve root and plexus disorders
+nerve root lesions
+nerve sheath tumor
+nerve tumor
+nervous system abnormalities
+nervous system tumor
+neurenteric cyst
+neuritis retrobulbar
+neuro-degenerative disease
+neuroblast
+neuroblast tumors
+neuroblastic tumors
+neuroblastoma
+neurocytoma
+neurodegeneration
+neurodegeneration with brain iron accumulation
+neurodegeneration, progressive
+neurodegenerative disease
+neurodevelopmental abnormality
+neurodevelopmental delay
+neurodevelopmental regression
+neuroectodermal tumor
+neuroendocrine tumors
+neuroepithelial tumor
+neurofibrillar tangles
+neurofibrillary tangles
+neurofibromas
+neurofibromatosis
+neurogenic bladder
+neurological disease
+neuromuscular dysphagia
+neuronal loss
+neuronal loss in basal ganglia
+neuronal loss in the cerebral cortex
+neuropathy
+neuropathy in diabetes
+neuropathy, peripheral
+neurophysiologic abnormalities
+neutral aminoaciduria
+neutropenia
+neutrophil abnormality
+neutrophil inclusion bodies
+neutrophil infiltration of the skin
+nevus anemicus
+nevus flammeus of the forehead
+nevus ota
+nevus sebaceus
+nevus spilus
+night sweats
+nls
+no auditory brainstem response
+no axillary hair
+no eyebrows
+no eyelashes
+no social interaction
+nocturia
+nocturnal
+nocturnal hypoventilation
+nocturnal lagophthalmos
+nodular corneal dystrophy
+nodular goiter
+nodular melanoma
+nodules skin
+nodules subcutaneous
+noise sensitivity
+noisy breathing
+non healing surgical wound
+non-fluent aphasia
+non-occlusive coronary artery disease
+non-proliferative glomerulonephritis
+non-pruritic urticaria
+non-restrictive ventricular septal defect
+nonarteriosclerotic cerebral calcification
+nonarteritic anterior ischemic optic neuropathy
+noncompaction cardiomyopathy
+nonconvulsive status epilepticus
+nonfunctioning pituitary adenoma
+nongranulomatous uveitis
+nonimmune hydrops
+noninfectious gastroenteritis
+nonketotic hypoglycemia
+nonmedullary thyroid carcinoma
+nonmotile sperm
+nonocclusive coronary artery stenosis
+nonprogressive cerebellar ataxia
+nonprogressive encephalopathy
+nonprogressive visual loss
+nonspherocytic hemolytic anemia
+nontoxic multinodular goiter
+nontoxic nodular goiter
+nontraumatic compartment syndrome
+nonverbal
+noonan syndrome
+noonan syndrome-like disorder with loose anagen hair
+normal cervical spine
+normal periods
+normochromic anemia
+normochromic microcytic anemia
+normocytic anemia
+notched nasal tip
+notched p wave
+npc
+nrem parasomnia
+nuchal cord
+nuchal rigidity
+nuclear bodies
+nuclear cataract
+nuclear ophthalmoplegia
+nuclear pulverulent cataract
+numerary tooth
+numerous congenital melanocytic nevi
+numerous nevi
+nystagmus
+obesity grade
+obesity severe
+obesity syndrome
+oblique astigmatism
+obsessive compulsive disorder
+obsessive-compulsive traits
+obstructive azoospermia
+obstructive chronic bronchitis
+obstructive genitourinary defect
+obstructive pulmonary disease
+obstructive shock
+obtundation status
+occipital cortical atrophy
+occipital encephalocele
+occipital meningocele
+occipital neuralgia
+occluded
+occlusion vein
+occlusive arterial disease
+occlusive vascular disease
+ochronosis
+ocular albinism
+ocular depression
+ocular inflammation
+ocular melanosis
+ocular muscle palsy
+ocular ptosis
+oculocutaneous albinism
+oculogyric crisis
+oculomotor apraxia
+oda
+odontitis
+odontogenic keratocyst
+odontogenic tumor
+odontoid hypoplasia
+odontoma
+oesophageal reflux disease
+ofc syndrome
+olfactory auras
+oligoarthritis
+oligoclonal t cell expansion
+oligogenic inheritance
+oligohydramnios
+oligomenorrhea
+oligosacchariduria
+oligozoospermia
+oliguria and anuria
+olisthesis
+olivary degeneration
+olivopontocerebellar atrophy
+olivopontocerebellar hypoplasia
+omd
+ome
+oncology
+one nostril
+onion bulb formation
+onset at birth
+onychauxis
+onychia
+onycholysis
+onychomycosis
+open angle glaucoma
+open bite
+open cranial sutures
+open operculum
+open sutures
+open wounds of head; neck; and trunk
+operative infection
+operative shock
+ophthalmoplegia
+opisthotonus
+opitz gbbb syndrome
+opportunist infection
+opposable triphalangeal thumb
+opposition defiant disorder
+oppositional defiant disorder
+ops
+opsoclonus
+optic atrophy
+optic disc hypoplasia
+optic nerve abnormalities
+optic nerve coloboma
+optic nerve compression
+optic nerve drusen
+optic nerve dysplasia
+optic nerve hypoplasia
+optic nerve misrouting
+optic neuritis
+optic neuritis/neuropathy
+optic neuropathy
+optically empty vitreous
+oral aversion
+oral bleeding
+oral cleft
+oral dermatitis
+oral erythroplakia
+oral frenulum
+oral herpes
+oral hyperpigmentation
+oral leukoplakia
+oral lichenoid lesion
+oral pharyngeal dysphagia
+oral synechia
+oral tumor
+oral ulcers
+orality
+orange tonsils
+orbital cellulitis
+orbital cleft
+orbital cyst
+orbital dermoid cyst
+orbital encephalocele
+orbital fold
+orbital fullness
+orbital schwannoma
+orbital swelling
+orbital wrinkles
+orchidism
+orchitis
+order of tooth eruption
+organ abnormality
+organic aciduria
+origin of right pulmonary artery from ascending aorta
+ornithinuria
+orofacial cleft
+orofacial dyskinesia
+oromandibular dystonia
+oromotor apraxia
+oropharyngeal squamous cell carcinoma
+orotic aciduria
+orthodromic atrioventricular reentrant tachycardia
+orthokeratosis
+orthokeratotic hyperkeratosis
+orthopnea
+orthostatic hypotension
+orthostatic hypotension due to autonomic dysfunction
+orthostatic syncope
+orthostatic tachycardia
+orthotopic os odontoideum
+os odontoideum
+osmia
+osmidrosis
+osmolar dehydration
+ossicular malformation
+ossification of skull
+ossified vertebral bodies
+ossifying fibroma
+ossifying fibroma of the jaw
+osteoarthritis
+osteoarthritis of the distal interphalangeal joint
+osteoarthritis of the elbow
+osteoarthritis of the first carpometacarpal joint
+osteoarthritis; localized
+osteoblastoma
+osteochondroma
+osteochondropathies
+osteochondrosis
+osteogenesis
+osteoid osteoma
+osteoma
+osteomalacia
+osteomyelitis
+osteopathia striata
+osteopenia
+osteopetrosis
+osteopetrosis, autosomal dominant
+osteopetrosis, autosomal recessive
+osteopoikilosis
+osteoporosis
+osteoporosis of vertebrae
+osteoporosis, severe
+ostium primum
+ostotic fibrous dysplasia
+other anemias
+other aneurysm
+other arthropathies
+other biliary tract disease
+other cardiomyopathy
+other conditions of brain
+other degenerative diseases of the basal ganglia
+other diseases of lung
+other disorders of metabolism
+other dyspnea
+other endocrine disorders
+other headache syndromes
+other hemoglobinopathies
+other hereditary hemolytic anemias
+other high-risk pregnancy
+other hypertensive complications
+other immunologic findings
+other infectious and parasitic diseases
+other inflammatory spondylopathies
+other mental disorder
+other peripheral nerve disorders
+other retinal disorders
+other thyroid disorders
+otia
+otic syndrome
+otitis externa
+otitis media
+otorrhea
+otosclerosis
+oval face
+oval pupil
+ovarian cancer
+ovarian dysfunction
+ovarian dysgenesis
+ovarian fibroma
+ovarian function
+ovarian gonadoblastoma
+ovarian mucinous tumor
+ovarian papillary adenocarcinoma
+ovarian serous cystadenoma
+ovarian teratoma
+ovarian thecoma
+ovarian tumor
+ovary
+ovary inflammation
+ovary polycystic
+over weight
+overactive bladder
+overactive bladder syndrome
+overbite
+overfolded ears
+overfriendliness
+overgrowth
+overgrowth of craniofacial bones
+overgrowth of one leg
+overjet
+overlapping fingers
+overlapping toes
+overriding aorta
+overtubulated long bones
+ovoid vertebral bodies
+ovulation pain
+oxidative stresses
+oxygen desaturation on exertion
+oxygen saturation on exertion
+oxyprolinuria
+p wave inversion
+pace of progression
+pachygyria
+pachyonychia congenita
+pad
+paf
+paget disease
+pah
+pain characteristic
+pain respiratory
+painful subcutaneous lipomas
+palatal myoclonus
+palatal perforation
+palate abnormality
+palate edema
+palate fistula
+pale
+palindromic rheumatism
+pallidal degeneration
+palmar edema
+palmar hyperhidrosis
+palmar hyperkeratosis
+palmar keratosis
+palmar pits
+palmomental reflex
+palmoplantar erythema
+palmoplantar hyperhidrosis
+palmoplantar keratoderma
+palmoplantar psoriasis
+palpebral fissure narrowing on adduction
+palpitations
+palsy
+palsy pseudobulbar
+pan
+pancreas
+pancreas divisum
+pancreatic abscess
+pancreatic adenocarcinoma
+pancreatic agenesis
+pancreatic aplasia
+pancreatic calcification
+pancreatic cyst
+pancreatic dysplasia
+pancreatic fibrosis
+pancreatic fistula
+pancreatic hyperplasia
+pancreatic hypoplasia
+pancreatic islet cell adenoma
+pancreatic islet hyperplasia
+pancreatic pseudocyst
+pancreatic squamous cell carcinoma
+pancreatic tumor
+pancreatitis
+pancreatoblastoma
+panhypogammaglobulinemia
+panhypopituitarism
+pansynostosis
+panuveitis
+pap
+papa
+papillary cystadenoma of the epididymis
+papillary renal cell carcinoma type
+papillary thyroid carcinoma
+papilledema
+papilloma
+papules
+papules white
+paracentral scotoma
+parachute mitral valve
+paradoxic breathing
+paradoxical breathing
+paradoxical myotonia
+paradoxical splitting of the second heart sound
+parafoveal fixation
+paraganglioma
+parakeratosis
+paralytic ectropion
+paralytic lagophthalmos
+paralytic strabismus
+paramedian facial cleft
+paranoia
+paraparesis
+paraphimosis
+paraplegia
+paraplegia/paraparesis
+paraproteinemia
+parapsoriasis
+paraspinal neurofibromas
+parathyroid
+parathyroid adenoma
+parathyroid aplasia
+parathyroid carcinoma
+parathyroid function
+parathyroid hormone resistance
+parathyroid hyperplasia
+parathyroid tumor
+parathyroidism
+paravenous chorioretinal atrophy
+paresthesia
+parietal bossing
+parietal cortical atrophy
+parietal encephalocele
+parietal meningocele
+parity
+parkinson disease
+parkinsonian tremor
+parkinsonism
+paronychia
+parotid enlargement
+parotid oncocytoma
+parotitis
+paroxysmal dyskinesia
+paroxysmal dystonia
+paroxysmal hemoglobinuria
+paroxysmal laughter
+paroxysmal sneezing
+paroxysmal supraventricular tachycardia
+paroxysmal tachycardia
+paroxysmal vertigo
+partial absence of the septum pellucidum
+partial aniridia
+partial anomalous pulmonary venous connection
+partial anosmia
+partial iga deficiency
+partial or complete agenesis of the corpus callosum
+partial seizures
+partial seizures with secondary generalization
+partial thromboplastin time increased
+partial ureteral duplication
+partial vaginal septum
+partum haemorrhage
+pat
+patchy alopecia
+patchy atrophy of the retinal pigment epithelium
+patchy depigmentation
+patchy hypopigmentation
+patellar abnormality
+patellar dislocation
+patellar location
+patellar subluxation
+patent foramen ovale
+pathology processes
+pattern dystrophy of the retina
+patulous urethra
+paucity of anterior horn motor neurons
+pbs
+pca
+pcd
+pcm
+pda
+pdv
+pear-shaped nose
+pear-shaped vertebral bodies
+pectoralis major hypoplasia
+pectus deformity
+pectus excavatum
+peg shaped incisors
+peg-shaped maxillary lateral incisors
+pellagra
+pelvic arteriovenous malformation
+pelvic asymmetry
+pelvic girdle weakness
+pelvic inflammatory disease (pid)
+pelvic kidney
+pelvic mass
+pelvic organ prolapse
+pelvic symmetry
+pemphigus and pemphigoid
+pendular nystagmus
+pendulous urethral stricture
+penetrating aortic ulcer
+penile agenesis
+penile duplication
+penile freckling
+penile melanosis
+penile tumor
+penoscrotal hypospadias
+penoscrotal transposition
+peptic ulcer
+percussion myotonia
+perforation
+perianal abscess
+perianal rash
+periapical lesion
+periapical tooth abscess
+periarticular calcification
+periauricular sinus
+peribronchovascular interstitial thickening
+pericardial constriction
+pericardial effusion
+pericardial mesothelioma
+pericarditis
+pericentral retinitis pigmentosa
+pericentral scotoma
+perifascicular muscle fiber atrophy
+perifollicular erythema
+perifollicular fibrosis
+perifollicular hyperkeratosis
+perifollicular inflammation
+perifollicular keratosis
+perilobar nephrogenic rests
+perimembraneous ventricular septal defect
+perimembranous ventricular septal defect
+perinatal jaundice
+perineal fistula
+perineal hemangioma
+perineal hypospadias
+perinephric fluid collection
+perinephritis
+period pain
+period paralysis
+period respiration
+periodic
+periodic breathing
+periodic paralysis
+periodontal disease
+periodontitis
+perioral dermatitis
+perioral eczema
+perioral pigmentation
+periorbital cellulitis
+periorbital dermoid cyst
+periorbital edema
+periorbital fullness
+periorbital hyperpigmentation
+periorbital pigmentation
+periorbital purpura
+periorbital swelling
+periorbital wrinkles
+periost reaction
+periosteal bone formation
+periosteal bone resorption
+periosteal reaction
+periostitis
+periostosis
+peripapillary chorioretinal atrophy
+peripapillary exudate
+peripheral arterial calcification
+peripheral arterial stenosis
+peripheral arteriovenous fistula
+peripheral autonomic neuropathy
+peripheral axonal degeneration
+peripheral axonal neuropathy
+peripheral corneal opacity
+peripheral cystoid degeneration
+peripheral dysmyelination
+peripheral edema
+peripheral fixation
+peripheral hypomyelination
+peripheral myelination
+peripheral nerve compression
+peripheral nerve tumor
+peripheral or central vertigo
+peripheral pulmonary stenosis
+peripheral retinal atrophy
+peripheral retinal degeneration
+peripheral retinal detachment
+peripheral retinal neovascularization
+peripheral retinal vascularization
+peripheral schwann
+peripheral schwannoma
+peripheral thrombosis
+peripheral traction retinal detachment
+peripheral uveitis
+peripheral vision loss
+periportal fibrosis
+perirectal abscess
+perirenal hematoma
+peristalsis
+perisylvian polymicrogyria
+peritoneal abscess
+peritoneal effusion
+peritoneal fibrosis
+peritoneal mesothelioma
+peritonitis
+periungual fibroma
+perivascular cardiac fibrosis
+perivascular spaces
+periventricular cysts
+periventricular neuronal heterotopia
+periventricular white matter abnormalities
+periventricular white matter hyperintensities
+permanent atrial fibrillation
+permanent junctional reciprocating tachycardia
+pernicious anemia
+peromelia
+peroneal muscle weakness
+peroxisome biogenesis disorders
+perrault syndrome
+persistent cloaca
+persistent lactic acidosis
+persistent left superior vena cava
+persistent open anterior fontanelle
+persistent patent ductus venosus
+persistent pupillary membrane
+persistent stapedial artery
+persistent vomiting
+personality changes
+personality disorder
+personality, schizoid
+perthes disease
+pes cavus
+petechiae
+peters anomaly
+pfm
+ph+ all
+pha
+phacodonesis
+phacomatosis
+phakodonesis
+phalangeal dislocation
+phalangeal sclerosis
+phalangeal thumb
+pharyngeal dysphagia
+pharyngeal tumor
+phenylketonuria
+phenylketonuria [pku]
+pheochromocytoma
+philtrum, tented
+phimosis
+phlebitic syndrome
+phobias
+phocomelia
+phonophobia
+phosphatasemia
+phosphatemia
+phosphorus disorders
+photic retinopathy
+photodysphoria
+photomyoclonic seizures
+photoparoxysmal response
+photosensitivity
+phthisis bulbi
+physeal abnormality
+physical form
+physical urticaria
+pica
+piebald
+piezogenic pedal papules
+pigment anomaly
+pigment changes
+pigment deposition in the trabecular meshwork
+pigment gallstones
+pigment retinopathy
+pigment spots
+pigmentary retinal degeneration
+pigmentary retinal dystrophy
+pigmentation of the fundus
+pigmentation of the sclera
+pigmentation of the skin
+pigmented fundi
+pigmented fundus
+pigmented gums
+pigmented macules
+pigmented micronodular adrenocortical disease
+pigmented nodular adrenocortical disease, primary
+pigmented nodule
+pigmented papule
+pigmented streaks
+pili canaliculi
+pili torti
+pill rolling
+pilonidal abscess
+pilonidal sinus
+pinched nasal tip
+pinched nose
+pineal
+pineal cyst
+pineal gland calcification
+pineal tumor
+pineoblastoma
+pineocytoma
+pinky finger
+pituicytoma
+pituitarism
+pituitary adenoma
+pituitary calcification
+pituitary deficiency
+pituitary disease
+pituitary function
+pituitary gonadotropin
+pituitary gonadotropinoma
+pituitary growth hormone cell adenoma
+pituitary hyperfunction
+pituitary somatotropin
+pituitary thyroid hormone resistance
+pituitary thyrotropin
+pityriasis
+placenta previa and abruptio placenta
+placental abruption
+placental infarction
+placoid macular lesion
+plantar edema
+plantar flexion contractures
+plantar hyperkeratosis
+plantar keratoses
+plantar keratosis
+plantar pits
+plaque
+plasmacytosis
+platelet antibody
+platyspondyly
+ple
+pleocytosis
+plethora
+pleural effusion
+pleurisy
+pleurisy; pleural effusion
+plexiform neurofibroma
+plica syndrome
+pmt
+pnd
+pne
+pneumococcal pneumonia
+pneumoconiosis
+pneumomediastinum
+pneumonia caused by pseudomonas
+pneumoniae
+pneumothorax
+podagra
+podocyte foot process effacement
+poh
+poikilocytosis
+poikiloderma
+pointed chin
+poisoning by analgesics, antipyretics, and antirheumatics
+polar cataract
+polyarthritis
+polyarticular chondrocalcinosis
+polyclonal gammaglobulinemia
+polyclonal hypergammaglobulinemia
+polycoria
+polycyclic
+polycythemia vera, secondary
+polydactyly
+polydactyly of feet
+polydipsia
+polygenic inheritance
+polyglobulia
+polyglucosan body myopathy
+polyhydramnios
+polymicrogyria
+polymorphic ventricular tachycardia
+polymyositis
+polyneuropathy
+polyorchidism
+polypoidal choroidal vasculopathy
+polyps rectal
+pompholyx
+pontine tegmental cap
+pontocerebellar atrophy
+pontocerebellar hypoplasia
+poor attention control
+poor bladder function
+poor coordination
+poor eye contact
+poor growth
+poor hand-eye coordination
+poor head control
+poor motor coordination
+poor school performance
+poor speech
+poor speech discrimination
+poor sucking
+poor temperature regulation
+poor wound healing
+poorly ossified skull
+popliteal pterygium
+porencephalic cyst
+porencephaly
+porokeratosis
+poroma
+porphyria
+porphyrinuria
+portal fibrosis
+portal fibrosis without cirrhosis
+portal hypertension
+portal vein thrombosis
+portosystemic collateral veins
+position of the great arteries
+positive gowers sign
+positive pathergy test
+positive perchlorate discharge test
+positive romberg sign
+post-transfusion thrombocytopenia
+postauricular fistula
+postaxial oligodactyly
+postaxial polydactyly
+postaxial polydactyly of feet
+postductal aortic coarctation
+posterior capsular cataract
+posterior capsular cataracts
+posterior cerebral artery stenosis
+posterior communicating artery aneurysm
+posterior cortical cataract
+posterior displacement of the tongue
+posterior embryotoxon
+posterior fossa abnormalities
+posterior fossa cyst
+posterior lenticonus
+posterior leukoencephalopathy
+posterior plagiocephaly
+posterior polar cataract
+posterior radial head dislocation
+posterior rib gap
+posterior scalloping of vertebral bodies
+posterior staphyloma
+posterior subcapsular cataract
+posterior synechiae
+posterior urethral valves
+posterior uveitis
+posterior wedging
+posteriorly rotated
+postinflammatory pulmonary fibrosis
+postlingual sensorineural hearing impairment
+postmenopausal bleeding
+postnasal drip
+postnatal growth retardation
+postnatal macrocephaly
+postnatal microcephaly
+postoperative infection
+postoperative shock
+postprandial glycemia
+postprandial hyperglycemia
+postprocedural fever
+postterm pregnancy
+postthrombotic syndrome
+postural instability
+postural scoliosis
+postural tremor
+potassemia
+potato nose
+potter facies
+ppb
+ppc
+pr depression
+pr segment elevation
+prandial hyperglycemia
+prandial hypoglycemia
+preauricular pits
+preauricular sinus
+preauricular tags
+preaxial hallucal polydactyly
+preaxial polydactyly
+preaxial polydactyly of feet
+precordial pain
+preductal coarctation of aorta
+preeclampsia/eclampsia
+preexcitation
+pregnancy exposure
+preimplantation embryonic lethality
+prelingual sensorineural deafness
+premacular hemorrhage
+premature adrenarche
+premature arteriosclerosis
+premature arthritis
+premature atherosclerosis
+premature breast development
+premature chromatid separation
+premature coronary artery disease
+premature ejaculation
+premature epiphyseal closure
+premature graying
+premature ovarian failure
+premature pubarche
+premature suture closure
+prematurely aged appearance
+prematurity retinopathy
+premaxillary retrusion
+premenopausal menorrhagia
+prenatal onset
+preretinal hemorrhage
+presacral ganglioneuroma
+presbyopia
+presenile cataract
+pressure injury
+pressure ulcers
+pretesticular azoospermia
+pretibial edema
+pretibial epidermolysis bullosa
+pretibial myxedema
+priapism
+primary amenorrhea
+primary caesarian section
+primary central nervous system lymphoma
+primary congenital glaucoma
+primary generalized tonic-clonic seizures
+primary gonadal insufficiency
+primary hypercoagulable state
+primary hyperparathyroidism
+primary hypothyroidism
+primary open angle glaucoma
+primary parathyroidism
+primary renal insufficiency
+primary thrombocytopenia
+primitive neuroectoderm tumor
+primitive reflexes
+problems psychiatric
+problems speaking
+proboscis
+procedural fever
+proclination of the upper incisors
+productive cough
+profound global developmental delay
+profound hearing impairment
+profound sensorineural hearing impairment
+progeria
+progressive alopecia
+progressive brain disease
+progressive cataract
+progressive choreoathetosis
+progressive conductive deafness
+progressive cone degeneration
+progressive congenital scoliosis
+progressive disorder
+progressive distal muscle weakness
+progressive distal muscular atrophy
+progressive encephalopathy
+progressive external ophthalmoplegia
+progressive extrapyramidal movement disorder
+progressive forgetfulness
+progressive gait ataxia
+progressive hyperpigmentation
+progressive hypotrichosis
+progressive inability to walk
+progressive inspiratory stridor
+progressive joint destruction
+progressive language deterioration
+progressive leukoencephalopathy
+progressive macrocephaly
+progressive mental and motor deterioration
+progressive microcephaly
+progressive muscle weakness
+progressive myopia
+progressive neuropathy
+progressive night blindness
+progressive ophthalmoplegia
+progressive peripheral neuropathy
+progressive pes cavus
+progressive pigmentation
+progressive proximal muscle weakness
+progressive ptosis
+progressive renal failure
+progressive reticulate hyperpigmentation
+progressive retinal degeneration
+progressive spastic paraparesis
+progressive spastic paraplegia
+progressive spastic quadriparesis
+progressive spasticity
+progressive spinal muscular atrophy
+progressive truncal ataxia
+progressive ventriculomegaly
+progressive visual field defects
+progressive vitiligo
+projectile vomiting
+prolactin deficiency
+prolactinemia
+prolactinoma
+prolapse urethral
+proliferation of myeloid cells
+proliferative glomerulonephritis
+prolinuria
+prolonged bleeding after dental extraction
+prolonged bleeding after minor trauma
+prolonged bleeding after surgery
+prolonged euglobulin clot lysis time
+prolonged mepc
+prolonged prothrombin time
+prolonged qrs interval
+prolonged qtc interval
+prolonged somatosensory evoked potentials
+prominent antihelix
+prominent antitragus
+prominent calcaneus
+prominent coccyx
+prominent columella
+prominent eyebrows
+prominent eyelashes
+prominent eyes
+prominent fingertip pads
+prominent forehead
+prominent glabella
+prominent globes
+prominent head
+prominent joints
+prominent lip
+prominent lower lip
+prominent metopic suture
+prominent midface
+prominent midpalatal ridge
+prominent occiput
+prominent philtrum
+prominent scalp veins
+prominent sternum
+prominent superficial vasculature
+prominent supraorbital ridges
+prominent u wave
+prominent upper incisors
+prominent upper lip
+prominent veins
+prone to bacterial infection
+proportionate short stature
+proptosis
+prosencephaly
+prosopagnosia
+prostaglandinuria
+prostate abnormal
+prostate tumor
+prostatic hyperplasia
+prostatitis
+protanopia
+protein avoidance
+protein casts
+protein intolerance
+protein s deficiency
+proteinemia
+proteinuria
+protocol deviation
+protozoan infection
+protracted diarrhea
+protruding ears
+protruding eyes
+protruding lower lip
+protruding upper lip
+protrusio acetabuli
+protrusion tongue
+protuberant abdomen
+proximal esophageal atresia
+proximal femoral focal deficiency
+proximal muscle weakness
+proximal neurogenic muscle weakness
+proximal radio-ulnar synostosis
+proximal scleroderma
+proximal spinal muscular atrophy
+proximal symphalangism
+proximal tubular acidosis
+proximal tubule dysfunction
+proximal tubule function
+proximally placed thumbs
+pruritus
+psc
+pseudarthrosis
+pseudarthrosis of the radius
+pseudo-torch syndrome
+pseudoainhum
+pseudoaneurysm
+pseudobulbar symptoms
+pseudocoarctation of aorta
+pseudoepiphyses
+pseudoexfoliation
+pseudoexfoliation glaucoma
+pseudohypertriglyceridemia
+pseudohypoaldosteronism
+pseudohypoaldosteronism, type ii
+pseudohypoparathyroid
+pseudohypoparathyroidism
+pseudopapilledema
+pseudophakia
+pseudoscleroderma
+pseudosyndactyly
+psis
+psoriasiform dermatitis
+psoriasiform lesion
+psoriasis
+psoriasis and related disorders
+psoriasis vulgaris
+psychiatric disorders
+psychic auras
+psychomotor deterioration
+psychomotor regression
+psychomotor retardation, mild
+psychomotor retardation, profound
+pterygium
+ptp
+ptr
+ptsd
+puerperal infection
+puffy cheeks
+puffy eyes
+pulmonar embolism
+pulmonary arterial medial hypertrophy
+pulmonary arterial tension
+pulmonary arteriovenous fistula
+pulmonary artery aneurysm
+pulmonary artery dilatation
+pulmonary artery hypoplasia
+pulmonary artery sling
+pulmonary artery stenosis
+pulmonary artery vasoconstriction
+pulmonary atresia
+pulmonary chondroma
+pulmonary embolism
+pulmonary fibrosis
+pulmonary granulomatosis
+pulmonary heart disease
+pulmonary hemangiomas
+pulmonary hemorrhage
+pulmonary lymph
+pulmonary lymphangiectasia
+pulmonary lymphangiomyomatosis
+pulmonary opacity
+pulmonary pneumatocele
+pulmonary sequestration
+pulmonary shunt
+pulmonary stenosis
+pulmonary valve abnormalities
+pulmonary valve defects
+pulmonary veno occlusive disease
+pulmonary venous hypertension
+pulmonary venous occlusion
+pulp canal obliteration
+pulsatile tinnitus
+pulse pressure increased
+pulverulent cataract
+punctal stenosis
+punctate cataract
+punctate corneal epithelial erosions
+punctate corneal opacities
+punctate keratitis
+punctate lenticular opacities
+punding
+pupillary abnormalities
+pure gonadal dysgenesis
+purple urine
+purpura
+purpura, vascular
+pursed lips
+pustules
+pvc
+pvl
+pyelectasis
+pyloric stenosis
+pyoderma
+pyoderma gangrenosum
+pyogenic granuloma
+pyramid signs
+pyramidal cataract
+pyramidal dysfunction
+pyramidal signs
+pyramidal symptoms
+pyramidal syndrome
+pyramidal tract disease
+pyramidal tract function
+pyramidal tract syndrome
+pyridoxine responsive sideroblastic anemia
+pyriform aperture stenosis
+pyruvate dehydrogenase complex deficiency
+pyuria
+quadriceps muscle atrophy
+quadriceps weakness
+quadricuspid aortic valve
+quadriparesis
+quadriplegia, spastic
+quotidian
+raccoon eyes
+rachitic rosary
+radial aplasia
+radial aplasia/hypoplasia
+radial bowing
+radial deviation of the hand
+radial deviation of the thumb
+radial dislocation
+radial dysplasia
+radial location
+radial longitudinal deficiency
+radial luxation
+radial ray hypoplasia
+radial subluxation
+radiocapitellar dislocation
+radioulnar dislocation
+radioulnar synostosis
+radius
+ragged red fibers
+rai
+raised immunoglobulin levels
+rales
+ranula
+rapid course
+rapid neurologic deterioration
+rapidly progressive disorder
+rars
+raspberry tongue
+rat carcinoma
+raynaud phenomenon
+reactive airway disease
+reading ability
+receptive language delay
+rectal abscess
+rectal atresia
+rectal bleeding
+rectal cancer
+rectal fistula
+rectal pain
+rectal perforation
+rectal prolapse
+rectal teratoma
+rectal tumor
+rectocele
+rectoperineal fistula
+rectourethral fistula
+rectovaginal fistula
+recurrent abscess formation
+recurrent aphthous stomatitis
+recurrent aspiration pneumonia
+recurrent bacterial meningitis
+recurrent bacterial skin infections
+recurrent bladder infections
+recurrent bronchiolitis
+recurrent bronchitis
+recurrent bronchopulmonary infections
+recurrent candida infections
+recurrent cerebral hemorrhage
+recurrent chest infections
+recurrent corneal erosion
+recurrent corneal ulcer
+recurrent cyst
+recurrent ear infections
+recurrent encephalopathy
+recurrent epistaxis
+recurrent external ophthalmoplegia
+recurrent fungal infections
+recurrent gastroenteritis
+recurrent gastrointestinal infections
+recurrent meningitis
+recurrent meningococcal disease
+recurrent mycobacterial infections
+recurrent myoglobinuria
+recurrent neisseria infections
+recurrent otitis media
+recurrent parasitic infections
+recurrent patellar dislocation
+recurrent pharyngitis
+recurrent pneumonia
+recurrent pulmonary hemorrhage
+recurrent pulmonary infections
+recurrent pyelonephritis
+recurrent respiratory infections
+recurrent sinopulmonary infections
+recurrent sinus
+recurrent sinus disease
+recurrent sinusitis
+recurrent spontaneous abortion
+recurrent staphylococcal infections
+recurrent staphylococcus aureus infections
+recurrent subcortical infarcts
+recurrent thromboembolic disease
+recurrent thromboembolism
+recurrent thrombosis
+recurrent upper and lower respiratory tract infections
+recurrent venous thrombosis
+recurrent viral infection
+recurrent vulvovaginal candidiasis
+red blood cell casts
+red brown urine
+red cell aplasia
+red desaturation
+red eye
+red face
+red urine
+red/green color vision defect
+reduced abdominal adipose tissue
+reduced amygdala volume
+reduced antigen-specific t cell proliferation
+reduced arm span
+reduced b cell function
+reduced catalase activity
+reduced corneal reflex
+reduced delayed hypersensitivity
+reduced ejection fraction
+reduced erg
+reduced factor ix activity
+reduced factor vii activity
+reduced factor viii activity
+reduced factor xiii activity
+reduced fertility in females
+reduced hemoglobin a
+reduced igg2 levels
+reduced motor nerve conduction velocity
+reduced natural killer cell activity
+reduced nk cell number
+reduced number of t cells
+reduced number of teeth
+reduced protein c activity
+reduced protein s activity
+reduced prothrombin activity
+reduced prothrombin consumption
+reduced systolic function
+reduced tendon reflexes
+reduced thrombin activity
+reduced visual fields
+reduced vital capacity
+reduction in b cell number
+reduction weight
+redundant neck skin
+redundant skin
+reflex tearing
+reflux
+reflux esophagitis
+refractor anemia
+refractory macrocytic anemia
+regional left ventricular wall motion abnormality
+reiter syndrome
+relative afferent pupillary defect
+relative short stature
+relatively large head
+relatively short spine
+renal abnormalities
+renal acidification defect
+renal agenesis/hypoplasia
+renal aminoaciduria
+renal amyloidosis
+renal artery stenosis
+renal atherosclerosis
+renal atrophy
+renal bicarbonate wasting
+renal calcification
+renal calcium wasting
+renal cancer
+renal casts
+renal chloride wasting
+renal colic
+renal cortical adenoma
+renal cortical atrophy
+renal cysts
+renal dialysis
+renal dysfunction
+renal dysplasia
+renal failure in adulthood
+renal fibrosis
+renal genesis
+renal glomerular fibrosis
+renal hamartoma
+renal hematoma
+renal hyperfunction
+renal hyperplasia
+renal hypofunction
+renal hypophosphatemia
+renal interstitial fibrosis
+renal magnesium wasting
+renal malrotation
+renal oncocytoma
+renal pelvic carcinoma
+renal pheochromocytoma
+renal phosphate wasting
+renal potassium wasting
+renal sarcoma
+renal sclerosis
+renal sodium wasting
+renal stone
+renal tubular acidosis
+renal tubular defect
+renal tubular epithelial cell casts
+renal tubular function
+renal tumor
+renal urothelial carcinoma
+renal-hepatic-pancreatic dysplasia
+reninemia
+renovascular hypertension
+repeated pneumothorax
+repeated speech
+repetitions
+repetitive compulsive behavior
+respirator failure
+respiratory abnormalities
+respiratory abnormality
+respiratory acidosis
+respiratory alkalosis
+respiratory complex i deficiency
+respiratory complications
+respiratory depression
+respiratory distress
+respiratory distress syndrome
+respiratory dysfunction
+respiratory failure requiring assisted ventilation
+respiratory infection
+respiratory infections in early life
+respiratory muscle weakness
+respiratory paralysis
+respiratory problems
+respiratory stress
+respiratory tract tumor
+resting tremor
+restless legs
+restricted behavior
+restrictive cardiomyopathy
+restrictive heart failure
+restrictive lung disease
+restrictive ophthalmoplegia
+restrictive respiratory disease
+restrictive ventilator defect
+restrictive ventilatory defect
+restrictive ventricular septal defect
+retained primary teeth
+reticular hyperpigmentation
+reticular pigmentary degeneration
+reticular pigmentation
+reticulate skin pigmentation
+reticulocytopenia
+retina
+retinal abnormalities
+retinal arterial macroaneurysms
+retinal arterial tortuosity
+retinal arteriolar narrowing
+retinal arteriolar occlusion
+retinal arteriolar tortuosity
+retinal arteritis
+retinal astrocytic hamartoma
+retinal atrophy
+retinal calcification
+retinal capillary hemangioma
+retinal cavernous hemangioma
+retinal coloboma
+retinal crystals
+retinal degeneration
+retinal deposits
+retinal detachment
+retinal dysplasia
+retinal dystrophy
+retinal edema
+retinal exudates
+retinal flecks
+retinal fluid
+retinal fold
+retinal generation
+retinal hamartoma
+retinal hemangioblastoma
+retinal hemorrhage
+retinal hole
+retinal hypoplasia
+retinal infarction
+retinal layer separation
+retinal membrane
+retinal nonattachment
+retinal pigment clumping
+retinal pigment degeneration
+retinal pigment epithelial mottling
+retinal striation
+retinal telangiectasia
+retinal thinning
+retinal tumor
+retinal vascular malformations
+retinal vascular tortuosity
+retinal vascularization
+retinal vasculitis
+retinal vein occlusion
+retinoblastoma
+retinopathy of prematurity plus
+retinopathy of prematurity stage
+retinoschisis
+retractions
+retrocerebellar cyst
+retrognathia
+retrograde ejaculation
+retroperitoneal fibrosis
+reverse typical atrial flutter
+reversible renal failure
+rfs
+rha
+rhabdoid predisposition syndrome
+rhabdomyolysis
+rhabdomyolysis with exercise
+rhabdomyoma
+rhabdomyosarcoma
+rhegmatogenous retinal detachment
+rheumatoid arthritis and other inflammatory arthropathies
+rheumatoid factor positive
+rhinitis
+rhizomelic chondrodysplasia punctata
+rhonchi
+rib abnormalities
+rib exostoses
+rib fusion
+rib gap
+rickets
+rickets or osteomalacia
+rieger syndrome
+right aortic arch
+right aortic arch with aberrant left subclavian artery
+right aortic arch with mirror image branching
+right atrial enlargement
+right bundle branch block
+right heart failure
+right to left shunt
+right ventricular abnormality
+right ventricular cardiomyopathy
+right ventricular dilatation
+right ventricular hypertrophy
+right ventricular hypoplasia
+right ventricular outflow obstruction
+rigid
+rigid spine
+rimmed vacuoles
+ring fibers
+ring scotoma
+risk taking
+risus sardonicus
+rmd
+robin sequence
+rod
+rod monochromat
+rop prethreshold
+rop stage
+rop stage 4a
+rop threshold
+rop zone
+rop zone ii
+rosacea
+rosenthal fibres
+rosette-forming glioneuronal tumor
+rosette-forming glioneuronal tumor of the fourth ventricle
+rotatory nystagmus
+rotting teeth
+round face
+rounded shoulders
+rows of eyelashes
+rpe changes
+rudimentary fallopian tubes
+rudimentary vagina
+rupture
+s-shaped palpebral fissures
+saccadic pursuit movements
+saccular abdominal aortic aneurysm
+saccular aneurysm
+saccular aortic arch aneurysm
+saccular descending thoracic aortic aneurysm
+sacral agenesis
+sacral lipoma
+sacral meningocele
+sacral sinus
+sacrococcygeal agenesis
+sacrococcygeal teratoma
+sacroiliac arthritis
+sacroiliitis
+saddle nose
+sagittal craniosynostosis
+salivary gland tumor
+salivary glands
+salmon patch
+salmonella osteomyelitis
+salt craving
+salt wasting
+sandal gap
+sarcoidosis
+sarcoma
+sarcosinemia
+satyr ear
+scaling
+scalp alopecia
+scalp aplasia cutis congenita
+scalp defect
+scalp pain
+scalp sensitivity
+scalp tenderness
+scanning speech
+scaphoid abdomen
+scapular exostoses
+scapular weakness
+scapular winging
+scapulohumeral muscular dystrophy
+scapuloperoneal atrophy
+scar
+schistocytes
+schizencephaly
+schizophrenia and other psychotic disorders
+schmorl nodes
+schneckenbecken dysplasia
+schwannoma
+schwannomatosis
+sciatica
+scintillating scotoma
+scissor bite
+scissoring gait
+scleral rupture
+scleral thickening
+scleritis
+scleritis and episcleritis
+sclerocornea
+sclerocystic ovaries
+sclerodactyly
+scleroderma lung disease
+sclerosis of skull
+sclerosis of skull base
+scoliosis
+screwdriver-shaped incisors
+scrotal hyperpigmentation
+scrotal hypospadias
+scrotal pain
+scrotal pigmentation
+scrotum
+sds
+sea blue histiocytes
+season allergy
+sebaceous adenoma
+sebaceous carcinoma
+seborrheic dermatitis
+seckel syndrome
+second degree atrioventricular block
+second malignant neoplasm
+second thrombocytopenia
+secondary amenorrhea
+secondary cancer
+secondary diabetes mellitus
+secondary exotropia
+secondary growth hormone deficiency
+secondary hyperparathyroid
+secondary hyperparathyroidism
+secondary parathyroidism
+secondary renal insufficiency
+secondary thrombocytopenia
+secretory diarrhea
+secretory iga deficiency
+sector retinitis pigmentosa
+sectoral retinitis pigmentosa
+see saw nystagmus
+segmental demyelination/remyelination
+segmental spinal muscular atrophy
+seizures
+selective tooth agenesis
+self injury
+self neglect
+sellar arachnoid cyst
+semantic dementia
+semilobar holoprosencephaly
+seminoma
+senile cataracts
+senior loken syndrome
+sensor ataxia
+sensorimotor neuropathy
+sensorineural hearing loss, progressive
+sensorineural hearing loss, severe
+sensory ataxia
+sensory ataxic neuropathy
+sensory axonal neuropathy
+sensory esotropia
+sensory exotropia
+sensory neuropathy
+separation insecurity
+sepsis
+sepsis and sirs
+septal defect
+septal deviations/turbinate hypertrophy
+septic arthritis
+septic necrosis
+septic shock
+septo optic dysplasia
+sequelae of cerebrovascular disease
+serositis
+serous ovarian cyst
+serous pericardial effusion
+serous retinal detachment
+serpentine fibula
+serpiginous eruption
+sertoli cell neoplasia
+serum albumin low
+serum chloride decreased
+serum uric acid decreased
+severe adenovirus infection
+severe combined immunodeficiency
+severe conductive hearing impairment
+severe cytomegalovirus infection
+severe epstein barr virus infection
+severe expressive language delay
+severe failure to thrive
+severe global developmental delay
+severe hearing loss
+severe hydrocephalus
+severe hydrops
+severe influenza infection
+severe intrauterine growth retardation
+severe lactic acidosis
+severe limb shortening
+severe periodontitis
+severe photosensitivity
+severe platyspondyly
+severe protein calorie malnutrition
+severe psychomotor retardation
+severe short-limb dwarfism
+severe t-cell immunodeficiency
+severe temper tantrums
+severe viral infection
+severe viral infections
+severe visual impairment
+severely reduced ejection fraction
+sex addiction
+sex reversal
+sex-limited autosomal dominant
+sexual and gender identity disorders
+sexual behavior
+sexual precocious puberty
+sfm
+shagreen patch
+shallow acetabulum
+shallow anterior chamber
+shallow orbits
+sharp
+shawl scrotum
+shawl sign
+shell ear
+shell teeth
+shield chest
+shivering
+short arm
+short attention span
+short bowel
+short clavicle
+short columella
+short corpus callosum
+short dental roots
+short digit
+short distal phalanges
+short ear
+short eyelashes
+short face
+short femoral neck
+short femur
+short fibula
+short fifth fingers
+short fifth metacarpal
+short finger
+short first metacarpal
+short first metatarsal
+short foot
+short for age
+short forearm
+short fourth metacarpals
+short fourth metatarsal
+short hallux
+short hands
+short hard palate
+short humerus
+short iliac bones
+short index fingers
+short limb
+short lingual frenulum
+short long bones
+short mandibular ramus
+short metacarpal
+short metatarsal
+short middle phalanges
+short nail
+short nasal bridge
+short nasal septum
+short neck
+short nose
+short palate
+short palpebral fissures
+short phalanges
+short philtrum
+short pr interval
+short qt
+short qt syndrome
+short radius
+short rib
+short sternum
+short telomere length
+short thorax
+short thumb
+short tibia
+short toe
+short tubular bones of the hand
+short ulna
+short umbilical cord
+short upper lip
+short-limbed dwarfism
+short-rib thoracic dysplasia
+short-trunked dwarfism
+shortened arm
+shortened outer dynein arms
+shortening of all metacarpals
+shortening of the achilles tendon
+shortening of the talar neck
+shortening of the tibia
+shoulder dislocation
+shoulder girdle weakness
+shoulder impact
+shoulder impingement
+shoulder location
+shoulder luxation
+shoulder pain
+shoulder stiffness
+shoulder subluxation
+shoulder weakness
+shuffling gait
+shunt
+shyness
+sialadenitis
+sialic acid storage disease
+sialolithiasis
+sick sinus syndrome
+sickled erythrocytes
+sideroblast anemia
+sideroblastic anemia
+silvery-gray hair
+simian line
+simple and unspecified goiter
+simple ear
+simple febrile seizures
+simple partial seizures
+simplified gyral pattern
+single central incisor
+single umbilical artery
+single ventricle
+single-twin demise
+singleton-merten syndrome
+sinoatrial node disease
+sinus bradycardia
+sinus disease
+sinus tachycardia
+sinus valsalva aneurysm
+sinus venosus defect
+sinusitis
+sirenomelia
+situational syncope
+siv
+six lumbar vertebrae
+skeletal abnormalities
+skeletal dysplasia
+skeletal muscle fibrosis
+skeletal tumor
+skewed maternal x inactivation
+skin adnexal tumor
+skin amyloidosis
+skin bullae
+skin calcification
+skin cancer
+skin cancer (melanoma)
+skin cancer (non-melanoma)
+skin dimple
+skin elasticity
+skin extensibility
+skin fragility
+skin generation
+skin hamartoma
+skin infection
+skin laxity
+skin pigmentation
+skin pit
+skin pits
+skin tumor
+skin ulcers
+skin vasculitis
+skin-colored papule
+skin-picking
+skull asymmetry
+skull defect
+skull symmetry
+slanted palpebral fissures
+sleep apnea
+sleep disorders
+sleep function
+sleep myoclonus
+sleep onset insomnia
+sleep paralysis
+sleep related leg cramps
+sleep related movement disorders
+sleep terrors
+sleep walking
+sleep-interrupting
+sleep-wake cycle disturbance
+sleepiness
+slender build
+slender metacarpals
+slender nose
+slender radius
+slipped capital femoral epiphysis
+sloping forehead
+slow disease progression
+slow eye movements
+slow growing hair
+slow movements
+slow-growing nails
+slow-growing scalp hair
+slurred
+sma
+small adrenal gland
+small anterior fontanelle
+small basal ganglia
+small bowel polyp
+small brainstem
+small carpal bones
+small cerebellum
+small cerebral cortex
+small chest
+small chin
+small clitoris
+small corpus callosum
+small earlobe
+small ears
+small epiphyses
+small eyelid
+small face
+small facial bones
+small femoral heads
+small finger
+small fontanelle
+small for date
+small for gestation age
+small foramen magnum
+small forehead
+small frontal sinuses
+small genitalia
+small hand
+small heart
+small iliac bones
+small iliac wings
+small internal carotid artery
+small intestinal bleeding
+small intestinal dysmotility
+small intestinal motility
+small intestinal polyposis
+small intestinal stenosis
+small intestine carcinoid
+small intestine tumor
+small kidney
+small lens
+small lungs
+small lymph nodes
+small mandibular condyle
+small maxillary lateral incisor
+small midface
+small mouth
+small nail
+small nasal tip
+small nipple
+small nose
+small nostrils
+small parathyroid glands
+small patella
+small pelvis
+small penis
+small pharynx
+small philtrum
+small pituitary gland
+small placenta
+small platelets
+small posterior fossa
+small premaxilla
+small radial head
+small scapulae
+small scrotum
+small sella turcica
+small teeth
+small testis
+small thumbnail
+small thymus
+small thyroid glands
+small toe
+small tongue
+small tooth
+small tooth germ
+small uterus
+small vertebrae
+small vessel vasculitis
+small, conical teeth
+smd
+smith-mccort dysplasia
+smooth muscle antibody positive
+smooth tongue
+sneezing
+snoring
+snout reflex
+social and occupational deterioration
+social communication disorder
+socially inappropriate behavior
+sodium retention
+soft calvaria
+soft skin
+soft teeth
+soft tissue tumor
+solar retinopathy
+solar urticaria
+solitary renal cyst
+solitary splenic abscess
+somatic mosaic
+somatic mosaicism
+somatic mutations
+somatosensory auras
+sore throat
+sost
+sparse anterior scalp hair
+sparse axillary and pubic hair
+sparse body hair
+sparse eyelashes
+sparse facial hair
+sparse hair
+sparse lateral eyebrows
+sparse pubic hair
+sparse scalp hair
+sparse to absent eyebrows
+spasm
+spasmodic dysphonia
+spasmodic torticollis
+spasmus nutans
+spastic
+spastic ataxia
+spastic dysarthria
+spastic gait
+spastic paraparesis
+spastic paraplegia
+spastic paresis
+spastic quadriparesis
+spastic quadriplegic cerebral palsy
+specific anosmia
+specific anti-polysaccharide antibody deficiency
+specific antibody deficiency
+specific granule deficiency
+specific language impairment
+specific learning disability
+speech apraxia
+speech articulation difficulties
+speech disorder
+speech order
+sperm head anomaly
+spermatogenesis maturation arrest
+spermatogenic failure
+spherocytosis
+sphincter disturbances
+sphincter of oddi dysfunction
+sphincter of oddi dyskinesia
+sphincter of oddi function
+spider veins
+spina bifida occulta
+spina bifida occulta at s1
+spinal ataxia
+spinal cord pathology
+spinal cord syndrome
+spinal dysplasia
+spinal fusion
+spinal hemangioblastoma
+spinal instability
+spinal meningeal diverticulum
+spinal meningioma
+spinal muscular atrophy, lower extremity-predominant
+spinal myoclonus
+spinal neurenteric cyst
+spinal neurofibromas
+spinal stenosis
+spinal tumor
+spine malformation
+spirochete infection
+splanchnic vein thrombosis
+splenic abscess
+splenic cyst
+splenic rupture
+splenism
+splenogonadal fusion
+splenomegaly
+split foot
+split hand
+split nail
+split tongue
+split-hand/foot malformation
+spn
+spondyloepimetaphyseal dysplasia
+spondyloepiphyseal dysplasia
+spondylolisthesis
+spondylolisthesis at l5-s1
+spondylolysis
+spondylosis and allied disorders
+spondylosis myelopathy
+spontaneous bruising
+spontaneous hematomas
+spontaneous pain sensation
+spontaneous platelet aggregation
+spontaneous pneumothorax
+spontaneous rupture of esophagus
+spots
+spotty pigmentation
+sprains strains
+spreading of the fingers
+squamation
+squamous cell carcinoma
+squamous papilloma
+square face
+square iliac bones
+square wave jerks
+ssm
+staggering gait
+standing instability
+stapes ankylosis
+staphylococcus infections
+staphyloma
+staring eyes
+stationary
+status epilepticus
+steatocystoma multiplex
+steatorrhea
+stellate iris
+stenosis of the eustachian tube
+stepping
+stercoral ulcer
+stereognosis
+stereotypes
+stereotypic motor behaviors
+sterile arthritis
+steroid-resistant nephrotic syndrome
+sthenia
+stickler syndrome
+stiffness of joint
+stigmatism
+stippled epiphyses
+stippled pigmentation
+stomach churning
+stomatitis
+stomatitis and mucositis
+stomatocytosis
+stooped posture
+storage in hepatocytes
+storm thyroid
+strabismus
+straddling atrioventricular valve
+straight clavicles
+straight eyebrows
+strawberry tongue
+streak ovaries
+streptococcus infection
+stress disorder
+stress fracture
+stretchable skin
+stria
+striatonigral degeneration
+stricture urethral
+stridor
+stroke-like episodes
+structural foot deformity
+struvite kidney stones
+stuttering
+sty
+sub-ilm hemorrhage
+sub-rpe deposits
+subaortic stenosis
+subarachnoid hemorrhage
+subcapsular cataract
+subconjunctival hemorrhage
+subcoronal hypospadias
+subcortical cerebral atrophy
+subcortical dementia
+subcutaneous hemorrhage
+subcutaneous lipoma
+subcutaneous neurofibroma
+subependymal cysts
+subependymal nodules
+subepithelial corneal opacities
+subfoveal choroidal neovascularization
+subglottic stenosis
+subhyaloid hemorrhage
+subjective visual disturbances
+submacular hemorrhage
+submucous cleft palate
+submucous clefting
+subperiosteal bone resorption
+subpleural honeycombing
+subpleural interstitial thickening
+subretinal deposits
+subretinal exudate
+subretinal fluid
+subretinal hemorrhage
+subungual fibroma
+subungual hyperkeratosis
+subungual keratosis
+suck reflex
+sudanophilic lesion
+sudden cardiac death
+sudden central visual loss
+sudden death
+sudden decrease in vision
+sudden loss of muscle tone
+sudden loss of visual acuity
+sudomotor sympathetic dysfunction
+suicidal ideation
+suicidal ideation or attempt
+suicide or self-inflicted injury
+sulfite oxidase deficiency
+sunken cheeks
+sunset eye
+superficial corneal opacities
+superficial keratitis
+superficial perivascular inflammatory infiltrate
+superficial thrombophlebitis
+superior mesenteric aneurysm
+superior oblique muscle underaction
+superior oblique palsy
+superior rectus muscle overaction
+superior rectus muscle underaction
+superior vena cava syndrome
+supernumerary maxillary incisor
+supernumerary nipples
+supernumerary nostril
+supernumerary vertebrae
+suppurative cholangitis
+supracardiac total anomalous pulmonary venous connection
+supranuclear gaze palsy
+supranuclear ophthalmoplegia
+suprascapular nerve entrapment
+suprasellar arachnoid cyst
+supratentorial atrophy
+supratentorial tumor
+supravalvular aortic stenosis
+supravalvular mitral ring
+supraventricular tachyarrhythmias
+supraventricular tachycardia
+susceptibility to chickenpox
+susceptibility to herpesvirus
+susceptibility to infection
+sutural bones
+sutural cataract
+svd
+sweat
+sweating function
+sweating, decreased
+sweating, increased
+sweet craving
+swelling
+swelling of proximal interphalangeal joints
+sydney crease
+symblepharon
+symbolic function
+symmetric chest
+symmetric ears
+symmetric growth
+symmetric lesions of the basal ganglia
+symmetric overgrowth
+symmetric septal hypertrophy
+symmetric ventricles
+symmetry of head
+symmetry of the breasts
+symmetry of the mandible
+symmetry of the maxilla
+symphalangism of the hand
+symptomatic hyperammonemia
+symptomatic menopause
+symptomatic seizures
+syncope
+syndactyly
+syndactyly of fingers
+syndactyly of second and third toes
+syndactyly of toes
+syndactyly of toes 4 and 5
+syndrome zollinger ellison
+syndrome, rubinstein
+syndromic diarrhea
+synergia
+synophrys
+synotia
+synovial chondromatosis of the elbow
+synovial hypertrophy
+synovitis
+syringes
+syringofibroadenoma
+system hypertension
+system lupus erythematosus
+system sclerosis
+systemic inflammatory response syndrome (sirs)
+systemic sclerosis
+t cell dysfunction
+t wave alternans
+t-cell all
+t-cell function
+t-cell lymphoma/leukemia
+t-shaped uterus
+t-wave abnormalities
+t-wave inversion in the right precordial leads
+tactile agnosia
+tag
+talipes
+talon cusp
+tao
+tapering fingers
+tardive dyskinesia
+tarsal coalition
+tarsal osteolysis
+tarsus valgus
+taurodontism
+tca
+tcd
+tcs
+tearing eye
+teeth unerupted
+telangiectasia
+telangiectasia macularis eruptiva perstans
+telangiectasia of the lips
+telangiectasia of the skin
+telecanthus
+telogen effluvium
+temperature instability
+temporal cortical atrophy
+temporal hemianopia
+temporal hollowing
+temporal narrowing
+temporal optic disc pallor
+temporal pattern
+temporal skin defect
+temporomandibular ankylosis
+temporomandibular arthritis
+temporomandibular joint abnormalities
+temporomandibular joint clicking
+tender
+tendinitis
+tendon rupture
+tendon xanthomas
+tenesmus
+tensions
+tented mouth
+tented upper lip
+teratoma
+term delivery
+term intraventricular hemorrhage
+term pregnancy
+terminal tremor
+tertiary hyperparathyroidism
+tessier number 10 facial cleft
+testes
+testicular
+testicular abscess
+testicular adrenal rest tumor
+testicular atrophy
+testicular azoospermia
+testicular cancer
+testicular dysgenesis
+testicular fibrosis
+testicular function
+testicular hypofunction
+testicular lipomatosis
+testicular mesothelioma
+testicular microlithiasis
+testicular teratoma
+testicular torsion
+testicular tumor
+testis
+tetany
+tetra-amelia
+tetralogy of fallot with absent pulmonary valve
+tetralogy of fallot with pulmonary atresia
+tetralogy of fallot with pulmonary atresia and major aortopulmonary collateral arteries
+tetralogy of fallot with pulmonary stenosis
+tetraphocomelia
+tetraplegia
+thalamic arteriovenous malformation
+thalamic calcification
+thalamic edema
+thalamic hemorrhage
+thenar hypoplasia
+thenar muscle atrophy
+thenar muscle weakness
+therapeutic abortion
+therosclerosis
+thi
+thiamine-responsive megaloblastic anemia
+thick alveolar ridges
+thick eyelashes
+thick hair
+thick helix
+thick skin
+thickened ears
+thickened superior cerebellar peduncle
+thickening of glomerular basement membrane
+thickening of the scalp
+thigh muscle atrophy
+thin clavicles
+thin cortex
+thin dental enamel
+thin eyebrows
+thin face
+thin fingers
+thin glomerular basement membrane
+thin hair
+thin long bones
+thin lower lip
+thin nail
+thin nose
+thin philtrum
+thin ribs
+thin skin
+thin upper lip
+thin, sparse hair
+thin-cap fibroatheroma
+thinness
+third crus
+third heart sound
+third nerve palsy
+third-degree microtia
+thoracic aorta calcification
+thoracic aortic aneurysm
+thoracic dysplasia
+thoracic ectopia cordis
+thoracic hemivertebrae
+thoracic kyphoscoliosis
+thoracic kyphosis
+thoracic scoliosis
+thoracoabdominal ectopia cordis
+thoracoabdominal wall defect
+thoracolumbar kyphoscoliosis
+thoracolumbar kyphosis
+thoracolumbar scoliosis
+threatened preterm labor
+three m syndrome
+throat swelling
+thrombin iii deficiency
+thrombocytopathy
+thrombocytopenia
+thromboembolic stroke
+thromboembolism
+thrombophilia
+thrombophlebitis
+thrombotic microangiopathy
+thrust tongue
+thumb deformity
+thumb polydactyly
+thunderclap headache
+thymic disorder
+thymic hypoplasia or aplasia
+thymoma
+thymus abnormality
+thymus hypoplasia
+thymus tumor
+thyroglossal cyst
+thyroid abnormality
+thyroid absence
+thyroid adenoma
+thyroid agenesis
+thyroid aplasia
+thyroid c cell hyperplasia
+thyroid cyst
+thyroid disease
+thyroid dysfunction
+thyroid dysgenesis
+thyroid follicular hyperplasia
+thyroid hemiagenesis
+thyroid hormone resistance
+thyroid hypoplasia
+thyroid multinodular goiter
+thyroid neoplasia
+thyroid nodule
+thyroidal hypothyroidism
+thyroidism
+thyroiditis
+thyrotoxic exophthalmos
+thyrotoxic periodic paralysis
+tibial pseudoarthrosis
+tibial spur
+tibial torsion
+tibiofibular diastasis
+tics
+tics and stuttering
+tics vocal
+tiger tail banding
+tight skin
+tinea
+tingling
+tinnitus
+tired easily
+tis
+tmd
+toe contractures
+toe dactylitis
+toe dislocation
+toe pain
+toe stiffness
+toe walking
+tof
+tomacula
+tongue atrophy
+tongue dystonia
+tongue edema
+tongue fasciculations
+tongue lipoma
+tongue nodules
+tongue pain
+tongue squamous cell carcinoma
+tongue stiffness
+tonic movements
+tonic pupil
+tonic seizures
+tonicity
+tonsillar hypertrophy
+tonsillitis
+tooth agenesis
+tooth eruption
+tooth eruption disturbances
+tooth genesis
+tooth in the midline
+tooth size discrepancy
+tooth within a tooth
+topic dermatitis
+topoisomerase i antibody positivity
+torsades de pointes
+torsion
+torsion dystonia
+torsion of the penis
+torticollis
+torticollis, congenital
+tortuosity of conjunctival vessels
+torus palatinus
+total alopecia
+total anosmia
+total cataract
+total colon aganglionosis
+total lipodystrophy
+townes syndrome
+toxic effect of carbon monoxide
+toxic effect of venom
+toxic erythema
+toxic multinodular goiter
+tpt
+trachea
+trachea tumor
+tracheal atresia
+tracheal calcification
+tracheal diverticulum
+tracheal stenosis
+tracheobronchial anomalies
+tracheobronchomalacia
+tracheoesophageal fistula
+tracheomalacia
+tracheomegaly
+tracheostomy complications
+traction retinal detachment
+transferrinemia
+transfusion, twin
+transient erythroblastopenia
+transient global amnesia
+transient hearing impairment
+transient hyperlipidemia
+transient hypophosphatemia
+transient ischemic attack
+transient leukemia of down syndrome
+transient neonatal diabetes mellitus
+transient nephrotic syndrome
+transient psychotic episodes
+transient pulmonary infiltrates
+transient unilateral blurred vision
+transition cell carcinoma of the bladder
+translucent skin
+transposition of great arteries
+transthyretin cardiac amyloidosis
+transverse maxillary deficiency
+transverse vaginal septum
+trauma amputation
+trauma arthropathy
+traumatic amputation
+traumatic arthritis
+traumatic cataract
+traumatic injury
+trembling chin
+tremor
+triad syndrome
+triangular epiphyses
+triangular face
+triangular head shape
+triangular mouth
+triangular tongue
+triatriatum
+triatriatum dextrum
+triceps weakness
+trichiasis
+trichilemmoma
+trichodysplasia
+trichoepithelioma
+trichomonas
+trichorrhexis nodosa
+trichothiodystrophy
+tricuspid atresia
+tricuspid regurgitation
+tricuspid valve dysplasia
+tricuspid valve hypoplasia
+tricuspid valve prolapse
+trident hand
+trifascicular block
+trigger finger
+triggered by cold
+triggered by dehydration
+triggered by emotion
+triggered by excitement
+triggered by fasting
+triggered by fever
+triggered by heat
+triggered by high-fat diet
+triggered by hydration
+triggered by hyperventilation
+triggered by immunization
+triggered by physical exercise
+triggered by physical trauma
+triggered by pregnancy
+triggered by sleep deprivation
+triggered by smoking
+triggered by sound
+triggered by startle
+triggered by stress
+triggered by sudden movement
+triggered by vestibular stimulation
+trigonocephaly
+trimethylaminuria
+trismus
+trophic changes
+trophic limb changes
+trophoblastic tumor
+trs
+true anophthalmia
+true denticles
+truncal ataxia
+truncal titubation
+tryptophanuria
+tshr defect
+ttm
+ttp
+tuberous xanthomas
+tubular
+tubular atrophy
+tubular basement membrane disintegration
+tubular necrosis
+tubular proteinuria
+tubulointerstitial scarring
+tufted hairs
+tumor of breast
+tumor of epididymis
+tumor of the paranasal sinuses
+tumors of striated muscle
+tumour, malignant
+tunnel vision
+turner syndrome
+turribrachycephaly
+twitch
+tympanic membrane inflammation
+tympanic membrane perforation
+type 1 diabetes
+type 1 muscle fiber atrophy
+type 1 muscle fiber predominance
+type 1 truncus arteriosus
+type 2 fiber atrophy
+type 2 truncus arteriosus
+type 3 truncus arteriosus
+type a aortic dissection
+type a1 brachydactyly
+type b aortic dissection
+type iii lissencephaly
+type iv truncus arteriosus
+typical atrial flutter
+typical elliptocytosis
+typical pulmonary carcinoid tumor
+typical scarring
+tyrosinemia
+u wave inversion
+ulcer
+ulcerative colitis
+ulcerative colitis (chronic)
+ullrich congenital muscular dystrophy
+ulnar bowing
+ulnar claw
+ulnar deviation of the hand
+ulnar deviation of the wrist
+ulnar fractures
+ulnar hypoplasia
+ulnohumeral dislocation
+umbilical cord cyst
+umbilical cord hematoma
+umbilical hernia
+umbilical vein varix
+unable to walk
+unbalanced atrioventricular septal defect
+uncombable hair
+unconjugated bilirubinemia
+unconjugated hyperbilirubinemia
+uncontrolled eye movements
+under breathing
+underdeveloped state
+undergrowth
+unerupted permanent teeth
+unexplained fever
+ungual fibromas
+unguarded tricuspid valve
+unicoronal craniosynostosis
+unicoronal synostosis
+unicuspid aortic valve
+unilateral absence of pectoralis major muscle
+unilateral breast hypoplasia
+unilateral cleft lip
+unilateral cleft palate
+unilateral clonic seizures
+unilateral conductive hearing impairment
+unilateral coronal craniosynostosis
+unilateral cryptorchidism
+unilateral deafness
+unilateral facial palsy
+unilateral facial paralysis
+unilateral lambdoid craniosynostosis
+unilateral microphthalmos
+unilateral polymicrogyria
+unilateral ptosis
+unilateral pulmonary agenesis
+unilateral radial aplasia
+unilateral renal atrophy
+unilateral renal dysplasia
+unilateral renal hypoplasia
+unilateral strabismus
+unilateral vertebral artery hypoplasia
+unilateral vestibular schwannoma
+unilateral vocal cord paralysis
+unilateral vocal cord paresis
+uninodular goiter
+unroofed coronary sinus
+unusual dermatoglyphics
+upbeat nystagmus
+upgaze palsy
+upper airway obstruction
+upper eyelid coloboma
+upper eyelid edema
+upper eyelid entropion
+upper eyelid retraction
+upper limb amyotrophy
+upper limb asymmetry
+upper limb dysmetria
+upper limb hypertonia
+upper limb muscle hypertrophy
+upper limb muscle weakness
+upper limb peromelia
+upper limb phocomelia
+upper limb postural tremor
+upper limb spasticity
+upper motor neuron dysfunction
+upper motor neuron function
+upslanting palpebral fissures
+upswept frontal hairline
+upturned mouth
+urachal cyst
+urachal fistula
+urachus:
+uraciluria
+ureter agenesis
+ureter anomalies
+ureter dilatation
+ureter reflux
+ureteral agenesis
+ureteral anomalies
+ureteral atresia
+ureteral dilatation
+ureteral obstruction
+ureteral plication
+ureteral stenosis
+ureteral stone
+ureteral triplication
+ureteral tumor
+ureterocele
+ureteropelvic obstruction
+ureterovesical junction obstruction
+ureterovesical stenosis
+urethral atresia
+urethral discharge
+urethral diverticulum
+urethral fistula
+urethral obstruction
+urethral syndrome
+urethral valves
+urethritis
+urethrovaginal fistula
+urgency frequency syndrome
+uric acid stones
+uricaemia
+uricosuria
+urinary calculus
+urinary excretion of sialylated oligosaccharides
+urinary glycosaminoglycan excretion
+urinary incontinence
+urinary infection
+urinary obstruction
+urinary retention
+urinary tract abnormalities
+urinary tract tumor
+urinary urgency
+urine amino acids
+urine concentration defect
+urine glucose
+urofacial syndrome
+urogenital fistula
+urogenital sinus anomaly
+urticaria
+urticarial plaque
+usher syndrome
+uterine absence
+uterine arteriovenous malformation
+uterine cancer
+uterine growth restriction
+uterine leiomyosarcoma
+uterine onset
+uterine prolapse
+uterine rupture
+uterine synechiae
+uterine tumor
+uterus didelphys
+uv sensitive syndrome
+uveitis
+v-sign
+vacuolated lymphocytes
+vacuum assisted vaginal delivery
+vacuum extraction
+vacuum traction
+vagal paraganglioma
+vaginal adenosis
+vaginal atresia
+vaginal clear cell adenocarcinoma
+vaginal dryness
+vaginal fistula
+vaginal hypoplasia
+vaginal itching
+vaginal malformation
+vaginal neoplasia
+vaginal stricture
+vaginal tumor
+vaginismus
+vaginitis
+valgus
+valgus foot deformity
+valvular abnormality
+valvular disease
+van maldergem syndrome
+variable severity
+variation in muscle fiber size
+varicella
+varices
+varicocele
+vasa previa
+vascular calcification
+vascular dementia
+vascular malformation of the lip
+vascular necrosis
+vascular rings
+vascular spaces
+vascular tortuosity
+vascular tumor
+vascularization of the iris
+vasculitis
+vasovagal syncope
+vegetative state
+vein of galen malformation
+velamentous cord insertion
+velopharyngeal dysfunction
+velopharyngeal function
+velvet skin
+velvety skin
+venosus atrial septal defect
+venous insufficiency
+venous stenosis
+venous thrombosis
+ventouse delivery
+ventricular aneurysm
+ventricular arachnoid cyst
+ventricular arrhythmias
+ventricular cysts
+ventricular dilatation
+ventricular diverticulum
+ventricular escape rhythm
+ventricular fibrillation
+ventricular fibrillation and flutter
+ventricular flutter
+ventricular hypertrophy
+ventricular inversion
+ventricular noncompaction cardiomyopathy
+ventricular septal aneurysm
+ventricular septal defect
+ventricular tachycardia
+verbal apraxia
+verruciform xanthoma
+verrucous papule
+versive seizures
+vertebral anomalies
+vertebral artery hypoplasia
+vertebral body fusion
+vertebral body sclerosis
+vertebral clefts
+vertebral collapse
+vertebral disc degeneration
+vertebral hyperostosis
+vertebral hypoplasia
+vertebral segmentation defects
+vertebral wedging
+vertebrobasilar dolichoectasia
+vertical gaze palsy
+vertical nystagmus
+vertical supranuclear gaze palsy
+very long chain fatty acid accumulation
+very poor growth
+vesicle
+vesicoureteral reflux
+vesicovaginal fistula
+vestibular abnormalities
+vestibular ataxia
+vestibular dysfunction
+vestibular fistula
+vestibular function
+vestibular hypofunction
+vestibular nystagmus
+vestibular schwann
+vestibular schwannoma
+vibratory urticaria
+villonodular synovitis
+villous atrophy
+violaceous plaque
+violent behavior
+viral enteritis
+viral hepatitis
+viral pneumonia
+visceromegaly
+visual acuity no light perception
+visual agnosia
+visual disturbances
+visual field loss
+visual hallucinations
+visual loss
+vitamin a deficiency
+vitamin b12 deficiency
+vitamin b6 deficiency
+vitamin c deficiency
+vitamin d deficiency
+vitamin deficiency
+vitamin e deficiency
+vitamin k deficiency
+vitelliform macular lesions
+vitiligo
+vitreomacular traction
+vitreoretinal degeneration
+vitreoretinopathy
+vitreous debris
+vitreous detachment
+vitreous haze
+vitreous hemorrhage
+vitreous inflammatory cells
+vitreous snowballs
+vitreous strands
+vitreous veils
+vitritis
+vivid hallucinations
+vma
+vocal cord dysfunction
+vocal cord function
+vocal cord paralysis
+vocal cord paresis
+vocal fold bowing
+vocal tremor
+voice abnormality
+volume overload
+volvulus
+vomiting
+vomiting blood
+von meyenburg complexes
+von willebrand
+vpi
+vulvar melanoma
+vulvar pain
+vulvar squamous cell carcinoma
+vulvar tumor
+waardenburg syndrome
+waddling gait
+wagner disease
+walking on tiptoes
+warfarin-induced skin necrosis
+warts
+wasting of the tongue
+water eyes
+water retention
+wavy ribs
+wax casts
+weak cry
+weakness of the intrinsic hand muscles
+web neck
+webbed penis
+wedged vertebrae
+weight less than 3rd centile
+wenckebach
+west syndrome
+wheezing
+whistling appearance
+white blood cell casts
+white forelock
+white hair
+white lesion of the oral mucosa
+white matter abnormalities
+white matter hyperintensities
+white matter intensity
+white matter neuronal heterotopia
+white patch
+whitehead
+wide based gait
+wide chin
+wide columella
+wide face
+wide femoral neck
+wide foot
+wide forehead
+wide head
+wide jaw
+wide nasal base
+wide nasal dorsum
+wide neck
+wide nose
+wide pubic symphysis
+wide radius
+wide rib
+wide ribs
+wide skull
+wide thorax
+wide uvula
+widely spaced nipples
+widely spaced teeth
+wilms tumor
+with the rule astigmatism
+wolff-parkinson-white syndrome
+woolly hair
+woolly scalp hair
+wormian bones
+worms
+wrinkled palms and soles
+wrinkles
+wrist bones
+wrist contracture
+wrist dislocation
+wrist pain
+wrist stiffness
+wrist swelling
+writers cramp
+x- linked recessive
+x-linked dominant
+x-linked inheritance
+xanthine oxidase deficiency
+xanthine stones
+xanthinuria
+xanthogranuloma
+xanthoma
+xdp
+xerosis
+xy female gonadal dysgenesis
+y-linked inheritance
+y-shaped metacarpals
+yellow nails
+yellow nodule
+yellow papule
+young adult onset
+zebra bodies
+zincemia
+zoospermia
+zoster

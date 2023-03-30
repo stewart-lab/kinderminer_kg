@@ -1,0 +1,1 @@
+zip -r ./spans-model_best.zip ./model/model-best

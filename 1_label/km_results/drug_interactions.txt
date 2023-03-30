@@ -1,0 +1,62 @@
+# https://www.aafp.org/pubs/afp/issues/2000/0315/p1745.html
+Warfarin/Coumadin	ciprofloxacin/Cipro
+Warfarin/Coumadin	clarithromycin/Biaxin
+Warfarin/Coumadin	erythromycin 
+Warfarin/Coumadin	metronidazole/Flagyl
+Warfarin/Coumadin	trimethoprim-sulfamethoxazole/Bactrim/Septra
+Warfarin/Coumadin	acetaminophen
+Warfarin/Coumadin	acetylsalicylic acid/aspirin
+Warfarin/Coumadin	nsaid
+Fluoroquinolone	divalent cations
+Fluoroquinolone	trivalent cations
+Fluoroquinolone	sucralfate/Carafate
+Carbamazepine/Tegretol	cimetidine/Tagamet
+Carbamazepine/Tegretol	erythromycin
+Carbamazepine/Tegretol	clarithromycin/Biaxin
+Carbamazepine/Tegretol	fluconazole/Diflucan
+Phenytoin/Dilantin	cimetidine/Tagamet
+Phenytoin/Dilantin	erythromycin
+Phenytoin/Dilantin	clarithromycin/Biaxin
+Phenytoin/Dilantin	fluconazole/Diflucan
+Phenobarbital	cimetidine/Tagamet
+Phenobarbital	erythromycin
+Phenobarbital	clarithromycin/Biaxin
+Phenobarbital	fluconazole/Diflucan
+Phenytoin/Dilantin	rifampin/Rifadin
+Phenobarbital	rifampin/Rifadin
+Carbamazepine/Tegretol	rifampin/Rifadin
+lithium compounds/lithium salts	nsaid
+lithium compounds/lithium salts	diuretic
+oral contraceptive	rifampin/Rifadin
+oral contraceptive	antibiotics
+oral contraceptive	troglitazone/Rezulin
+Cisapride/Propulsid)	erythromycin
+Cisapride/Propulsid)	clarithromycin/Biaxin
+Cisapride/Propulsid)	fluconazole/Diflucan
+Cisapride/Propulsid)	itraconazole/Sporanox
+Cisapride/Propulsid)	ketoconazole/Nizoral
+Cisapride/Propulsid)	nefazodone/Serzone
+Cisapride/Propulsid)	indinavir/Crixivan
+Cisapride/Propulsid)	ritonavir/Norvir
+Cisapride/Propulsid)	antiarrhythmic agents
+Cisapride/Propulsid)	tricyclic antidepressants
+Cisapride/Propulsid)	phenothiazine
+Sildenafil/Viagra	nitrates
+Sildenafil/Viagra	cimetidine/Tagamet
+Sildenafil/Viagra	erythromycin
+Sildenafil/Viagra	itraconazole/Sporanox
+Sildenafil/Viagra	ketoconazole/Nizoral
+HMG-CoA reductase inhibitor	niacin
+HMG-CoA reductase inhibitor	gemfibrozil/Lopid
+HMG-CoA reductase inhibitor	erythromycin
+HMG-CoA reductase inhibitor	itraconazole/Sporanox
+Lovastatin/Mevacor	Warfarin/Coumadin
+ssri	tricyclic antidepressants
+ssri	selegiline/Eldepryl
+ssri	monoamine oxidase inhibitor
+ssri	tramadol/Ultram
+ssri	St. John's wort
+ssri	naratriptan/Amerge
+ssri	rizatriptan/Mazalt
+ssri	sumatriptan/Imitrex
+ssri	zolmitriptan/Zomig

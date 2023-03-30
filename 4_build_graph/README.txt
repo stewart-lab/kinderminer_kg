@@ -1,0 +1,1 @@
+this folder contains code to populate a neo4j server with entities (nodes) and relationships (edges) from relationships extracted from PubMed abstracts. example files are provided in ./rels . In reality, there are 595 files that contain relationships, not the small subset saved here.

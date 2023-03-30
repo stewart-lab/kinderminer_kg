@@ -1,0 +1,1 @@
+prodigy spans_rel_custom.review pubmed_ner_rel_sentences ../ner_scripts/model/model-best ../labeled_data/spans_rel_labeled_sentencized.jsonl --label ACTIVATES,INHIBITS,REGULATES,POS_ASSOCIATION,NEG_ASSOCIATION,COREF,BINDS,DRUG_INTERACTION_WITH,TREATS,MUTATION_AFFECTS --span-label GGP,CONDITION,CHEMICAL,BIO_PROCESS,DRUG --wrap -F spans_rel_custom.py

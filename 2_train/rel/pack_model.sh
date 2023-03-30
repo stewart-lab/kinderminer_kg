@@ -1,0 +1,1 @@
+zip -r ./rel-model_best.zip ./training/model-best/

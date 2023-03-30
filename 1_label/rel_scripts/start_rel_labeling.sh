@@ -1,0 +1,1 @@
+prodigy spans_rel_custom pubmed_ner_rel_sentences ../../extract/models/spans/model-best ../unlabeled_data/unlabeled_training_data.jsonl --label ACTIVATES,INHIBITS,REGULATES,POS_ASSOCIATION,NEG_ASSOCIATION,COREF,BINDS,DRUG_INTERACTION_WITH,TREATS,MUTATION_AFFECTS --span-label GGP,CONDITION,CHEMICAL,BIO_PROCESS,DRUG --wrap -F spans_rel_custom.py
