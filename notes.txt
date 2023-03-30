@@ -1,0 +1,5 @@
+GGP - gene or gene product, including peptide hormones; not including individual amino acids
+DRUG - exogenous chemical used to treat a condition; can be GGPs such as hormones. includes devices such as hylan g-f 20. does not include medical procedures such as weight loss, exercise, or surgeries. includes chemicals administered to biological organisms in a non-treatment context (e.g., environmental toxins).
+CHEMICAL - small molecules that are not GGPs or drugs (e.g., metabolites and cofactors). includes drugs in a non-biological (e.g., organic synthesis) context.
+CONDITION - disease or negative phenotype
+BIO_PROCESS - physiological process; can be pathophysiological
